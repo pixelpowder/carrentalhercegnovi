@@ -9,7 +9,7 @@ const siteConfig = {
   hero: {
     headline: "Budva Car Hire — Drive the Riviera",
     subheadline: "Rent a car in Budva from Tivat Airport (22 km). Beaches, Old Town, Sveti Stefan — all within reach.",
-    image: "/img/pexels-3802510.jpg",
+    image: "/img/hero-budva.webp",
   },
 
   cars: [
@@ -153,9 +153,9 @@ const siteConfig = {
   ],
 
   testimonials: [
-    { name: "James Harrison", location: "London, UK", text: "Collected a clean Octavia at Tivat Airport, drove straight to Budva in 20 minutes. Explored the whole riviera from Jaz Beach to Petrovac. Great service.", rating: 5, avatar: "/img/pexels-220453.jpg" },
-    { name: "Claudia Braun", location: "Berlin, Germany", text: "Stayed in Budva and rented a car for the week. Made it to Sveti Stefan, Kotor, and Lovcen. The cross-border paperwork for Croatia was included. Highly recommend.", rating: 5, avatar: "/img/pexels-774909.jpg" },
-    { name: "Sophie & Matt", location: "Melbourne, Australia", text: "The Jeep was perfect for the mountain roads above Budva. We drove up to Lovcen and down to Petrovac every day. Best holiday car hire we've used.", rating: 5, avatar: "/img/pexels-1222271.jpg" },
+    { name: "James Harrison", location: "London, UK", text: "Collected a clean Octavia at Tivat Airport, drove straight to Budva in 20 minutes. Explored the whole riviera from Jaz Beach to Petrovac. Great service.", rating: 5, avatar: "/img/avatar-1.webp" },
+    { name: "Claudia Braun", location: "Berlin, Germany", text: "Stayed in Budva and rented a car for the week. Made it to Sveti Stefan, Kotor, and Lovcen. The cross-border paperwork for Croatia was included. Highly recommend.", rating: 5, avatar: "/img/avatar-2.webp" },
+    { name: "Sophie & Matt", location: "Melbourne, Australia", text: "The Jeep was perfect for the mountain roads above Budva. We drove up to Lovcen and down to Petrovac every day. Best holiday car hire we've used.", rating: 5, avatar: "/img/avatar-3.webp" },
   ],
 
   faq: [
@@ -186,56 +186,56 @@ const siteConfig = {
       slug: "tivat-airport",
       tag: "22 km Away",
       desc: "The closest airport to Budva. We meet you at arrivals.",
-      image: "/img/pexels-16099591.jpg",
+      image: "/img/tivat-airport.webp",
     },
     {
       name: "Kotor",
       slug: "kotor",
       tag: "UNESCO Site",
       desc: "Medieval walled city, 25 km from Budva.",
-      image: "/img/pexels-5668157.jpg",
+      image: "/img/kotor-nearby.webp",
     },
     {
       name: "Budva",
       slug: "budva",
       tag: "Home Base",
       desc: "Old Town, beaches, and the heart of the riviera.",
-      image: "/img/pexels-26753897.jpg",
+      image: "/img/budva-old-town.webp",
     },
     {
       name: "Podgorica Airport",
       slug: "podgorica-airport",
       tag: "Capital Hub",
       desc: "Montenegro's main international airport, 65 km away.",
-      image: "/img/pexels-9526645.jpg",
+      image: "/img/sveti-stefan.webp",
     },
     {
       name: "Tivat",
       slug: "tivat",
       tag: "Marina Town",
       desc: "Porto Montenegro and stunning Boka Bay.",
-      image: "/img/pexels-6216512.jpg",
+      image: "/img/becici-beach.webp",
     },
     {
       name: "Perast",
       slug: "perast",
       tag: "Hidden Gem",
       desc: "Baroque village on the Bay of Kotor.",
-      image: "/img/pexels-29904099.jpg",
+      image: "/img/jaz-beach.webp",
     },
     {
       name: "Dubrovnik Airport",
       slug: "dubrovnik-airport",
       tag: "Cross-Border",
       desc: "Fly into Dubrovnik, drive to Budva.",
-      image: "/img/pexels-30006498.jpg",
+      image: "/img/petrovac-town.webp",
     },
     {
       name: "Podgorica",
       slug: "podgorica",
       tag: "Capital City",
       desc: "Montenegro's modern capital — culture and commerce.",
-      image: "/img/pexels-28674522.jpg",
+      image: "/img/budva-riviera.webp",
     },
   ],
 };
