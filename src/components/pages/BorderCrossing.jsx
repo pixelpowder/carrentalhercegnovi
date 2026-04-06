@@ -4,11 +4,11 @@ import ContentPage from '../../ContentPage';
 export default function BorderCrossing() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("border-crossing.title")} subtitle={t("border-crossing.subtitle")} description={t("border-crossing.seoDesc")} image="/img/montenegro-driving.webp">
+    <ContentPage title={t("border-crossing.title")} subtitle={t("border-crossing.subtitle")} description={t("border-crossing.seoDesc")} image="/img/belgrade-cityscape.webp">
       <h2>{t('borderCrossingBody.h1')}</h2>
       <p>{t('borderCrossingBody.p1')}</p>
 
-      <img src="/img/montenegro-driving.webp" alt="Montenegro border road" loading="lazy" />
+      <img src="/img/belgrade-cityscape.webp" alt="Belgrade cityscape with St Mark's Church" loading="lazy" />
 
       <h2>{t('borderCrossingBody.greenCardTitle')}</h2>
       <p>{t('borderCrossingBody.greenCardText')}</p>
@@ -48,7 +48,7 @@ export default function BorderCrossing() {
       <h3>{t('borderCrossingBody.kosovoTitle')}</h3>
       <p>{t('borderCrossingBody.kosovoText')}</p>
 
-      <img src="/img/montenegro-driving.webp" alt="Adriatic coastal drive" loading="lazy" />
+      <img src="/img/mostar-bridge.webp" alt="Stari Most bridge in Mostar, Bosnia" loading="lazy" />
 
       <h2>{t('borderCrossingBody.tipsTitle')}</h2>
       <ul>

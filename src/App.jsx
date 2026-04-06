@@ -432,7 +432,7 @@ function Fleet() {
 
     const obs = new IntersectionObserver(([entry]) => {
       if (entry.isIntersecting) {
-        const load = () => setIframeSrc('/widget.html?city_id=3&hide_search=1&v=12');
+        const load = () => setIframeSrc('/widget.html?city_id=5&hide_search=1&v=12');
         if ('requestIdleCallback' in window) {
           requestIdleCallback(load, { timeout: 1500 });
         } else {
