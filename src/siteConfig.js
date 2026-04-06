@@ -214,7 +214,7 @@ const siteConfig = {
       slug: "tivat",
       tag: "Marina Town",
       desc: "Porto Montenegro and stunning Boka Bay.",
-      image: "/img/tivat-airport.webp",
+      image: "/img/porto-montenegro.webp",
     },
     {
       name: "Perast",
