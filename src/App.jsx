@@ -119,13 +119,13 @@ const locationSelectStyles = {
     padding: '0',
     fontSize: '15px',
     fontWeight: '500',
-    color: 'rgb(61,20,16)',
+    color: '#1a0a0e',
   }),
   singleValue: (base) => ({
     ...base,
     fontSize: '15px',
     fontWeight: '500',
-    color: 'rgb(61,20,16)',
+    color: '#1a0a0e',
     margin: '0',
   }),
   placeholder: (base) => ({
@@ -138,7 +138,7 @@ const locationSelectStyles = {
   dropdownIndicator: (base) => ({
     ...base,
     padding: '0',
-    color: 'rgb(232,93,74)',
+    color: '#d32f2f',
   }),
   menu: (base) => ({
     ...base,
@@ -161,8 +161,8 @@ const locationSelectStyles = {
     ...base,
     fontSize: '14px',
     fontWeight: state.isSelected ? '600' : '400',
-    color: state.isSelected ? 'rgb(232,93,74)' : 'rgb(61,20,16)',
-    background: state.isSelected ? 'rgba(232,93,74,0.08)' : state.isFocused ? 'rgba(232,93,74,0.05)' : 'transparent',
+    color: state.isSelected ? '#d32f2f' : '#1a0a0e',
+    background: state.isSelected ? 'rgba(211,47,47,0.08)' : state.isFocused ? 'rgba(211,47,47,0.05)' : 'transparent',
     borderRadius: '6px',
     cursor: 'pointer',
     padding: '10px 12px',
@@ -176,7 +176,7 @@ function LocationField({ value, onChange }) {
     <div className="booking-field location-field">
       <label>
         <MapPin size={12} />
-        {t('hero.pickupLocation')}
+        PICK-UP LOCATION
       </label>
       <Select
         inputId="f-location"
@@ -249,7 +249,7 @@ function Hero() {
             <div className="booking-card__fields">
               <LocationField value={pickup} onChange={setPickup} />
               <div className="booking-field booking-field--dates">
-                <label>{t('hero.pickupDate')} — {t('hero.dropoffDate')}</label>
+                <label><Calendar size={12} /> PICK-UP DATE &amp; DROP-OFF DATE</label>
                 <DatePicker
                   selectsRange
                   startDate={startDate}
@@ -269,19 +269,19 @@ function Hero() {
                 />
               </div>
               <div className="booking-field booking-field--time">
-                <label htmlFor="f-pickup-time">{t('hero.pickupTime')}</label>
+                <label htmlFor="f-pickup-time"><Clock size={12} /> PICK-UP TIME</label>
                 <select id="f-pickup-time" className="booking-field__input" value={pickupTime} onChange={e => setPickupTime(e.target.value)}>
                   {['00:00','01:00','02:00','03:00','04:00','05:00','06:00','07:00','08:00','09:00','10:00','11:00','12:00','13:00','14:00','15:00','16:00','17:00','18:00','19:00','20:00','21:00','22:00','23:00'].map(t => <option key={t} value={t}>{t}</option>)}
                 </select>
               </div>
               <div className="booking-field booking-field--time">
-                <label htmlFor="f-dropoff-time">{t('hero.dropoffTime')}</label>
+                <label htmlFor="f-dropoff-time"><Clock size={12} /> DROP-OFF TIME</label>
                 <select id="f-dropoff-time" className="booking-field__input" value={dropoffTime} onChange={e => setDropoffTime(e.target.value)}>
                   {['00:00','01:00','02:00','03:00','04:00','05:00','06:00','07:00','08:00','09:00','10:00','11:00','12:00','13:00','14:00','15:00','16:00','17:00','18:00','19:00','20:00','21:00','22:00','23:00'].map(t => <option key={t} value={t}>{t}</option>)}
                 </select>
               </div>
               <button className="booking-card__search" onClick={handleSearch}>
-                {t('hero.search')}
+                <Search size={16} /> {t('hero.search')}
               </button>
             </div>
           </div>
