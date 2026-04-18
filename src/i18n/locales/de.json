@@ -2,7 +2,8 @@
   "nav": {
     "book": "Buchen",
     "destinations": "Reiseziele",
-    "about": "Über uns"
+    "about": "Über uns",
+    "blog": "Blog"
   },
   "common": {
     "home": "Startseite",
@@ -26,7 +27,8 @@
     "pickupDate": "Abholdatum",
     "pickupTime": "Uhrzeit",
     "dropoffDate": "Rückgabedatum",
-    "dropoffTime": "Uhrzeit"
+    "dropoffTime": "Uhrzeit",
+    "selectDates": "Daten wählen"
   },
   "trust": {
     "noHiddenFees": "Keine versteckten Kosten",
@@ -205,7 +207,7 @@
       "desc": "Kaskoversicherung und Diebstahlschutz inklusive. Auf Wunsch upgraden Sie auf Null-Selbstbeteiligung — ideal für enge Küstenstraßen und volle Strandparkplätze."
     },
     "support": {
-      "title": "24/7 Support",
+      "title": "24/7 Kundenservice",
       "desc": "Licht am Parkplatz am Jaz Beach vergessen? Schlüssel am Mogren eingesperrt? Rufen Sie uns jederzeit an — wir kennen jeden Parkplatz dieser Riviera."
     },
     "noHiddenFees": {
@@ -541,7 +543,7 @@
     "law1": "Kroatien: Scheinwerfer müssen jederzeit eingeschaltet sein. Auf Autobahnen fallen Mautgebühren an (bar oder mit Karte)",
     "law2": "Albanien: Die Geschwindigkeitsbegrenzungen sind auf Landstraßen niedriger. Die Straßenqualität variiert erheblich",
     "law3": "Bosnien: Winterreifen sind von November bis April Pflicht. Führen Sie einen Erste-Hilfe-Kasten und ein Warndreieck mit",
-    "law4": "Serbien: Null-Promille-Grenze für alle Fahrer. Die Autobahngebühren werden an Schranken kassiert \u2014 Ticket beim Auffahren, Bezahlung beim Verlassen",
+    "law4": "Serbien: Null-Promille-Grenze für alle Fahrer. Die Autobahngebühren werden an Schranken kassiert — Ticket beim Auffahren, Bezahlung beim Verlassen",
     "law5": "Kosovo: Es wird auf der rechten Seite gefahren. Ein internationaler Führerschein wird empfohlen",
     "popularTitle": "Beliebte grenzüberschreitende Routen",
     "route1": "Tivat → Dubrovnik: 2 Stunden über die Küsten-E65. Atemberaubende Landschaft, ein Grenzübergang",
