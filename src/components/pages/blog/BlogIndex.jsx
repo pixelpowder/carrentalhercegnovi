@@ -55,17 +55,7 @@ const cardLinkStyle = {
   gap: '4px',
 };
 
-const articles = [
-  { key: 'oldtown', image: '/img/blog-budva-old-town-walking.webp', href: '/blog/budva-old-town-walking' },
-  { key: 'stefan', image: '/img/blog-sveti-stefan-viewpoints.webp', href: '/blog/sveti-stefan-viewpoints' },
-  { key: 'beaches', image: '/img/blog-budva-riviera-beach-hop.webp', href: '/blog/budva-riviera-beach-hop' },
-  { key: 'skadar', image: '/img/blog-budva-to-skadar-day.webp', href: '/blog/budva-to-skadar-day' },
-  { key: 'nightlife', image: '/img/blog-budva-nightlife-guide.webp', href: '/blog/budva-nightlife-guide' },
-  { key: 'gastro', image: '/img/blog-budva-gastro-scene.webp', href: '/blog/budva-gastro-scene' },
-  { key: 'petrovac', image: '/img/blog-petrovac-to-buljarica.webp', href: '/blog/petrovac-to-buljarica' },
-  { key: 'rainy', image: '/img/blog-budva-rainy-day.webp', href: '/blog/budva-rainy-day' },
-  { key: 'sunrides', image: '/img/blog-budva-sunrise-sunset.webp', href: '/blog/budva-sunrise-sunset' },
-];
+const articles = [];
 
 export default function BlogIndex() {
   const { t, localePath } = useTranslation();
@@ -92,45 +82,60 @@ export default function BlogIndex() {
         padding: '48px 24px 80px',
         width: '100%',
       }}>
-        <div style={{
-          display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-          gap: '28px',
-        }}>
-          {articles.map((article) => {
-            const title = t(`blogIndex.card_${article.key}_title`);
-            const excerpt = t(`blogIndex.card_${article.key}_excerpt`);
-            return (
-              <a
-                key={article.href}
-                href={localePath(article.href)}
-                style={{ ...cardStyle, textDecoration: 'none', color: 'inherit' }}
-                onMouseEnter={(e) => {
-                  e.currentTarget.style.boxShadow = 'var(--shadow-md)';
-                  e.currentTarget.style.transform = 'translateY(-2px)';
-                }}
-                onMouseLeave={(e) => {
-                  e.currentTarget.style.boxShadow = 'var(--shadow-sm)';
-                  e.currentTarget.style.transform = 'translateY(0)';
-                }}
-              >
-                <img
-                  src={article.image}
-                  alt={title}
-                  style={cardImageStyle}
-                  loading="lazy"
-                />
-                <div style={cardBodyStyle}>
-                  <h2 style={cardTitleStyle}>{title}</h2>
-                  <p style={cardExcerptStyle}>{excerpt}</p>
-                  <span style={cardLinkStyle}>
-                    {t('blogIndex.readGuide')} &rarr;
-                  </span>
-                </div>
-              </a>
-            );
-          })}
-        </div>
+        {articles.length === 0 ? (
+          <div style={{
+            textAlign: 'center',
+            padding: '80px 24px',
+            color: 'var(--gray-600, #6c757d)',
+            fontSize: '18px',
+            lineHeight: 1.6,
+          }}>
+            <p style={{ fontSize: '22px', fontWeight: 700, color: 'var(--navy, #05203c)', marginBottom: '12px' }}>
+              New guides coming soon
+            </p>
+            <p>Check back shortly for travel stories and driving tips.</p>
+          </div>
+        ) : (
+          <div style={{
+            display: 'grid',
+            gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
+            gap: '28px',
+          }}>
+            {articles.map((article) => {
+              const title = t(`blogIndex.card_${article.key}_title`);
+              const excerpt = t(`blogIndex.card_${article.key}_excerpt`);
+              return (
+                <a
+                  key={article.href}
+                  href={localePath(article.href)}
+                  style={{ ...cardStyle, textDecoration: 'none', color: 'inherit' }}
+                  onMouseEnter={(e) => {
+                    e.currentTarget.style.boxShadow = 'var(--shadow-md)';
+                    e.currentTarget.style.transform = 'translateY(-2px)';
+                  }}
+                  onMouseLeave={(e) => {
+                    e.currentTarget.style.boxShadow = 'var(--shadow-sm)';
+                    e.currentTarget.style.transform = 'translateY(0)';
+                  }}
+                >
+                  <img
+                    src={article.image}
+                    alt={title}
+                    style={cardImageStyle}
+                    loading="lazy"
+                  />
+                  <div style={cardBodyStyle}>
+                    <h2 style={cardTitleStyle}>{title}</h2>
+                    <p style={cardExcerptStyle}>{excerpt}</p>
+                    <span style={cardLinkStyle}>
+                      {t('blogIndex.readGuide')} &rarr;
+                    </span>
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        )}
       </div>
 
       <Footer />
