@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: 'Contact Us | Herceg Novi Car Rental',
     description: 'Get in touch with Herceg Novi Car Rental.',
-    alternates: buildAlternates('contact'),
+    alternates: buildAlternates('contact', lang),
   };
 }
 

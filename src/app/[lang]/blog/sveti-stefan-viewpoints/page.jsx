@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogStefan.title') + ' | Herceg Novi Car Rental',
     description: t(lang, 'blogStefan.description'),
-    alternates: buildAlternates('blog/sveti-stefan-viewpoints'),
+    alternates: buildAlternates('blog/sveti-stefan-viewpoints', lang),
   };
 }
 
