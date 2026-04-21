@@ -4,7 +4,7 @@ const siteConfig = {
   domain: "carrentalhercegnovi.com",
   phone: "",
   email: "info@carrentalhercegnovi.com",
-  address: "Herceg Novi, Montenegro",
+  address: "Tabacina BB, Kotor, 85330",
 
   hero: {
     headline: "Herceg Novi Car Rental — Gateway to the Bay",
