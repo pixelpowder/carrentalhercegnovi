@@ -241,7 +241,7 @@ const content = {
       { type: 'p', text: "Pumpa je na strani Kamenara nekoliko stotina metara prije rampe, i još jedna na strani Lepetana odmah nakon iskrcaja — pogodno u oba smjera. U Kamenarima su mali kafić i pekara za čekanje. Lepetani imaju jednu-dvije konobe na vodi za miran ručak ako ste prerano za let. Na samim rampama nema javnih toaleta; koristite kafić." },
       { type: 'h2', text: 'Praktični savjeti' },
       { type: 'ul', items: [
-        '**Ne rezervišite ništa unaprijed.** Trajekt radi „kako ko stigne" i ne može se rezervisati.',
+        '**Ne rezervišite ništa unaprijed.** Trajekt radi „kako ko stigne” i ne može se rezervisati.',
         '**Prvo napunite rezervoar.** Napunite prije ulaska u red da ne manevrišete u zoni ukrcaja.',
         '**Ručna kočnica tokom plovidbe.** Na manuelcu ostavite u brzini.',
         '**Ljetni vikendi — red.** Subota ujutru u avgustu može značiti trideset minuta čekanja. Idite rano ili kasno.',

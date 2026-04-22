@@ -61,8 +61,8 @@ const content = {
       { type: 'p', text: "Von Ivanica sind es weitere zwanzig bis dreißig Minuten nach Trebinje. Eine still schöne herzegowinische Stadt — osmanische Steinbrücke über die Trebišnjica, arkadenumstandener alter Platz, ein lebendiger Platanenmarkt und das Kloster Hercegovačka Gračanica auf dem Hügel mit weitem Rundblick zurück nach Montenegro. Ein halber Tag in Trebinje ist der natürliche Lohn einer Sutorina-Fahrt. Wir halten es hier kurz, weil Sie mit dem Grenzübertritt das Herceg-Novi-Revier verlassen; ein eigener Trebinje-Leitfaden gehört anderswohin." },
       { type: 'h2', text: 'Auch ohne Grenzübergang' },
       { type: 'p', text: "Die montenegrinische Seite des Tals ist eine langsame Stunde für sich wert. Dörfer wie Sutorina und Sušćepan haben kleine Kirchen und alte Steinhäuser; Hofstände verkaufen saisonal Honig, Feigen und selbstgebrannten Rakija. Die Bahntrasse ist ein ruhiger Spaziergang, und der Talboden ist flach genug, dass sich Abschnitte für einen frühabendlichen Jogging- oder Radausflug eignen." },
-      { type: 'h2', text: 'Eine Notiz zum „Meerzugang"' },
-      { type: 'p', text: "Der Sutorina-Korridor gab Bosnien zeitweise technischen Zugang zum Meer, aber der Streifen wurde nie als Hafen entwickelt — die Küste war kurz, das Gelände unwirsch. Ragusa (Dubrovnik) und später die Österreicher sorgten dafür, dass er randständig blieb. In der Praxis hieß „Bosniens Meerzugang" hier eine schmale Tür, kein Hafen." },
+      { type: 'h2', text: 'Eine Notiz zum „Meerzugang”' },
+      { type: 'p', text: "Der Sutorina-Korridor gab Bosnien zeitweise technischen Zugang zum Meer, aber der Streifen wurde nie als Hafen entwickelt — die Küste war kurz, das Gelände unwirsch. Ragusa (Dubrovnik) und später die Österreicher sorgten dafür, dass er randständig blieb. In der Praxis hieß „Bosniens Meerzugang” hier eine schmale Tür, kein Hafen." },
       { type: 'h2', text: 'Praktische Tipps' },
       { type: 'ul', items: [
         '**Grüne Karte.** Prüfen Sie, ob die Mietwagenversicherung Bosnien-Herzegowina abdeckt, bevor Sie Richtung Ivanica fahren.',
@@ -225,8 +225,8 @@ const content = {
       { type: 'p', text: "Iz Ivanice je Trebinje daljih dvadesetak do trideset minuta. To je tiho lijep hercegovački gradić — otomanski kameni most preko rijeke Trebišnjice, stara pjaca s arkadama, živa pijaca pod platanima i manastir Hercegovačka Gračanica na brdu sa širokom panoramom natrag prema Crnoj Gori. Pola dana u Trebinju prirodna je nagrada za vožnju kroz Sutorinu. Ovdje ostajemo kratki jer jednom kad pređete u Bosnu izlazite iz područja Herceg Novog; poseban vodič za Trebinje pripada drugdje." },
       { type: 'h2', text: 'Čak i ako ne pređete granicu' },
       { type: 'p', text: "Crnogorska strana doline vrijedi mirnog sata. Sela poput Sutorine i Sušćepana imaju male crkve i stare kamene kuće; seoski tezgari sezonski prodaju med, smokve i domaću rakiju. Željeznička trasa pruža mirnu šetnju, a dno doline je dovoljno ravno da se dio pretvori u dobro kasno popodnevno trčanje ili vožnju bicikla." },
-      { type: 'h2', text: 'Napomena o „izlazu na more"' },
-      { type: 'p', text: "Koridor Sutorina u pojedinim periodima je Bosni davao tehnički izlaz na more, ali pojas nikada nije razvijen kao luka — obala je bila kratka, a teren nepogodan. Dubrovnik i kasnije Austrijanci pobrinuli su se da ostane marginalan. U praksi „izlaz Bosne na more" ovdje je značio uska vrata, ne luku." },
+      { type: 'h2', text: 'Napomena o „izlazu na more”' },
+      { type: 'p', text: "Koridor Sutorina u pojedinim periodima je Bosni davao tehnički izlaz na more, ali pojas nikada nije razvijen kao luka — obala je bila kratka, a teren nepogodan. Dubrovnik i kasnije Austrijanci pobrinuli su se da ostane marginalan. U praksi „izlaz Bosne na more” ovdje je značio uska vrata, ne luku." },
       { type: 'h2', text: 'Praktični savjeti' },
       { type: 'ul', items: [
         '**Zeleni karton.** Provjerite da li vaše rent-a-car osiguranje pokriva Bosnu i Hercegovinu prije vožnje prema Ivanici.',
