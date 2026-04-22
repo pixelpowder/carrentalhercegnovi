@@ -62,22 +62,22 @@ export default function Footer() {
         </div>
 
         <div>
-          <div className="footer__col-title">Riviera Guides</div>
+          <div className="footer__col-title">Bay Guides</div>
           <div className="footer__links">
             <a href={localePath('/blog')} className="footer__link">Blog</a>
-            <a href={localePath('/blog/sveti-stefan-photo-spots')} className="footer__link">Sveti Stefan</a>
-            <a href={localePath('/blog/budva-old-town-walls')} className="footer__link">Old Town Walls</a>
-            <a href={localePath('/blog/becici-rafailovici-promenade')} className="footer__link">Bečići Promenade</a>
+            <a href={localePath('/blog/rose-village-lustica')} className="footer__link">Rose Village (Luštica)</a>
+            <a href={localePath('/blog/ledenice-viewpoint-loop')} className="footer__link">Ledenice Viewpoint</a>
+            <a href={localePath('/blog/djenovici-west-bay-promenade')} className="footer__link">Đenovići Promenade</a>
           </div>
         </div>
 
         <div>
-          <div className="footer__col-title">Coast &amp; Drives</div>
+          <div className="footer__col-title">Western Bay Drives</div>
           <div className="footer__links">
-            <a href={localePath('/blog/budva-to-sveti-stefan-drive')} className="footer__link">Budva → Sveti Stefan</a>
-            <a href={localePath('/blog/tivat-airport-to-budva')} className="footer__link">Tivat Airport Route</a>
-            <a href={localePath('/blog/pastrovici-highlands-drive')} className="footer__link">Paštrovići Highlands</a>
-            <a href={localePath('/blog/petrovac-quiet-alternative')} className="footer__link">Petrovac</a>
+            <a href={localePath('/blog/sutorina-bosnia-corridor')} className="footer__link">Sutorina → Bosnia</a>
+            <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')} className="footer__link">Airport Choice</a>
+            <a href={localePath('/blog/risan-roman-mosaics-drive')} className="footer__link">Risan Mosaics</a>
+            <a href={localePath('/blog/portonovi-marina-podi')} className="footer__link">Portonovi</a>
           </div>
         </div>
       </div>
