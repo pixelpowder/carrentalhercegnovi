@@ -16,24 +16,24 @@ const translations = { en, de, ru, it, fr, me };
 const BASE_AUTO_RENTAL = {
   "@context": "https://schema.org",
   "@type": "AutoRental",
-  "name": "Herceg Novi Car Rental",
+  "name": "Car Rental Herceg Novi",
   "url": "https://www.carrentalhercegnovi.com",
   "email": "info@carrentalhercegnovi.com",
   "image": "https://www.carrentalhercegnovi.com/img/schema-car.jpg",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Njegoševa BB",
-    "addressLocality": "Herceg Novi",
-    "postalCode": "85340",
+    "streetAddress": "Tabacina BB",
+    "addressLocality": "Kotor",
+    "postalCode": "85330",
     "addressCountry": "ME"
   },
   "areaServed": [
-    { "@type": "City", "name": "Kotor" },
-    { "@type": "City", "name": "Tivat" },
-    { "@type": "City", "name": "Budva" },
-    { "@type": "City", "name": "Perast" },
     { "@type": "City", "name": "Herceg Novi" },
-    { "@type": "City", "name": "Podgorica" }
+    { "@type": "City", "name": "Igalo" },
+    { "@type": "City", "name": "Bijela" },
+    { "@type": "City", "name": "Meljine" },
+    { "@type": "City", "name": "Kumbor" },
+    { "@type": "City", "name": "Zelenika" }
   ],
   "priceRange": "€25-€120",
   "currenciesAccepted": "EUR",
@@ -71,7 +71,7 @@ export default function LocaleAwareSchema({ lang = 'en' }) {
   const description = pick(t, 'home.seoDesc')
     || pick(t, 'meta.homeDescription')
     || pick(t, 'hero.subtitle')
-    || 'Rent a car in Herceg Novi from trusted local providers with free cancellation, full insurance, and airport pickup included with every booking.';
+    || 'Rent a car in Budva from trusted local providers with free cancellation, full insurance, and airport pickup included with every booking.';
 
   const autoRental = { ...BASE_AUTO_RENTAL, description };
 

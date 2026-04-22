@@ -4,7 +4,7 @@ import Montenegro from '@/src/components/pages/Montenegro';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   return {
-    title: t(lang, 'montenegro.title') + ' | Herceg Novi Car Rental',
+    title: t(lang, 'montenegro.title') + ' | Car Rental Herceg Novi',
     description: t(lang, 'montenegro.seoDesc'),
     alternates: buildAlternates('montenegro', lang),
   };

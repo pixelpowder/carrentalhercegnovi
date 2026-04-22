@@ -10,11 +10,25 @@ import DynamicLanguageProvider from '@/src/i18n/DynamicLanguageProvider';
 import { SUPPORTED_LANGS, DEFAULT_LANG, LANG_HREFLANG } from '@/src/i18n/languages';
 import LocaleAwareSchema from '@/src/components/LocaleAwareSchema';
 
+const SITE_TITLE = 'Car Rental Herceg Novi — Riviera Rentals';
+const SITE_DESC = 'Explore Herceg Novi\'s UNESCO walled city and the fjord-like bay by car. Collect at Tivat Airport, just 8 km away, or right outside the medieval gates. From €13/day with full insurance.';
+const SITE_URL = 'https://www.carrentalhercegnovi.com';
+const SITE_NAME = 'Car Rental Herceg Novi';
+
 export const metadata = {
-  title: 'Herceg Novi Car Rental — Bay of Kotor Gateway',
-  description:
-    'Rent a car in Herceg Novi from €13/day. Just 35 km from Tivat Airport and 30 km from Dubrovnik. Full insurance, free cancellation, and cross-border driving included.',
-  metadataBase: new URL('https://www.carrentalhercegnovi.com'),
+  title: SITE_TITLE,
+  description: SITE_DESC,
+  metadataBase: new URL(SITE_URL),
+  openGraph: {
+    title: SITE_TITLE,
+    description: SITE_DESC,
+    url: SITE_URL,
+    siteName: SITE_NAME,
+    type: 'website',
+    locale: 'en_US',
+    alternateLocale: ['de_DE', 'fr_FR', 'it_IT', 'ru_RU', 'sr_ME'],
+    images: [{ url: `${SITE_URL}/hero-bg.webp`, width: 1200, height: 630, alt: SITE_NAME }],
+  },
 };
 
 // Derive the active locale from the incoming URL path. Next.js doesn't pass
@@ -35,8 +49,6 @@ export default async function RootLayout({ children }) {
   return (
     <html lang={htmlLang}>
       <head>
-        <link rel="preload" href="/hero-video.mp4" as="video" type="video/mp4" />
-        <link rel="preload" href="/hero-bg.webp" as="image" type="image/webp" />
         <LocaleAwareSchema lang={lang} />
       </head>
       <body>

@@ -4,7 +4,7 @@ import BlogIndex from '@/src/components/pages/blog/BlogIndex';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   return {
-    title: t(lang, 'blogIndex.heroTitle') + ' | Herceg Novi Car Rental',
+    title: t(lang, 'blogIndex.heroTitle') + ' | Car Rental Herceg Novi',
     description: t(lang, 'blogIndex.heroSubtitle'),
     alternates: buildAlternates('blog', lang),
   };

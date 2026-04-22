@@ -1,7 +1,7 @@
 import NotFound from '@/src/components/pages/NotFound';
 
 export const metadata = {
-  title: 'Page Not Found | Herceg Novi Car Rental',
+  title: 'Page Not Found | Car Rental Herceg Novi',
 };
 
 export default function NotFoundPage() {

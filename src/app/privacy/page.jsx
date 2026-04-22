@@ -2,7 +2,7 @@ import { t, buildAlternates } from '../metadata';
 import Privacy from '@/src/components/pages/Privacy';
 
 export async function generateMetadata() {
-  const title = t('en', 'privacy.title') + ' | Herceg Novi Car Rental';
+  const title = t('en', 'privacy.title') + ' | Car Rental Herceg Novi';
   const description = t('en', 'privacy.seoDesc');
   return {
     title: title,
