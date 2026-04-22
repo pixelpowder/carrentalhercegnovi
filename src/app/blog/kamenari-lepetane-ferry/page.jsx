@@ -1,12 +1,15 @@
 import { buildAlternates } from '../../metadata';
 import KamenariLepetaneFerry from '@/src/components/pages/blog/KamenariLepetaneFerry';
+import content from '@/src/data/blog/kamenari-lepetane-ferry';
+
+const c = content.en;
 
 export async function generateMetadata() {
   return {
-    title: "The Kamenari–Lepetane Ferry — The Bay of Kotor Shortcut" + ' | Car Rental Herceg Novi',
-    description: "A practical guide to the Kamenari–Lepetane car ferry across the narrowest point of the Bay of Kotor: the route, when to use it, ticket basics, and what the crossing actually shows you.",
+    title: c.title + ' | Car Rental Herceg Novi',
+    description: c.description,
     alternates: buildAlternates('blog/kamenari-lepetane-ferry'),
-    openGraph: { title: "The Kamenari–Lepetane Ferry — The Bay of Kotor Shortcut", description: "A practical guide to the Kamenari–Lepetane car ferry across the narrowest point of the Bay of Kotor: the route, when to use it, ticket basics, and what the crossing actually shows you.", type: 'website' },
+    openGraph: { title: c.title, description: c.description, type: 'website' },
   };
 }
 
@@ -14,9 +17,9 @@ export default function KamenariLepetaneFerryRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "The Kamenari–Lepetane Ferry — The Bay of Kotor Shortcut",
-    "description": "A practical guide to the Kamenari–Lepetane car ferry across the narrowest point of the Bay of Kotor: the route, when to use it, ticket basics, and what the crossing actually shows you.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-kamenari-lepetane-ferry.webp",
+    "headline": c.title,
+    "description": c.description,
+    "image": "https://www.carrentalhercegnovi.com" + c.image,
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

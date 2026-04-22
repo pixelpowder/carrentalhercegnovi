@@ -1,12 +1,15 @@
 import { buildAlternates } from '../../metadata';
 import SutorinaBosniaCorridor from '@/src/components/pages/blog/SutorinaBosniaCorridor';
+import content from '@/src/data/blog/sutorina-bosnia-corridor';
+
+const c = content.en;
 
 export async function generateMetadata() {
   return {
-    title: "The Sutorina Corridor — Bosnia's Old Sea Access and the Quiet Valley Behind Igalo" + ' | Car Rental Herceg Novi',
-    description: "A guide to the Sutorina valley west of Igalo: the historical Bosnian corridor to the sea, the disused railway trace, and a half-day drive from Herceg Novi up to Trebinje.",
+    title: c.title + ' | Car Rental Herceg Novi',
+    description: c.description,
     alternates: buildAlternates('blog/sutorina-bosnia-corridor'),
-    openGraph: { title: "The Sutorina Corridor — Bosnia's Old Sea Access and the Quiet Valley Behind Igalo", description: "A guide to the Sutorina valley west of Igalo: the historical Bosnian corridor to the sea, the disused railway trace, and a half-day drive from Herceg Novi up to Trebinje.", type: 'website' },
+    openGraph: { title: c.title, description: c.description, type: 'website' },
   };
 }
 
@@ -14,9 +17,9 @@ export default function SutorinaBosniaCorridorRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "The Sutorina Corridor — Bosnia's Old Sea Access and the Quiet Valley Behind Igalo",
-    "description": "A guide to the Sutorina valley west of Igalo: the historical Bosnian corridor to the sea, the disused railway trace, and a half-day drive from Herceg Novi up to Trebinje.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-sutorina-bosnia-corridor.webp",
+    "headline": c.title,
+    "description": c.description,
+    "image": "https://www.carrentalhercegnovi.com" + c.image,
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

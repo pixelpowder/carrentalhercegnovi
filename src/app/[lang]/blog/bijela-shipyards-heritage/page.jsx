@@ -1,23 +1,27 @@
 import { buildAlternates } from '../../../metadata';
 import BijelaShipyardsHeritage from '@/src/components/pages/blog/BijelaShipyardsHeritage';
+import content from '@/src/data/blog/bijela-shipyards-heritage';
 
 export async function generateMetadata({ params }) {
   const { lang } = await params;
+  const c = content[lang] || content.en;
   return {
-    title: "Bijela Shipyards — The Industrial Heritage of the Outer Bay" + ' | Car Rental Herceg Novi',
-    description: "A driving and walking guide to Bijela, the outer Bay of Kotor shipyard town: the dockyard history, what is visible from the road, and how to fit a visit around the ferry.",
+    title: c.title + ' | Car Rental Herceg Novi',
+    description: c.description,
     alternates: buildAlternates('blog/bijela-shipyards-heritage', lang),
+    openGraph: { title: c.title, description: c.description, type: 'website' },
   };
 }
 
 export default async function LangBijelaShipyardsHeritageRoute({ params }) {
   const { lang } = await params;
+  const c = content[lang] || content.en;
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Bijela Shipyards — The Industrial Heritage of the Outer Bay",
-    "description": "A driving and walking guide to Bijela, the outer Bay of Kotor shipyard town: the dockyard history, what is visible from the road, and how to fit a visit around the ferry.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-bijela-shipyards-heritage.webp",
+    "headline": c.title,
+    "description": c.description,
+    "image": "https://www.carrentalhercegnovi.com" + c.image,
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },
