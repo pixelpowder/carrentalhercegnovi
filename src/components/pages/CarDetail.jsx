@@ -38,52 +38,54 @@ const INLINE_PHOTOS = {
 
 // Related cards per car — using the actual blog + destination pages that exist on kotorcarrental.
 const RELATED = {
-  'renault-clio': [
-    { href: '/blog/kotor-to-cetinje-drive',  img: '/img/blog-lovcen-road.webp',   title: 'Kotor to Cetinje drive' },
-    { href: '/perast',                        img: '/img/perast-village.webp',     title: 'Perast' },
-    { href: '/blog/dobrota-waterfront-walk', img: '/img/blog-bay-boat.webp',      title: 'Dobrota waterfront walk' },
+  'vw-polo': [
+    { href: '/blog/herceg-novi-old-town', img: '/img/blog-herceg-novi-old-town.webp', title: 'Herceg Novi Old Town' },
+    { href: '/blog/igalo-thermal-mud-spa', img: '/img/blog-igalo-thermal-mud-spa.webp', title: 'Igalo thermal mud spa' },
+    { href: '/blog/savina-monastery', img: '/img/blog-savina-monastery.webp', title: 'Savina Monastery' },
   ],
-  'peugeot-308': [
-    { href: '/border-crossing-guide',         img: '/img/dubrovnik-nearby.webp',   title: 'Border crossing guide' },
-    { href: '/podgorica',                     img: '/img/podgorica-city.webp',     title: 'Podgorica' },
-    { href: '/blog/kotor-to-cetinje-drive',  img: '/img/blog-lovcen-road.webp',   title: 'Kotor to Cetinje drive' },
+  'skoda-octavia': [
+    { href: '/blog/dubrovnik-day-trip', img: '/img/blog-dubrovnik-day-trip.webp', title: 'Dubrovnik day trip' },
+    { href: '/blog/lustica-peninsula-drive', img: '/img/blog-lustica-peninsula-drive.webp', title: 'Luštica peninsula drive' },
+    { href: '/blog/herceg-novi-old-town', img: '/img/blog-herceg-novi-old-town.webp', title: 'Herceg Novi Old Town' },
   ],
-  'renault-megane': [
-    { href: '/blog/kotor-food-markets',      img: '/img/blog-bay-boat.webp',      title: 'Kotor food markets' },
-    { href: '/perast',                        img: '/img/perast-village.webp',     title: 'Perast' },
-    { href: '/budva',                         img: '/img/budva-from-kotor.webp',   title: 'Budva' },
+  'toyota-corolla': [
+    { href: '/blog/herceg-novi-old-town', img: '/img/blog-herceg-novi-old-town.webp', title: 'Herceg Novi Old Town' },
+    { href: '/blog/blue-cave-boat-tour', img: '/img/blog-blue-cave-boat-tour.webp', title: 'Blue Cave boat tour' },
+    { href: '/blog/lustica-peninsula-drive', img: '/img/blog-lustica-peninsula-drive.webp', title: 'Luštica peninsula drive' },
   ],
-  'kia-stonic': [
-    { href: '/blog/vrmac-ridge-trail',       img: '/img/blog-lovcen-road.webp',   title: 'Vrmac ridge trail' },
-    { href: '/blog/stoliv-abandoned-village',img: '/img/blog-kotor-walls.webp',   title: 'Stoliv abandoned village' },
-    { href: '/blog/kotor-to-cetinje-drive',  img: '/img/blog-lovcen-road.webp',   title: 'Kotor to Cetinje drive' },
+  'mercedes-c-class': [
+    { href: '/blog/dubrovnik-day-trip', img: '/img/blog-dubrovnik-day-trip.webp', title: 'Dubrovnik day trip' },
+    { href: '/blog/herceg-novi-old-town', img: '/img/blog-herceg-novi-old-town.webp', title: 'Herceg Novi Old Town' },
+    { href: '/blog/lustica-peninsula-drive', img: '/img/blog-lustica-peninsula-drive.webp', title: 'Luštica peninsula drive' },
   ],
-  'vw-golf': [
-    { href: '/blog/kotor-to-cetinje-drive',  img: '/img/blog-lovcen-road.webp',   title: 'Kotor to Cetinje drive' },
-    { href: '/border-crossing-guide',         img: '/img/dubrovnik-nearby.webp',   title: 'Border crossing guide' },
-    { href: '/podgorica',                     img: '/img/podgorica-city.webp',     title: 'Podgorica' },
+  'jeep-renegade': [
+    { href: '/blog/orjen-mountain-hike', img: '/img/blog-orjen-mountain-hike.webp', title: 'Orjen mountain hike' },
+    { href: '/blog/mamula-island-history', img: '/img/blog-mamula-island-history.webp', title: 'Mamula island history' },
+    { href: '/blog/lustica-peninsula-drive', img: '/img/blog-lustica-peninsula-drive.webp', title: 'Luštica peninsula drive' },
+  ],
+  'bmw-x3': [
+    { href: '/blog/dubrovnik-day-trip', img: '/img/blog-dubrovnik-day-trip.webp', title: 'Dubrovnik day trip' },
+    { href: '/blog/orjen-mountain-hike', img: '/img/blog-orjen-mountain-hike.webp', title: 'Orjen mountain hike' },
+    { href: '/blog/lustica-peninsula-drive', img: '/img/blog-lustica-peninsula-drive.webp', title: 'Luštica peninsula drive' },
   ],
   'fiat-500': [
-    { href: '/kotor',                         img: '/img/kotor-old-town.webp',     title: 'Kotor Old Town' },
-    { href: '/perast',                        img: '/img/perast-village.webp',     title: 'Perast' },
-    { href: '/blog/kotor-hidden-churches',   img: '/img/blog-kotor-walls.webp',   title: 'Kotor hidden churches' },
+    { href: '/blog/igalo-thermal-mud-spa', img: '/img/blog-igalo-thermal-mud-spa.webp', title: 'Igalo thermal mud spa' },
+    { href: '/blog/herceg-novi-old-town', img: '/img/blog-herceg-novi-old-town.webp', title: 'Herceg Novi Old Town' },
+    { href: '/blog/savina-monastery', img: '/img/blog-savina-monastery.webp', title: 'Savina Monastery' },
   ],
-  'citroen-c3': [
-    { href: '/blog/dobrota-waterfront-walk', img: '/img/blog-bay-boat.webp',      title: 'Dobrota waterfront walk' },
-    { href: '/blog/kotor-spring-wildflowers',img: '/img/blog-lovcen-road.webp',   title: 'Kotor spring wildflowers' },
-    { href: '/blog/stoliv-abandoned-village',img: '/img/blog-kotor-walls.webp',   title: 'Stoliv abandoned village' },
+  'fiat-500c': [
+    { href: '/blog/igalo-thermal-mud-spa', img: '/img/blog-igalo-thermal-mud-spa.webp', title: 'Igalo thermal mud spa' },
+    { href: '/blog/herceg-novi-old-town', img: '/img/blog-herceg-novi-old-town.webp', title: 'Herceg Novi Old Town' },
+    { href: '/blog/savina-monastery', img: '/img/blog-savina-monastery.webp', title: 'Savina Monastery' },
+  ],
+  'vw-transporter': [
+    { href: '/blog/blue-cave-boat-tour', img: '/img/blog-blue-cave-boat-tour.webp', title: 'Blue Cave boat tour' },
+    { href: '/blog/lustica-peninsula-drive', img: '/img/blog-lustica-peninsula-drive.webp', title: 'Luštica peninsula drive' },
+    { href: '/blog/tivat-airport-to-hercegnovi', img: '/img/blog-tivat-airport-to-hercegnovi.webp', title: 'Tivat Airport to Herceg Novi' },
   ],
 };
 
-const ARTICLE_LINKS = {
-  'renault-clio':   { paraIndex: 1, candidates: ['Cetinje', 'Njegoš', 'Njeguši', 'Risan'],                 href: '/blog/kotor-to-cetinje-drive' },
-  'peugeot-308':    { paraIndex: 1, candidates: ['Smokovac', 'motorway', 'Podgorica', 'Dubrovnik'],         href: '/border-crossing-guide' },
-  'renault-megane': { paraIndex: 1, candidates: ['Risan', 'bay road', 'Skadar', 'Njeguši'],                 href: '/blog/kotor-to-cetinje-drive' },
-  'kia-stonic':     { paraIndex: 1, candidates: ['Gornja Lastva', 'Njeguši', 'Pestingrad', 'Lovćen'],       href: '/blog/vrmac-ridge-trail' },
-  'vw-golf':        { paraIndex: 1, candidates: ['Lovćen', 'Cetinje', 'Žabljak', 'Dubrovnik'],              href: '/blog/kotor-to-cetinje-drive' },
-  'fiat-500':       { paraIndex: 1, candidates: ['Muo', 'Old Town', 'Perast', 'Prčanj'],                    href: '/kotor' },
-  'citroen-c3':     { paraIndex: 1, candidates: ['Risan', 'Perast', 'Tryphon', 'Stari Mlini'],              href: '/blog/dobrota-waterfront-walk' },
-};
+const ARTICLE_LINKS = {};
 
 function renderParagraphWithLink(paragraph, rule, localePath, linkLabel) {
   if (!rule) return paragraph;
