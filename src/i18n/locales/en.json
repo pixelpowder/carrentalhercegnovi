@@ -1418,11 +1418,11 @@
     "countriesPermitted": "Countries Permitted"
   },
   "insiderTips": {
-    "label": "Insider Tips",
-    "title": "Three Things Every Herceg Novi Driver Should Know",
+    "label": "Bay of Boka Wisdom",
+    "title": "Three Rules for the Western Bay",
     "items": {
       "0": {
-        "tag": "Booking",
+        "tag": "Timing",
         "title": "Mimosa Festival Weekend Books Out",
         "text": "The February mimosa festival fills every hotel and rental on the coast for a single weekend. If you’re arriving in late Feb, book the car the same week you book the hotel — supply is thin."
       },
@@ -1432,7 +1432,7 @@
         "text": "The back road down to Žanjice and Mirišta is steep, tight and full of blind corners. Second gear, windows open for echo, and take every pull-off offered by oncoming traffic."
       },
       "2": {
-        "tag": "Borders",
+        "tag": "The border",
         "title": "Croatia in 15 Minutes",
         "text": "Debeli Brijeg is the closest Montenegro-Croatia crossing in the country — 15 minutes from the Herceg Novi waterfront. Green Card in the glovebox, passports on the dashboard, and you’re on the road to Dubrovnik inside the hour."
       }
