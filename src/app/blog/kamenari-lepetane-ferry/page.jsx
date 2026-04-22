@@ -16,7 +16,7 @@ export default function KamenariLepetaneFerryRoute() {
     "@type": "Article",
     "headline": "The Kamenari–Lepetane Ferry — The Bay of Kotor Shortcut",
     "description": "A practical guide to the Kamenari–Lepetane car ferry across the narrowest point of the Bay of Kotor: the route, when to use it, ticket basics, and what the crossing actually shows you.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-kamenari-ferry.webp",
+    "image": "https://www.carrentalhercegnovi.com/img/blog-kamenari-lepetane-ferry.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

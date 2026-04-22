@@ -9,7 +9,7 @@ export default function BijelaShipyardsHeritage() {
       title="Bijela Shipyards — The Industrial Heritage of the Outer Bay"
       subtitle="The dry docks and cranes that defined the west Boka's working coast — and what is quietly changing at the waterline"
       description="A driving and walking guide to Bijela, the outer Bay of Kotor's shipyard town: the history of the dockyard, what is visible from the road, and how to fit a visit around the ferry and the inner bay."
-      image="/img/blog-bijela.webp"
+      image="/img/blog-bijela-shipyards-heritage.webp"
     >
       <h2>Where Bijela is</h2>
       <p>Bijela is a small coastal town on the outer Bay of Kotor, roughly 10 km east of Herceg Novi and 3 km west of the Kamenari ferry ramp. It sits directly on the magistrala, which runs through the town rather than bypassing it. For most drivers, Bijela is the five-minute stretch of industrial-looking waterfront between Baošići and Kamenari — but if you know what you are looking at, that stretch is a concise lesson in how the working Adriatic coast actually paid its bills for most of the 20th century.</p>
@@ -21,7 +21,7 @@ export default function BijelaShipyardsHeritage() {
       <h2>What you actually see from the road</h2>
       <p>Driving through Bijela you pass a row of cranes rising above the waterfront, a long corrugated-clad repair shed, and — if the docks are occupied — the exposed underwater hull of a ship sitting on the dock floor with workers on scaffolding around it. The scale is surprising against the small-town surroundings. A fence separates the yard from the public road, but most of the operation is visible over or through it. On a weekday during working hours the yard is active and noisy; at weekends and evenings it is quiet.</p>
 
-      <img src="/img/blog-bijela.webp" alt="Bay shipyard cranes and dry dock" loading="lazy" />
+      <img src="/img/blog-bijela-shipyards-heritage.webp" alt="Bay shipyard cranes and dry dock" loading="lazy" />
 
       <h2>Bijela's other layers</h2>
       <p>Behind the shipyard, Bijela is a normal coastal town — an Orthodox church, a small waterfront promenade, a handful of seasonal cafés, an older village core on the hill above the magistrala. The Church of the Dormition of the Mother of God (Crkva Uspenja Bogorodice) is the landmark religious building, with fragments of medieval frescoes widely regarded as among the older surviving examples in the bay. Dates and attribution are debated by historians; we avoid a specific century here rather than state it incorrectly.</p>

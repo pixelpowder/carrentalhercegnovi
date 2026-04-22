@@ -16,7 +16,7 @@ export default function LedeniceViewpointLoopRoute() {
     "@type": "Article",
     "headline": "The Ledenice Loop — The Mountain Road Above Herceg Novi",
     "description": "A driving guide to the Ledenice loop above Herceg Novi: how to find the turn, what the switchback is like, where to stop, and why morning and sunset give very different views.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-ledenice.webp",
+    "image": "https://www.carrentalhercegnovi.com/img/blog-ledenice-viewpoint-loop.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

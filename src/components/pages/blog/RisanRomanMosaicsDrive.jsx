@@ -9,7 +9,7 @@ export default function RisanRomanMosaicsDrive() {
       title="Risan and the Roman Mosaics — An Inner-Bay Drive from Herceg Novi"
       subtitle="The oldest continuously inhabited place on the bay, the ancient Illyrian capital of Teuta, and a floor mosaic of Hypnos in a little-visited pavilion"
       description="A driving guide from Herceg Novi to Risan on the inner Bay of Kotor: the route, the Roman villa urbana mosaics (including the Hypnos floor), and why Risan rewards a half-day that most visitors skip."
-      image="/img/blog-risan.webp"
+      image="/img/blog-risan-roman-mosaics-drive.webp"
     >
       <h2>Why Risan is worth a drive</h2>
       <p>Risan is one of those places on the bay that almost everyone drives past and almost no-one stops at. Most visitors are chasing Perast or Kotor further round, and Risan sits between Perast and the head of the inner bay on a stretch of road that looks ordinary — low houses, a Yugoslav-era apartment block, a supermarket. What they miss is that Risan is arguably the oldest settled place in the bay, the capital of the Illyrian queen Teuta in the 3rd century BC, and the site of a partially excavated Roman villa whose floor mosaics — including a sleeping god Hypnos — are among the finest Roman mosaics in this part of the Adriatic.</p>
@@ -20,7 +20,7 @@ export default function RisanRomanMosaicsDrive() {
       <h2>Arriving in Risan</h2>
       <p>Risan is set back slightly from the main road. The inner bay pinches tight here; the town lines the shore and climbs a little way up the slope behind. Parking is straightforward — roadside lay-bys along the waterfront or a small lot near the mosaics site. The archaeological park is signed from the main road with a small brown sign; it is easy to miss.</p>
 
-      <img src="/img/blog-risan.webp" alt="Roman floor mosaic" loading="lazy" />
+      <img src="/img/blog-risan-roman-mosaics-drive.webp" alt="Roman floor mosaic" loading="lazy" />
 
       <h2>The Roman mosaics</h2>
       <p>What has been excavated at Risan is the remains of a Roman urban villa, usually dated broadly to the 2nd century AD. Five preserved floor mosaics are protected under a modern pavilion, with walkways above. Four of them are geometric — black-and-white or polychrome patterns of interlocking circles, waves, meanders. The fifth is the reason most visitors come: a reclining figure usually identified as Hypnos, the Greek god of sleep, depicted in an unusual pose. It is the only known mosaic of Hypnos found in this region and is the signature piece of the site.</p>

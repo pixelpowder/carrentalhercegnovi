@@ -9,7 +9,7 @@ export default function SutorinaBosniaCorridor() {
       title="The Sutorina Corridor — Bosnia's Old Sea Access and the Quiet Valley Behind Igalo"
       subtitle="The strip of land that once gave Bosnia-Herzegovina a window to the Adriatic, and the abandoned railway trace that still scores the valley floor"
       description="A guide to the Sutorina valley west of Igalo: the historical Bosnian corridor to the sea, the disused Belgrade–Bar railway trace (Nikšić branch), and a half-day drive from Herceg Novi up to the Bosnian border at Trebinje."
-      image="/img/blog-sutorina.webp"
+      image="/img/blog-sutorina-bosnia-corridor.webp"
     >
       <h2>What Sutorina is</h2>
       <p>Sutorina is the narrow valley that runs inland from Igalo, the western suburb of Herceg Novi. It climbs gently from the coast through fields, low hills and small villages to the Bosnian border at Ivanica, and from there up to the Herzegovinian town of Trebinje. On a map it looks unremarkable. In the longer historical record it was the famous Bosnian corridor — the strip that, between 1699 and the late 19th century, gave Bosnia-Herzegovina (under Ottoman rule) direct access to the Adriatic. That arrangement is the reason Bosnia's border today comes surprisingly close to the sea.</p>
@@ -23,7 +23,7 @@ export default function SutorinaBosniaCorridor() {
       <h2>Driving the valley</h2>
       <p>From Herceg Novi, head west along the magistrala to Igalo, then turn inland following signs toward Trebinje (Bosnia) or Sitnica. The road leaves the coast immediately and climbs gently up the Sutorina valley. The first few kilometres are built up with houses, a petrol station and a small shopping strip. Beyond that the valley opens up into farmland — maize, vines, olive groves — with the limestone hills of the Orjen foothills on the south side and the Bosnian border massif rising to the north.</p>
 
-      <img src="/img/blog-sutorina.webp" alt="Abandoned railway trace in a Balkan valley" loading="lazy" />
+      <img src="/img/blog-sutorina-bosnia-corridor.webp" alt="Abandoned railway trace in a Balkan valley" loading="lazy" />
 
       <h2>The Ivanica border crossing</h2>
       <p>The road ends at Ivanica, the small Bosnian–Montenegrin crossing point. It is a minor, quiet crossing — generally quick compared to the heavier Debeli Brijeg crossing with Croatia — and is used mostly by locals and visitors heading to Trebinje. Passports are checked in a normal manner; rental cars pass without issue if your insurance Green Card covers Bosnia-Herzegovina. If yours does not, turn back at Ivanica: you cannot cross without cover. Talk to your rental provider at booking if a Trebinje day is on the plan.</p>

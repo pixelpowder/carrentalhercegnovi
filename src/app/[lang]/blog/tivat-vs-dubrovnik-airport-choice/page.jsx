@@ -17,7 +17,7 @@ export default async function LangTivatVsDubrovnikAirportChoiceRoute({ params })
     "@type": "Article",
     "headline": "Tivat vs Dubrovnik — Which Airport to Fly Into for Herceg Novi",
     "description": "A detailed comparison of Tivat (TIV) and Dubrovnik (DBV) airports for reaching Herceg Novi: driving times, border crossings, rental car considerations, flight options.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-airport-choice.webp",
+    "image": "https://www.carrentalhercegnovi.com/img/blog-tivat-vs-dubrovnik-airport-choice.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

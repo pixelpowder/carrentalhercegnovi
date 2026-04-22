@@ -17,7 +17,7 @@ export default async function LangBijelaShipyardsHeritageRoute({ params }) {
     "@type": "Article",
     "headline": "Bijela Shipyards — The Industrial Heritage of the Outer Bay",
     "description": "A driving and walking guide to Bijela, the outer Bay of Kotor shipyard town: the dockyard history, what is visible from the road, and how to fit a visit around the ferry.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-bijela.webp",
+    "image": "https://www.carrentalhercegnovi.com/img/blog-bijela-shipyards-heritage.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

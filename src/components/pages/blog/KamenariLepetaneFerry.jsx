@@ -9,7 +9,7 @@ export default function KamenariLepetaneFerry() {
       title="The Kamenari–Lepetane Ferry — The Bay of Kotor Shortcut"
       subtitle="A five-minute crossing that saves the long drive around the inner bay — and when you should ignore it and drive around anyway"
       description="A practical guide to the Kamenari–Lepetane car ferry across the narrowest point of the Bay of Kotor: the route, when to use it, ticket basics, and what the crossing actually shows you."
-      image="/img/blog-kamenari-ferry.webp"
+      image="/img/blog-kamenari-lepetane-ferry.webp"
     >
       <h2>What the ferry is</h2>
       <p>The Kamenari–Lepetane ferry is a short roll-on-roll-off car boat that crosses the Verige strait — the narrowest throat of the Bay of Kotor, where the inner and outer bays almost pinch shut. The crossing is only about 2.3 km as the gull flies and takes roughly five minutes on the water, though the full dwell (queue, load, cross, unload) usually runs twenty minutes or so. For anyone driving between Herceg Novi, Tivat and Budva it is the difference between a short bay-hop and a long loop around Kotor's inner shore.</p>
@@ -23,7 +23,7 @@ export default function KamenariLepetaneFerry() {
       <h2>When to drive around instead</h2>
       <p>Skip the ferry if your actual destination is Kotor, Perast, Risan or the inner bay — driving the magistrala round is the point, and you would otherwise double back. Skip it in rough southerly weather, when loading can be delayed. And skip it if you have a whole afternoon and want to see the bay properly: our <a href={localePath('/blog/risan-roman-mosaics-drive')}>Risan mosaics drive</a> uses the inner-bay route as the attraction itself.</p>
 
-      <img src="/img/blog-kamenari-ferry.webp" alt="Bay of Kotor car ferry crossing" loading="lazy" />
+      <img src="/img/blog-kamenari-lepetane-ferry.webp" alt="Bay of Kotor car ferry crossing" loading="lazy" />
 
       <h2>Getting to the Kamenari ramp</h2>
       <p>From Herceg Novi, follow the magistrala east through Meljine, Zelenika, Kumbor and Baošići. Bijela comes next, and then Kamenari — a small settlement built around the ferry ramp. The ramp is signed from the main road and there is a holding lane on the verge. Queueing cars back up on the magistrala in peak hours; join the end of the line and inch forward. Pedestrians and cyclists board free; cars are charged per vehicle by size. A cash booth handles most traffic; contactless card is accepted on newer vessels but do not rely on it.</p>

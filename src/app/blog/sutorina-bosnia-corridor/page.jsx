@@ -16,7 +16,7 @@ export default function SutorinaBosniaCorridorRoute() {
     "@type": "Article",
     "headline": "The Sutorina Corridor — Bosnia's Old Sea Access and the Quiet Valley Behind Igalo",
     "description": "A guide to the Sutorina valley west of Igalo: the historical Bosnian corridor to the sea, the disused railway trace, and a half-day drive from Herceg Novi up to Trebinje.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-sutorina.webp",
+    "image": "https://www.carrentalhercegnovi.com/img/blog-sutorina-bosnia-corridor.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

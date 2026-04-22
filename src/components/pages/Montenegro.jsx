@@ -9,7 +9,7 @@ export default function Montenegro() {
       title="Driving Montenegro from the Western Bay"
       subtitle="The country from Herceg Novi as a base — two-country access and the quickest route to every major destination"
       description="Overview of Montenegro for Herceg Novi-based drivers: typical drive times to Kotor, Budva, Podgorica, and across the Croatian border."
-      image="/img/blog-ledenice.webp"
+      image="/img/blog-ledenice-viewpoint-loop.webp"
     >
       <h2>Herceg Novi as a base — the two-country advantage</h2>
       <p>Herceg Novi is the westernmost town on the Montenegrin coast. It's the only base from which you can do a morning in Croatia and an afternoon back in Montenegro without packing a bag. That geographical position defines what Montenegro looks like from here.</p>

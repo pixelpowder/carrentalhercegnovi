@@ -16,7 +16,7 @@ export default function RisanRomanMosaicsDriveRoute() {
     "@type": "Article",
     "headline": "Risan and the Roman Mosaics — An Inner-Bay Drive from Herceg Novi",
     "description": "A driving guide from Herceg Novi to Risan on the inner Bay of Kotor: the route, the Roman villa mosaics including the Hypnos floor, and why Risan rewards a half-day.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-risan.webp",
+    "image": "https://www.carrentalhercegnovi.com/img/blog-risan-roman-mosaics-drive.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

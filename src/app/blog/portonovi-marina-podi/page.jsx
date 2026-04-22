@@ -16,7 +16,7 @@ export default function PortonoviMarinaPodiRoute() {
     "@type": "Article",
     "headline": "Portonovi and Podi — The Old Naval Base Reborn as a Marina",
     "description": "A guide to Portonovi marina and the wider Podi area east of Herceg Novi: the Yugoslav naval base history, the marina today, parking and access for non-guests.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-portonovi.webp",
+    "image": "https://www.carrentalhercegnovi.com/img/blog-portonovi-marina-podi.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

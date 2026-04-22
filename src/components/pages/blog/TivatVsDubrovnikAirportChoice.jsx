@@ -9,7 +9,7 @@ export default function TivatVsDubrovnikAirportChoice() {
       title="Tivat vs Dubrovnik — Which Airport to Fly Into for Herceg Novi"
       subtitle="Two airports, roughly equal driving time to Herceg Novi, very different logistics. A decision guide for first-time visitors"
       description="A detailed comparison of Tivat (TIV) and Dubrovnik (DBV) airports for reaching Herceg Novi: driving times, border crossings, rental car considerations, flight options and cost trade-offs."
-      image="/img/blog-airport-choice.webp"
+      image="/img/blog-tivat-vs-dubrovnik-airport-choice.webp"
     >
       <h2>The short answer first</h2>
       <p>Herceg Novi sits almost exactly between two airports. Tivat Airport (TIV) is about 40 km east, entirely inside Montenegro. Dubrovnik Airport (DBV) is about 40 km west, in Croatia, with an international border crossing in between. Flight availability and fares usually decide. Logistics tend to favour Tivat for a Montenegro-only trip, and Dubrovnik for visitors already planning time in Croatia — or for those flying from northern and western European capitals where Dubrovnik is better served.</p>
@@ -28,7 +28,7 @@ export default function TivatVsDubrovnikAirportChoice() {
       <h2>Renting in Croatia vs renting in Montenegro</h2>
       <p>The rental market is one of the main reasons to look hard at this choice. Croatian rentals crossing into Montenegro usually carry a cross-border fee (often a flat surcharge), and some operators restrict the car classes permitted to cross at all. Montenegrin rentals can also be limited on cross-border use, but within Montenegro they are not. A common strategy for first-time visitors flying into Dubrovnik is to take a taxi or airport transfer across the border to Herceg Novi and pick up a Montenegrin rental on arrival, skipping the cross-border fees entirely. This adds one transfer leg but usually saves money on a trip longer than three or four days.</p>
 
-      <img src="/img/blog-airport-choice.webp" alt="Small airport rental pickup" loading="lazy" />
+      <img src="/img/blog-tivat-vs-dubrovnik-airport-choice.webp" alt="Small airport rental pickup" loading="lazy" />
 
       <h2>Late-night arrivals</h2>
       <p>Tivat's last scheduled flights typically land in the evening; a 22:00 or 23:00 arrival is not unusual. The drive from Tivat to Herceg Novi at that hour is easy — little traffic, the Kamenari ferry still running on reduced frequency. Dubrovnik also has late arrivals; a midnight border crossing is usually empty and quick, though not all rental desks at Dubrovnik are staffed through the night. If your flight is after 22:00, confirm rental desk hours.</p>

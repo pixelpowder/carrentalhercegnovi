@@ -55,15 +55,15 @@ export default function ContentPage({ title, subtitle, image, description, child
           <h2 className="related-guides__title">You might also like</h2>
           <div className="related-guides__cards">
             <a href={localePath('/blog/ledenice-viewpoint-loop')} className="related-card">
-              <img src="/img/blog-ledenice.webp" alt="Ledenice viewpoint loop" loading="lazy" />
+              <img src="/img/blog-ledenice-viewpoint-loop.webp" alt="Ledenice viewpoint loop" loading="lazy" />
               <span>Ledenice Viewpoint Loop</span>
             </a>
             <a href={localePath('/blog/rose-village-lustica')} className="related-card">
-              <img src="/img/blog-rose-village.webp" alt="Rose village on Luštica" loading="lazy" />
+              <img src="/img/blog-rose-village-lustica.webp" alt="Rose village on Luštica" loading="lazy" />
               <span>Rose Village on Luštica</span>
             </a>
             <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')} className="related-card">
-              <img src="/img/blog-airport-choice.webp" alt="Tivat vs Dubrovnik airport choice" loading="lazy" />
+              <img src="/img/blog-tivat-vs-dubrovnik-airport-choice.webp" alt="Tivat vs Dubrovnik airport choice" loading="lazy" />
               <span>Tivat vs Dubrovnik Airport</span>
             </a>
           </div>

@@ -9,7 +9,7 @@ export default function RoseVillageLustica() {
       title="Rose Village — The Fishing Hamlet at the Tip of Luštica"
       subtitle="A car-free stone village on the outer Luštica shore, with Austrian battery ruins above and a boat-taxi culture below"
       description="A guide to Rose (Rose, Luštica) — the small 14th-century fishing village on the Luštica peninsula opposite Herceg Novi: how to get there, where to park, what to see, and how the Austrian coastal batteries tie in."
-      image="/img/blog-rose-village.webp"
+      image="/img/blog-rose-village-lustica.webp"
     >
       <h2>Where Rose is</h2>
       <p>Rose — written Rose in Montenegrin and pronounced roughly "Ro-seh" — is a small stone village at the north-western tip of the Luštica peninsula, directly across the mouth of the Bay of Kotor from Herceg Novi. It is the first piece of Luštica you see from the Herceg Novi waterfront, and in the evenings its lights trace the opposite shore. Boats cross the two kilometres of water in about fifteen minutes; by road it is a roughly hour-long loop via the Kamenari ferry and the length of the Luštica north coast.</p>
@@ -23,7 +23,7 @@ export default function RoseVillageLustica() {
       <h2>Where to park</h2>
       <p>The village itself is not drivable. A small dusty car park sits above Rose where the road stops, and from there a stepped path leads down to the harbour in five minutes. The lot is free but holds maybe twenty cars. In July and August it fills by mid-morning; arrive before ten, or take the boat. Do not try to drive down the footpath — cars have been damaged trying.</p>
 
-      <img src="/img/blog-rose-village.webp" alt="Adriatic stone village on the shore" loading="lazy" />
+      <img src="/img/blog-rose-village-lustica.webp" alt="Adriatic stone village on the shore" loading="lazy" />
 
       <h2>What the village feels like</h2>
       <p>Rose is a working fishing settlement with a small summer overlay of cafés and seafood restaurants. Stone houses packed tight around two small pebble coves, a concrete jetty where fishing boats tie up, nets drying on walls, a scatter of outdoor tables in the shade. A handful of konobas open in season and do simple, fresh whole-fish lunches — grilled sea bream, octopus salad, a carafe of cold local white. Outside May to October many of these are closed and the village returns to its working rhythm.</p>

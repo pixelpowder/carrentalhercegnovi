@@ -9,7 +9,7 @@ export default function About() {
       title="About Car Rental Herceg Novi"
       subtitle="A local booking partner on Montenegro's western border — serving visitors via Tivat Airport, Dubrovnik Airport, or ferry arrivals"
       description="Car Rental Herceg Novi is an independent booking platform for rental cars on Montenegro's western bay, specialising in Herceg Novi, Igalo, and cross-border Dubrovnik trips."
-      image="/img/blog-djenovici.webp"
+      image="/img/blog-djenovici-west-bay-promenade.webp"
     >
       <h2>Who we are</h2>
       <p>Car Rental Herceg Novi is a booking platform partnered with small and mid-sized rental operators on Montenegro's western coast — the stretch from the Debeli Brijeg border through Igalo, Herceg Novi, and onto the Kamenari ferry. We're a small local team, not a global franchise.</p>

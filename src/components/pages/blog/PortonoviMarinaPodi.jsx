@@ -9,7 +9,7 @@ export default function PortonoviMarinaPodi() {
       title="Portonovi and Podi — The Old Naval Base Reborn as a Marina"
       subtitle="How the former Yugoslav naval yard at Kumbor became a superyacht marina, and what a rental driver gets out of visiting"
       description="A guide to Portonovi marina and the wider Podi area east of Herceg Novi: the Yugoslav naval base history, the marina today, parking and access for non-guests, and what is worth an hour's detour."
-      image="/img/blog-portonovi.webp"
+      image="/img/blog-portonovi-marina-podi.webp"
     >
       <h2>What Portonovi is</h2>
       <p>Portonovi is a superyacht marina and resort complex on the outer Bay of Kotor, a few kilometres east of Herceg Novi between Kumbor and Đenovići. The site covers a long stretch of waterfront with a deep-water harbour, a village of low-rise stone-clad buildings, a hotel, and a scatter of high-end shops and restaurants. It opened in phases through the late 2010s and early 2020s and sits on land that, for most of the 20th century, was a Yugoslav naval base. The contrast is the interesting part — and a rental car makes it accessible without staying there.</p>
@@ -20,7 +20,7 @@ export default function PortonoviMarinaPodi() {
       <h2>Podi — the hillside behind</h2>
       <p>Podi is the broader settlement climbing the hillside behind Portonovi. It is a mixed area of older village houses, newer villa developments built in the last fifteen years, and a supermarket on the magistrala. A local Podi roundabout acts as a hub — the turn down to Portonovi drops from here. The views back over the marina from the upper Podi streets are better than anything you can photograph at sea level.</p>
 
-      <img src="/img/blog-portonovi.webp" alt="Mediterranean marina at dusk" loading="lazy" />
+      <img src="/img/blog-portonovi-marina-podi.webp" alt="Mediterranean marina at dusk" loading="lazy" />
 
       <h2>Getting there from Herceg Novi</h2>
       <p>It is a ten-minute drive. Leave Herceg Novi east on the magistrala through Meljine and Zelenika. Past Kumbor, signs for Portonovi appear on the right. Drop down the access road to a gatehouse. Public parking for non-guests is available in a multi-storey lot near the entrance — free for a couple of hours if you are dining or shopping inside. The complex allows walk-in visitors during normal hours; simply park, pass the gatehouse on foot, and walk the promenade.</p>

@@ -16,7 +16,7 @@ export default function DjenoviciWestBayPromenadeRoute() {
     "@type": "Article",
     "headline": "Đenovići and the West-Bay Promenade — The Forgotten Coastal Strip East of Herceg Novi",
     "description": "A walking and driving guide to Đenovići, Baošići and the quiet west-bay coastal promenade east of Herceg Novi: Austro-Hungarian history, where to swim and eat.",
-    "image": "https://www.carrentalhercegnovi.com/img/blog-djenovici.webp",
+    "image": "https://www.carrentalhercegnovi.com/img/blog-djenovici-west-bay-promenade.webp",
     "datePublished": "2026-04-22",
     "dateModified": "2026-04-22",
     "author": { "@type": "Organization", "name": "Car Rental Herceg Novi", "url": "https://www.carrentalhercegnovi.com" },

@@ -9,7 +9,7 @@ export default function DjenoviciWestBayPromenade() {
       title="Đenovići and the West-Bay Promenade — The Forgotten Coastal Strip East of Herceg Novi"
       subtitle="A slow, low-rise stretch of Austro-Hungarian villas, cypress avenues, and concrete swimming platforms — walkable all the way from Herceg Novi"
       description="A walking and driving guide to Đenovići, Baošići and the quiet west-bay coastal promenade east of Herceg Novi: Austro-Hungarian history, where to swim, where to eat, and how to fit it into a lazy day."
-      image="/img/blog-djenovici.webp"
+      image="/img/blog-djenovici-west-bay-promenade.webp"
     >
       <h2>What the strip is</h2>
       <p>East of Herceg Novi the outer Bay of Kotor unfurls as a long, gentle arc of low-rise coastal villages — Meljine, Zelenika, Kumbor, Đenovići, Baošići, Bijela — stitched together by a near-continuous waterfront promenade. It has none of the tourist weight of Kotor or Budva; it has the slower, more residential feel of an Austro-Hungarian riviera that never fully industrialised. If Herceg Novi's old town is the postcard, this strip is the living room.</p>
@@ -20,7 +20,7 @@ export default function DjenoviciWestBayPromenade() {
       <h2>The Austro-Hungarian layer</h2>
       <p>Between 1878 and 1918 this coast was administered from Vienna. The period left a distinctive architectural signature: two- and three-storey villas in pale plaster with green shutters, cypress avenues, concrete swimming platforms built out from the rocks, and a style of seaside promenade that feels more Trieste than Kotor. Many of the villas survive. Some are restored and occupied year-round; others hold on in faded glory, paint flaking, shutters closed most of the year.</p>
 
-      <img src="/img/blog-djenovici.webp" alt="Adriatic coastal promenade" loading="lazy" />
+      <img src="/img/blog-djenovici-west-bay-promenade.webp" alt="Adriatic coastal promenade" loading="lazy" />
 
       <h2>The promenade itself</h2>
       <p>The paved waterfront walkway (part of the extended Šetalište Pet Danica system) runs for several kilometres along the bay. It is flat, shaded in parts by pines and plane trees, and broken by regular swimming ladders and small pebble coves. Locals use it for morning joggers, evening strollers and the kind of slow ice-cream crawl that the inner-bay towns do not really allow. You can cover the Herceg Novi → Đenovići section on foot in about an hour and a half at a slow pace, or in twenty minutes by bicycle.</p>
