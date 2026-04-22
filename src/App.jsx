@@ -570,10 +570,10 @@ function Destinations() {
    ═══════════════════════════════════════════════════════════ */
 // Images + hrefs stay in code; title/desc/time/distance come from translations.
 const ROUTE_IMAGES = [
-  { image: '/img/blog-blue-cave.webp', href: '/blog/sveti-nikola-hawaii' },
-  { image: '/img/blog-dubrovnik.webp', href: '/budva' },
-  { image: '/img/blog-orjen.webp', href: '/blog/dubrovnik-day-trip' },
-  { image: '/img/blog-tivat-arrival.webp', href: '/blog/tivat-airport-to-hercegnovi' },
+  { image: '/img/blog-kamenari-ferry.webp', href: '/blog/kamenari-lepetane-ferry' },
+  { image: '/img/blog-risan.webp', href: '/blog/risan-roman-mosaics-drive' },
+  { image: '/img/blog-ledenice.webp', href: '/blog/ledenice-viewpoint-loop' },
+  { image: '/img/blog-airport-choice.webp', href: '/blog/tivat-vs-dubrovnik-airport-choice' },
 ];
 
 function PopularRoutes() {
@@ -694,7 +694,7 @@ function Stats() {
    SECTION: INSIDER TIPS — photo cards with travel advice
    ═══════════════════════════════════════════════════════════ */
 // Images stay in code; tag/title/text come from translations.
-const TIP_IMAGES = ['/img/blog-tivat-arrival.webp', '/img/blog-orjen.webp', '/img/blog-tivat-arrival.webp'];
+const TIP_IMAGES = ['/img/blog-airport-choice.webp', '/img/blog-ledenice.webp', '/img/blog-djenovici.webp'];
 
 function InsiderTips() {
   const { t } = useTranslation();
@@ -727,9 +727,9 @@ function InsiderTips() {
    SECTION 8: BLOG CARDS
    ═══════════════════════════════════════════════════════════ */
 const blogPosts = [
-  { key: 'churches', image: '/img/blog-hercegnovi-oldtown.webp', href: '/blog/orjen-mountain-hike' },
-  { key: 'vrmac', image: '/img/blog-dubrovnik.webp', href: '/blog/blue-cave-boat-tour' },
-  { key: 'swimming', image: '/img/blog-blue-cave.webp', href: '/blog/sveti-nikola-hawaii' },
+  { key: 'churches', image: '/img/blog-rose-village.webp', href: '/blog/rose-village-lustica' },
+  { key: 'vrmac', image: '/img/blog-bijela.webp', href: '/blog/bijela-shipyards-heritage' },
+  { key: 'swimming', image: '/img/blog-sutorina.webp', href: '/blog/sutorina-bosnia-corridor' },
 ];
 
 function BlogCards() {
@@ -766,10 +766,10 @@ function BlogCards() {
    ═══════════════════════════════════════════════════════════ */
 // Images + hrefs stay in code; title/location come from translations.
 const EXPERIENCE_SLOTS = [
-  { image: '/img/blog-blue-cave.webp', href: '/blog/sveti-nikola-hawaii' },
-  { image: '/img/blog-orjen.webp', href: '/blog/dubrovnik-day-trip' },
-  { image: '/img/blog-dubrovnik.webp', href: '/budva' },
-  { image: '/img/blog-tivat-arrival.webp', href: '/blog/tivat-airport-to-hercegnovi' },
+  { image: '/img/blog-rose-village.webp', href: '/blog/rose-village-lustica' },
+  { image: '/img/blog-portonovi.webp', href: '/blog/portonovi-marina-podi' },
+  { image: '/img/blog-risan.webp', href: '/blog/risan-roman-mosaics-drive' },
+  { image: '/img/blog-airport-choice.webp', href: '/blog/tivat-vs-dubrovnik-airport-choice' },
 ];
 
 function Experiences() {
@@ -815,11 +815,11 @@ function RoadTripPromo() {
             <p className="affiliate-promo__desc">{t('roadTripPlanner.desc') || 'Scenic routes, hidden viewpoints, fuel stops, parking tips, and border crossing advice, written by drivers who know every hairpin on these roads.'}</p>
             <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
               <a href={localePath('/blog')} className="affiliate-promo__btn">{t('roadTripPlanner.browseAll')}</a>
-              <a href={localePath('/blog/dubrovnik-day-trip')} className="aff-outline-btn">{t('roadTripPlanner.lovcenGuide')}</a>
+              <a href={localePath('/blog/ledenice-viewpoint-loop')} className="aff-outline-btn">{t('roadTripPlanner.lovcenGuide')}</a>
             </div>
           </div>
           <div className="affiliate-promo__image">
-            <img src="/img/blog-orjen.webp" alt="Winding mountain road in Montenegro" loading="lazy" />
+            <img src="/img/blog-ledenice.webp" alt="Winding mountain road above the Bay of Kotor" loading="lazy" />
           </div>
         </div>
       </div>
@@ -936,7 +936,7 @@ function PricingComparison() {
    ═══════════════════════════════════════════════════════════ */
 function DriveTimesMap() {
   const { t, localePath } = useTranslation();
-  const hrefs = ['/blog/tivat-airport-to-hercegnovi', '/blog/herceg-novi-old-town', '/blog/mamula-island-history', '/blog/savina-monastery', '/blog/orjen-mountain-hike'];
+  const hrefs = ['/blog/tivat-vs-dubrovnik-airport-choice', '/blog/kamenari-lepetane-ferry', '/blog/rose-village-lustica', '/blog/risan-roman-mosaics-drive', '/blog/ledenice-viewpoint-loop'];
   return (
     <section className="section" id="drive-times">
       <div className="container">

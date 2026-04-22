@@ -40,12 +40,12 @@ export default function ContentPage({ title, subtitle, image, description, child
           <div className="sidebar-card">
             <h3 className="sidebar-card__title">Western Bay Guides</h3>
             <ul className="sidebar-links">
-              <li><a href={localePath('/blog/herceg-novi-old-town')}>Herceg Novi Old Town</a></li>
-              <li><a href={localePath('/blog/dubrovnik-day-trip')}>Dubrovnik Day Trip</a></li>
-              <li><a href={localePath('/blog/mamula-island-history')}>Mamula Island</a></li>
-              <li><a href={localePath('/blog/igalo-thermal-mud-spa')}>Igalo Mud Spa</a></li>
-              <li><a href={localePath('/blog/blue-cave-boat-tour')}>Blue Cave Tour</a></li>
-              <li><a href={localePath('/blog/savina-monastery')}>Savina Monastery</a></li>
+              <li><a href={localePath('/blog/kamenari-lepetane-ferry')}>Kamenari–Lepetane Ferry</a></li>
+              <li><a href={localePath('/blog/rose-village-lustica')}>Rose Village on Luštica</a></li>
+              <li><a href={localePath('/blog/ledenice-viewpoint-loop')}>Ledenice Viewpoint Loop</a></li>
+              <li><a href={localePath('/blog/risan-roman-mosaics-drive')}>Risan Roman Mosaics</a></li>
+              <li><a href={localePath('/blog/djenovici-west-bay-promenade')}>Đenovići West-Bay Promenade</a></li>
+              <li><a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')}>Tivat vs Dubrovnik Airport</a></li>
             </ul>
           </div>
         </aside>
@@ -54,17 +54,17 @@ export default function ContentPage({ title, subtitle, image, description, child
         <div className="related-guides__inner">
           <h2 className="related-guides__title">You might also like</h2>
           <div className="related-guides__cards">
-            <a href={localePath('/blog/orjen-mountain-hike')} className="related-card">
-              <img src="/img/blog-orjen.webp" alt="Orjen Mountain hike" loading="lazy" />
-              <span>Orjen Mountain Hike</span>
+            <a href={localePath('/blog/ledenice-viewpoint-loop')} className="related-card">
+              <img src="/img/blog-ledenice.webp" alt="Ledenice viewpoint loop" loading="lazy" />
+              <span>Ledenice Viewpoint Loop</span>
             </a>
-            <a href={localePath('/blog/lustica-peninsula-drive')} className="related-card">
-              <img src="/img/blog-lustica.webp" alt="Luštica peninsula drive" loading="lazy" />
-              <span>Luštica Peninsula Drive</span>
+            <a href={localePath('/blog/rose-village-lustica')} className="related-card">
+              <img src="/img/blog-rose-village.webp" alt="Rose village on Luštica" loading="lazy" />
+              <span>Rose Village on Luštica</span>
             </a>
-            <a href={localePath('/blog/tivat-airport-to-hercegnovi')} className="related-card">
-              <img src="/img/blog-tivat-arrival.webp" alt="Tivat Airport to Herceg Novi" loading="lazy" />
-              <span>Tivat Airport Route</span>
+            <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')} className="related-card">
+              <img src="/img/blog-airport-choice.webp" alt="Tivat vs Dubrovnik airport choice" loading="lazy" />
+              <span>Tivat vs Dubrovnik Airport</span>
             </a>
           </div>
         </div>

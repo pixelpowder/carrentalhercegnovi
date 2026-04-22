@@ -12,15 +12,15 @@ const cardExcerptStyle = { fontSize: '15px', color: 'var(--gray-600, #6c757d)', 
 const cardLinkStyle = { fontSize: '14px', fontWeight: 700, color: '#E31937', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px' };
 
 const articles = [
-  { title: 'Herceg Novi Old Town — The City of Stairs and the Bloody Tower', excerpt: "Kanli Kula fortress (1539), the 1382 Stari Grad, and a town built on stone stairs rising from the harbour.", image: '/img/blog-hercegnovi-oldtown.webp', href: '/blog/herceg-novi-old-town' },
-  { title: 'Dubrovnik Day Trip from Herceg Novi — The Border Crossing Guide', excerpt: "Forty kilometres west to the Croatian walled city. The Debeli Brijeg border, wait times, car paperwork and timing.", image: '/img/blog-dubrovnik.webp', href: '/blog/dubrovnik-day-trip' },
-  { title: 'Mamula Island — From 19th-Century Fortress to WWII Prison to Luxury Hotel', excerpt: "The small circular island 10 km offshore with three lives — Austro-Hungarian fort, Mussolini prison, Banyan Tree hotel.", image: '/img/blog-mamula.webp', href: '/blog/mamula-island-history' },
-  { title: "Igalo's Thermal Mud Spa — The Institute Tito Used", excerpt: "Radioactive marine peloid, a 1949 institute, and the spa Marshal Tito visited for treatment in the Yugoslav era.", image: '/img/blog-igalo.webp', href: '/blog/igalo-thermal-mud-spa' },
-  { title: 'Orjen Mountain — Hiking from Sea Level to 1,895 m', excerpt: "Cretaceous limestone, 40 km of marked trails, Subra and Veliki Kabao summits, and a start right from the Herceg Novi bus station.", image: '/img/blog-orjen.webp', href: '/blog/orjen-mountain-hike' },
-  { title: 'Savina Monastery — Three Churches, a Thousand Years of Orthodox History', excerpt: "The 11th-century Orthodox complex above Herceg Novi — oldest foundations from 1030, relics of St Sava.", image: '/img/blog-savina.webp', href: '/blog/savina-monastery' },
-  { title: 'Blue Cave (Plava Špilja) — The Boat Tour from Herceg Novi', excerpt: "A sea cave on the Luštica Peninsula that glows neon blue at midday. Boat tours, stops, swimming and best months.", image: '/img/blog-blue-cave.webp', href: '/blog/blue-cave-boat-tour' },
-  { title: 'The Luštica Peninsula Drive — Hidden Beaches Across the Water', excerpt: "The peninsula opposite Herceg Novi — Kamenari ferry, Mirište and Žanjice beaches, Rose village, Luštica Bay.", image: '/img/blog-lustica.webp', href: '/blog/lustica-peninsula-drive' },
-  { title: 'Tivat Airport to Herceg Novi — Three Routes, Three Different Drives', excerpt: "40 km by road, or a ferry shortcut that halves the distance. When each route is worth taking.", image: '/img/blog-tivat-arrival.webp', href: '/blog/tivat-airport-to-hercegnovi' },
+  { title: 'The Kamenari–Lepetane Ferry — The Bay of Kotor Shortcut', excerpt: 'A five-minute roll-on ferry across the Verige strait — when to use it vs driving around the bay.', image: '/img/blog-kamenari-ferry.webp', href: '/blog/kamenari-lepetane-ferry' },
+  { title: 'Rose Village — The Fishing Hamlet at the Tip of Luštica', excerpt: 'A 14th-century stone village opposite Herceg Novi, with Austrian battery ruins on the ridge above.', image: '/img/blog-rose-village.webp', href: '/blog/rose-village-lustica' },
+  { title: 'The Ledenice Loop — The Mountain Road Above Herceg Novi', excerpt: 'A steep switchback climb to ~700 m on the flank of Orjen, and the best bay panorama on the west Boka.', image: '/img/blog-ledenice.webp', href: '/blog/ledenice-viewpoint-loop' },
+  { title: 'Risan and the Roman Mosaics — An Inner-Bay Drive from Herceg Novi', excerpt: 'An ancient Illyrian capital, a Roman villa and the Hypnos floor mosaic most visitors never see.', image: '/img/blog-risan.webp', href: '/blog/risan-roman-mosaics-drive' },
+  { title: 'Portonovi and Podi — The Old Naval Base Reborn as a Marina', excerpt: 'How the Yugoslav naval yard at Kumbor became a superyacht marina, and whether it is worth an hour.', image: '/img/blog-portonovi.webp', href: '/blog/portonovi-marina-podi' },
+  { title: 'Bijela Shipyards — The Industrial Heritage of the Outer Bay', excerpt: 'A working dry-dock town on the magistrala and a concise lesson in how the Adriatic coast paid its bills.', image: '/img/blog-bijela.webp', href: '/blog/bijela-shipyards-heritage' },
+  { title: 'Đenovići and the West-Bay Promenade', excerpt: 'Austro-Hungarian villas, cypress avenues and a quiet walking strip east of Herceg Novi.', image: '/img/blog-djenovici.webp', href: '/blog/djenovici-west-bay-promenade' },
+  { title: "The Sutorina Corridor — Bosnia's Old Sea Access", excerpt: 'The valley west of Igalo that once gave Bosnia a window to the Adriatic, and the abandoned railway trace still visible today.', image: '/img/blog-sutorina.webp', href: '/blog/sutorina-bosnia-corridor' },
+  { title: 'Tivat vs Dubrovnik — Which Airport to Fly Into for Herceg Novi', excerpt: 'Two airports, roughly equal driving time, very different logistics. A decision guide for first-time visitors.', image: '/img/blog-airport-choice.webp', href: '/blog/tivat-vs-dubrovnik-airport-choice' },
 ];
 
 export default function BlogIndex() {
@@ -28,7 +28,7 @@ export default function BlogIndex() {
   return (
     <div className="content-page">
       <Nav />
-      <div className="content-hero" style={{ backgroundImage: 'url(/img/blog-hercegnovi-oldtown.webp)' }}>
+      <div className="content-hero" style={{ backgroundImage: 'url(/img/blog-djenovici.webp)' }}>
         <div className="content-hero__overlay" />
         <div className="content-hero__text">
           <nav className="breadcrumbs">
@@ -36,8 +36,8 @@ export default function BlogIndex() {
             <span className="breadcrumbs__sep">/</span>
             <span>Blog</span>
           </nav>
-          <h1 className="content-hero__title">Driving Herceg Novi and the Western Bay</h1>
-          <p className="content-hero__subtitle">Researched guides to the coast, borders, mountains and boat trips from the Adriatic's western Montenegrin edge.</p>
+          <h1 className="content-hero__title">Driving the Western Bay of Kotor</h1>
+          <p className="content-hero__subtitle">Researched guides to the quieter corners of the Herceg Novi region — ferries, villages, viewpoints and the borders behind the old town.</p>
         </div>
       </div>
       <div style={{ maxWidth: '1220px', margin: '0 auto', padding: '48px 24px 80px', width: '100%' }}>

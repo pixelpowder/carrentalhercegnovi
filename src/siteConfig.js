@@ -63,14 +63,14 @@ const siteConfig = {
   ],
 
   destinations: [
-    { name: "Herceg Novi Old Town", slug: "blog/herceg-novi-old-town", tag: "City of Stairs", desc: "Kanli Kula fortress (1539), Ottoman walls and Mediterranean stone stairs.", image: "/img/blog-hercegnovi-oldtown.webp" },
-    { name: "Savina Monastery", slug: "blog/savina-monastery", tag: "11th century", desc: "Three Orthodox churches, oldest foundations from 1030.", image: "/img/blog-savina.webp" },
-    { name: "Dubrovnik Day Trip", slug: "blog/dubrovnik-day-trip", tag: "40 min + border", desc: "Across the Croatian border for the walled city.", image: "/img/blog-dubrovnik.webp" },
-    { name: "Mamula Island", slug: "blog/mamula-island-history", tag: "10 km offshore", desc: "19th-century fort, WWII prison, now a luxury hotel.", image: "/img/blog-mamula.webp" },
-    { name: "Blue Cave", slug: "blog/blue-cave-boat-tour", tag: "Luštica peninsula", desc: "Neon-blue sea cave 15m wide, best at noon.", image: "/img/blog-blue-cave.webp" },
-    { name: "Igalo Mud Spa", slug: "blog/igalo-thermal-mud-spa", tag: "Spa since 1949", desc: "Radioactive marine mud and thermal treatment.", image: "/img/blog-igalo.webp" },
-    { name: "Orjen Mountain", slug: "blog/orjen-mountain-hike", tag: "Above 1,800 m", desc: "Cretaceous limestone and 40 km of marked trails.", image: "/img/blog-orjen.webp" },
-    { name: "Tivat Airport", slug: "blog/tivat-airport-to-hercegnovi", tag: "40 min drive", desc: "Main arrival point for summer flights.", image: "/img/blog-tivat-arrival.webp" },
+    { name: "Kamenari–Lepetane Ferry", slug: "blog/kamenari-lepetane-ferry", tag: "~5 min crossing", desc: "The roll-on ferry shortcut across the narrowest point of the Bay of Kotor.", image: "/img/blog-kamenari-ferry.webp" },
+    { name: "Rose Village", slug: "blog/rose-village-lustica", tag: "Luštica peninsula", desc: "A 14th-century fishing hamlet with Austrian battery ruins above.", image: "/img/blog-rose-village.webp" },
+    { name: "Ledenice Loop", slug: "blog/ledenice-viewpoint-loop", tag: "~700 m altitude", desc: "The switchback road above Herceg Novi and the best bay panorama on the west Boka.", image: "/img/blog-ledenice.webp" },
+    { name: "Risan Roman Mosaics", slug: "blog/risan-roman-mosaics-drive", tag: "Inner bay", desc: "An ancient Illyrian capital and a Roman villa floor mosaic of Hypnos.", image: "/img/blog-risan.webp" },
+    { name: "Portonovi Marina", slug: "blog/portonovi-marina-podi", tag: "5 km east", desc: "The former Yugoslav naval base at Kumbor, now a superyacht marina.", image: "/img/blog-portonovi.webp" },
+    { name: "Bijela Shipyards", slug: "blog/bijela-shipyards-heritage", tag: "Since 1927", desc: "The working dry-dock town on the outer bay magistrala.", image: "/img/blog-bijela.webp" },
+    { name: "Đenovići Promenade", slug: "blog/djenovici-west-bay-promenade", tag: "Austro-Hungarian villas", desc: "A low-rise coastal strip and walking promenade east of Herceg Novi.", image: "/img/blog-djenovici.webp" },
+    { name: "Airport Choice", slug: "blog/tivat-vs-dubrovnik-airport-choice", tag: "Tivat vs Dubrovnik", desc: "Two airports, roughly equal drive time — a decision guide.", image: "/img/blog-airport-choice.webp" },
   ],
 };
 

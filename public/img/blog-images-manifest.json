@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "kamenari-ferry",
+    "pexelsId": 14992687,
+    "query": "car ferry adriatic",
+    "photographer": "DeLuca G",
+    "page": "https://www.pexels.com/photo/ferry-ship-docked-on-the-seashore-14992687/",
+    "file": "blog-kamenari-ferry.webp"
+  },
+  {
+    "slug": "rose-village",
+    "pexelsId": 5273462,
+    "query": "montenegro fishing village stone",
+    "photographer": "Julia Volk",
+    "page": "https://www.pexels.com/photo/motorboats-on-cart-near-residential-building-in-tropical-town-5273462/",
+    "file": "blog-rose-village.webp"
+  },
+  {
+    "slug": "ledenice",
+    "pexelsId": 33301409,
+    "query": "mountain road viewpoint adriatic",
+    "photographer": "Boris Hamer",
+    "page": "https://www.pexels.com/photo/scenic-view-of-bar-montenegro-from-hillside-33301409/",
+    "file": "blog-ledenice.webp"
+  },
+  {
+    "slug": "risan",
+    "pexelsId": 35709173,
+    "query": "roman mosaic ancient",
+    "photographer": "Magda Ehlers",
+    "page": "https://www.pexels.com/photo/intricate-black-and-white-roman-mosaic-floor-35709173/",
+    "file": "blog-risan.webp"
+  },
+  {
+    "slug": "portonovi",
+    "pexelsId": 15452603,
+    "query": "luxury marina yachts",
+    "photographer": "Diego F. Parra",
+    "page": "https://www.pexels.com/photo/motor-yachts-moored-in-marina-15452603/",
+    "file": "blog-portonovi.webp"
+  },
+  {
+    "slug": "bijela",
+    "pexelsId": 33676916,
+    "query": "shipyard cranes",
+    "photographer": "Ramon Karolan",
+    "page": "https://www.pexels.com/photo/industrial-cranes-in-croatian-shipyard-landscape-33676916/",
+    "file": "blog-bijela.webp"
+  },
+  {
+    "slug": "djenovici",
+    "pexelsId": 17268874,
+    "query": "adriatic coastal promenade",
+    "photographer": "DeLuca G",
+    "page": "https://www.pexels.com/photo/drone-shot-of-sunlit-zadar-17268874/",
+    "file": "blog-djenovici.webp"
+  },
+  {
+    "slug": "sutorina",
+    "pexelsId": 37126506,
+    "query": "abandoned railway tracks overgrown",
+    "photographer": "Nikos B",
+    "page": "https://www.pexels.com/photo/abandoned-railway-in-lush-spring-forest-37126506/",
+    "file": "blog-sutorina.webp"
+  },
+  {
+    "slug": "airport-choice",
+    "pexelsId": 35644200,
+    "query": "small regional airport runway",
+    "photographer": "Nothing Ahead",
+    "page": "https://www.pexels.com/photo/small-airport-terminal-with-people-outside-35644200/",
+    "file": "blog-airport-choice.webp"
+  }
+]
