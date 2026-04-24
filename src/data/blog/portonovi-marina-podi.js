@@ -1,8 +1,8 @@
 const content = {
   en: {
-    title: "Portonovi and Podi — The Old Naval Base Reborn as a Marina",
+    title: "Portonovi & Podi Marina Guide",
     subtitle: "How the former Yugoslav naval yard at Kumbor became a superyacht marina, and what a rental driver gets out of visiting",
-    description: "A guide to Portonovi marina and the wider Podi area east of Herceg Novi: the Yugoslav naval base history, the marina today, parking and access for non-guests, and what is worth an hour's detour.",
+    description: "Guide to Portonovi marina and Podi east of Herceg Novi: the old Yugoslav naval base, the marina today, and parking and access for non-guests.",
     image: "/img/blog-portonovi-marina-podi.webp",
     sections: [
       { type: 'h2', text: 'What Portonovi is' },
@@ -42,9 +42,9 @@ const content = {
     ],
   },
   de: {
-    title: "Portonovi und Podi — die alte Marinebasis als Marina wiedergeboren",
+    title: "Portonovi & Podi — Marina-Leitfaden",
     subtitle: "Wie die ehemalige jugoslawische Marinewerft in Kumbor zur Superyacht-Marina wurde und was ein Mietwagenfahrer beim Besuch davon hat",
-    description: "Leitfaden zur Marina Portonovi und zum Gebiet Podi östlich von Herceg Novi: Geschichte der jugoslawischen Marinebasis, die Marina heute, Parken und Zugang für Nicht-Gäste sowie ein einstündiger lohnender Abstecher.",
+    description: "Leitfaden zur Marina Portonovi und Podi östlich von Herceg Novi: die alte jugoslawische Marinebasis, die Marina heute, Parken und Zugang für Nicht-Gäste.",
     image: "/img/blog-portonovi-marina-podi.webp",
     sections: [
       { type: 'h2', text: 'Was Portonovi ist' },
@@ -84,9 +84,9 @@ const content = {
     ],
   },
   ru: {
-    title: "Portonovi и Poди — бывшая военно-морская база, возродившаяся как марина",
+    title: "Portonovi и Podi — гид по марине",
     subtitle: "Как бывший югославский военный порт в Кумборе стал мариной для супер-яхт и что даёт его посещение водителю на прокатном авто",
-    description: "Гид по марине Portonovi и району Podi к востоку от Херцег-Нови: история югославской военно-морской базы, марина сегодня, парковка и доступ не-гостям и что стоит часа крюка.",
+    description: "Гид по марине Portonovi и району Podi к востоку от Херцег-Нови: история югославской военно-морской базы, марина сегодня, парковка и доступ.",
     image: "/img/blog-portonovi-marina-podi.webp",
     sections: [
       { type: 'h2', text: 'Что такое Portonovi' },
@@ -126,9 +126,9 @@ const content = {
     ],
   },
   it: {
-    title: "Portonovi e Podi — la vecchia base navale rinata come marina",
+    title: "Portonovi e Podi — guida alla marina",
     subtitle: "Come l'ex cantiere navale jugoslavo di Kumbor è diventato una marina per superyacht e cosa ne ricava un automobilista a noleggio",
-    description: "Guida alla marina di Portonovi e all'area più ampia di Podi a est di Herceg Novi: storia della base navale jugoslava, la marina oggi, parcheggio e accesso ai non ospiti e cosa vale un'ora di deviazione.",
+    description: "Guida alla marina di Portonovi e all'area di Podi a est di Herceg Novi: la vecchia base navale jugoslava, la marina oggi, parcheggio e accesso.",
     image: "/img/blog-portonovi-marina-podi.webp",
     sections: [
       { type: 'h2', text: 'Cos\'è Portonovi' },
@@ -168,9 +168,9 @@ const content = {
     ],
   },
   fr: {
-    title: "Portonovi et Podi — l'ancienne base navale renée en marina",
+    title: "Portonovi et Podi — guide marina",
     subtitle: "Comment l'ancien chantier naval yougoslave de Kumbor est devenu une marina pour superyachts, et ce qu'un conducteur de location en tire en visite",
-    description: "Guide de la marina Portonovi et de la zone plus large de Podi à l'est de Herceg Novi : l'histoire de la base navale yougoslave, la marina aujourd'hui, stationnement et accès pour non-clients, et ce qui mérite une heure de détour.",
+    description: "Guide de la marina Portonovi et de Podi à l'est de Herceg Novi : l'ancienne base navale yougoslave, la marina aujourd'hui, stationnement et accès.",
     image: "/img/blog-portonovi-marina-podi.webp",
     sections: [
       { type: 'h2', text: 'Ce qu\'est Portonovi' },
@@ -210,9 +210,9 @@ const content = {
     ],
   },
   me: {
-    title: "Portonovi i Podi — stara pomorska baza preporođena u marinu",
+    title: "Portonovi i Podi — vodič za marinu",
     subtitle: "Kako je bivše jugoslovensko pomorsko brodogradilište u Kumboru postalo marina za super-jahte i šta posjetilac s rentanim autom dobija",
-    description: "Vodič za marinu Portonovi i širu oblast Podi istočno od Herceg Novog: istorija jugoslovenske pomorske baze, marina danas, parking i pristup negostima i šta vrijedi sat vremena skretanja.",
+    description: "Vodič za marinu Portonovi i oblast Podi istočno od Herceg Novog: stara jugoslovenska pomorska baza, marina danas, parking i pristup negostima.",
     image: "/img/blog-portonovi-marina-podi.webp",
     sections: [
       { type: 'h2', text: 'Šta je Portonovi' },

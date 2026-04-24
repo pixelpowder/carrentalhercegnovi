@@ -1,8 +1,8 @@
 const content = {
   en: {
-    title: "The Sutorina Corridor — Bosnia's Old Sea Access and the Quiet Valley Behind Igalo",
+    title: "The Sutorina Corridor Drive",
     subtitle: "The strip of land that once gave Bosnia-Herzegovina a window to the Adriatic, and the abandoned railway trace that still scores the valley floor",
-    description: "A guide to the Sutorina valley west of Igalo: the historical Bosnian corridor to the sea, the disused Belgrade–Bar railway trace (Nikšić branch), and a half-day drive from Herceg Novi up to the Bosnian border at Trebinje.",
+    description: "Guide to the Sutorina valley west of Igalo: Bosnia's old sea corridor, the disused Belgrade–Bar rail branch and a half-day drive up to Trebinje.",
     image: "/img/blog-sutorina-bosnia-corridor.webp",
     sections: [
       { type: 'h2', text: 'What Sutorina is' },
@@ -42,9 +42,9 @@ const content = {
     ],
   },
   de: {
-    title: "Der Sutorina-Korridor — Bosniens alter Meerzugang und das stille Tal hinter Igalo",
+    title: "Der Sutorina-Korridor",
     subtitle: "Der Landstreifen, der Bosnien-Herzegowina einst ein Fenster zur Adria gab, und die verlassene Bahntrasse, die das Tal noch heute durchzieht",
-    description: "Leitfaden zum Sutorina-Tal westlich von Igalo: der historische bosnische Seekorridor, die stillgelegte Nebenstrecke der Bahn Belgrad–Bar und eine halbtägige Fahrt von Herceg Novi zur bosnischen Grenze bei Trebinje.",
+    description: "Leitfaden zum Sutorina-Tal westlich von Igalo: Bosniens alter Meerzugang, die stillgelegte Bahnstrecke Belgrad–Bar und eine Halbtagesfahrt bis Trebinje.",
     image: "/img/blog-sutorina-bosnia-corridor.webp",
     sections: [
       { type: 'h2', text: 'Was Sutorina ist' },
@@ -83,9 +83,9 @@ const content = {
     ],
   },
   ru: {
-    title: "Коридор Сутоpинa — старый выход Боснии к морю и тихая долина за Igalo",
+    title: "Коридор Сутоpинa",
     subtitle: "Полоска земли, когда-то дававшая Боснии и Герцеговине окно к Адриатике, и заброшенная ж/д трасса, ещё прорезающая дно долины",
-    description: "Гид по долине Sutorina к западу от Igalo: исторический боснийский коридор к морю, заброшенная ветка железной дороги и полудневная поездка из Херцег-Нови к боснийской границе у Требинье.",
+    description: "Гид по долине Sutorina к западу от Igalo: исторический боснийский выход к морю, заброшенная ж/д ветка Белград–Бар и полудневная поездка до Требинье.",
     image: "/img/blog-sutorina-bosnia-corridor.webp",
     sections: [
       { type: 'h2', text: 'Что такое Sutorina' },
@@ -124,9 +124,9 @@ const content = {
     ],
   },
   it: {
-    title: "Il corridoio di Sutorina — l'antico accesso al mare della Bosnia e la valle silenziosa dietro Igalo",
+    title: "Il corridoio di Sutorina",
     subtitle: "La striscia di terra che un tempo dava alla Bosnia-Erzegovina una finestra sull'Adriatico, e la traccia ferroviaria abbandonata che ancora segna il fondovalle",
-    description: "Guida alla valle di Sutorina a ovest di Igalo: il corridoio bosniaco storico verso il mare, la traccia dismessa della ferrovia Belgrado–Bar (diramazione di Nikšić) e una guida di mezza giornata da Herceg Novi fino al confine bosniaco di Trebinje.",
+    description: "Guida alla valle di Sutorina a ovest di Igalo: il corridoio bosniaco verso il mare, la ferrovia dismessa Belgrado–Bar e mezza giornata fino a Trebinje.",
     image: "/img/blog-sutorina-bosnia-corridor.webp",
     sections: [
       { type: 'h2', text: 'Cos\'è Sutorina' },
@@ -165,9 +165,9 @@ const content = {
     ],
   },
   fr: {
-    title: "Le corridor de Sutorina — l'ancien accès à la mer de la Bosnie et la vallée tranquille derrière Igalo",
+    title: "Le corridor de Sutorina",
     subtitle: "La bande de terre qui donnait autrefois à la Bosnie-Herzégovine une fenêtre sur l'Adriatique, et la voie ferrée abandonnée qui entaille encore le fond de la vallée",
-    description: "Guide de la vallée de Sutorina à l'ouest d'Igalo : le corridor historique bosnien vers la mer, le tracé ferré désaffecté de la ligne Belgrade–Bar (branche de Nikšić) et une demi-journée de conduite depuis Herceg Novi jusqu'à la frontière bosnienne à Trebinje.",
+    description: "Guide de la vallée de Sutorina à l'ouest d'Igalo : le corridor bosnien vers la mer, la voie ferrée désaffectée Belgrade–Bar et une demi-journée à Trebinje.",
     image: "/img/blog-sutorina-bosnia-corridor.webp",
     sections: [
       { type: 'h2', text: 'Ce qu\'est Sutorina' },
@@ -206,9 +206,9 @@ const content = {
     ],
   },
   me: {
-    title: "Koridor Sutorina — stari izlaz Bosne na more i mirna dolina iza Igala",
+    title: "Koridor Sutorina",
     subtitle: "Pojas zemlje koji je nekada davao Bosni i Hercegovini prozor prema Jadranu i napuštena željeznička trasa koja još uvijek reže dno doline",
-    description: "Vodič za dolinu Sutorine zapadno od Igala: istorijski bosanski koridor prema moru, ukinuta željeznička trasa Beograd–Bar (nikšićki krak) i polodnevna vožnja iz Herceg Novog do bosanske granice kod Trebinja.",
+    description: "Vodič za dolinu Sutorine zapadno od Igala: stari bosanski izlaz na more, ukinuta željeznička pruga Beograd–Bar i polodnevna vožnja do Trebinja.",
     image: "/img/blog-sutorina-bosnia-corridor.webp",
     sections: [
       { type: 'h2', text: 'Šta je Sutorina' },

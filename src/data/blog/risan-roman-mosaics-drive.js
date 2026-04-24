@@ -1,8 +1,8 @@
 const content = {
   en: {
-    title: "Risan and the Roman Mosaics — An Inner-Bay Drive from Herceg Novi",
+    title: "Risan & the Roman Mosaics Drive",
     subtitle: "The oldest continuously inhabited place on the bay, the ancient Illyrian capital of Teuta, and a floor mosaic of Hypnos in a little-visited pavilion",
-    description: "A driving guide from Herceg Novi to Risan on the inner Bay of Kotor: the route, the Roman villa urbana mosaics (including the Hypnos floor), and why Risan rewards a half-day that most visitors skip.",
+    description: "Drive from Herceg Novi to Risan on the inner Bay of Kotor: the route, the Roman villa mosaics (including Hypnos), and why it rewards half a day.",
     image: "/img/blog-risan-roman-mosaics-drive.webp",
     sections: [
       { type: 'h2', text: 'Why Risan is worth a drive' },
@@ -41,9 +41,9 @@ const content = {
     ],
   },
   de: {
-    title: "Risan und die römischen Mosaike — eine Fahrt in die innere Bucht von Herceg Novi",
+    title: "Risan & die römischen Mosaike",
     subtitle: "Der älteste durchgehend besiedelte Ort der Bucht, die antike illyrische Hauptstadt der Königin Teuta und ein Bodenmosaik des Hypnos in einem wenig besuchten Pavillon",
-    description: "Fahrleitfaden von Herceg Novi nach Risan an der inneren Bucht von Kotor: Route, Mosaike der römischen Villa urbana (inkl. Hypnos) und warum Risan einen halben Tag wert ist, den die meisten auslassen.",
+    description: "Fahrt von Herceg Novi nach Risan an der inneren Bucht von Kotor: Route, Mosaike der römischen Villa (inkl. Hypnos) und warum es einen halben Tag wert ist.",
     image: "/img/blog-risan-roman-mosaics-drive.webp",
     sections: [
       { type: 'h2', text: 'Warum Risan eine Fahrt wert ist' },
@@ -82,9 +82,9 @@ const content = {
     ],
   },
   ru: {
-    title: "Рисан и римские мозаики — поездка во внутренний залив из Херцег-Нови",
+    title: "Рисан и римские мозаики",
     subtitle: "Старейшее непрерывно обитаемое место бухты, древняя иллирийская столица царицы Тевты и мозаика Гипноса в малопосещаемом павильоне",
-    description: "Гид по поездке из Херцег-Нови в Рисан на внутренней стороне Которской бухты: маршрут, мозаики римской виллы (включая Гипноса) и почему Рисан стоит половины дня, которую большинство пропускает.",
+    description: "Поездка из Херцег-Нови в Рисан на внутренней стороне Которской бухты: маршрут, мозаики римской виллы (включая Гипноса) и почему стоит полдня.",
     image: "/img/blog-risan-roman-mosaics-drive.webp",
     sections: [
       { type: 'h2', text: 'Почему стоит ехать в Рисан' },
@@ -123,9 +123,9 @@ const content = {
     ],
   },
   it: {
-    title: "Risan e i mosaici romani — un viaggio nel golfo interno da Herceg Novi",
+    title: "Risan e i mosaici romani",
     subtitle: "Il luogo abitato più antico del golfo senza interruzione, l'antica capitale illirica della regina Teuta e un mosaico pavimentale di Ipnos in un padiglione poco visitato",
-    description: "Guida alla guida da Herceg Novi a Risan sul lato interno delle Bocche di Cattaro: percorso, mosaici della villa urbana romana (incluso Ipnos) e perché Risan merita mezza giornata che la maggior parte dei visitatori salta.",
+    description: "Guida da Herceg Novi a Risan sulle Bocche interne di Cattaro: percorso, mosaici della villa romana (incluso Ipnos) e perché merita mezza giornata.",
     image: "/img/blog-risan-roman-mosaics-drive.webp",
     sections: [
       { type: 'h2', text: 'Perché vale la pena andare a Risan' },
@@ -164,9 +164,9 @@ const content = {
     ],
   },
   fr: {
-    title: "Risan et les mosaïques romaines — une route vers la baie intérieure depuis Herceg Novi",
+    title: "Risan et les mosaïques romaines",
     subtitle: "Le plus ancien site continûment habité du golfe, l'antique capitale illyrienne de la reine Teuta et une mosaïque d'Hypnos dans un pavillon peu fréquenté",
-    description: "Guide de conduite de Herceg Novi à Risan sur le côté intérieur des Bouches de Kotor : itinéraire, mosaïques de la villa urbaine romaine (y compris Hypnos) et pourquoi Risan mérite une demi-journée que la plupart des visiteurs zappent.",
+    description: "Route de Herceg Novi à Risan côté intérieur des Bouches de Kotor : l'itinéraire, les mosaïques de la villa romaine (dont Hypnos) et pourquoi y passer.",
     image: "/img/blog-risan-roman-mosaics-drive.webp",
     sections: [
       { type: 'h2', text: 'Pourquoi rouler jusqu\'à Risan' },
@@ -205,9 +205,9 @@ const content = {
     ],
   },
   me: {
-    title: "Risan i rimski mozaici — vožnja do unutrašnjeg zaljeva iz Herceg Novog",
+    title: "Risan i rimski mozaici",
     subtitle: "Najstarije neprekidno naseljeno mjesto u zaljevu, drevna ilirska prijestonica kraljice Teute i podni mozaik Hipnosa u slabo posjećenom paviljonu",
-    description: "Vodič za vožnju iz Herceg Novog do Risna u unutrašnjem dijelu Boke kotorske: ruta, mozaici rimske gradske vile (uključujući Hipnosa) i zašto Risan zaslužuje pola dana koje većina preskače.",
+    description: "Vožnja iz Herceg Novog do Risna u unutrašnjoj Boki kotorskoj: ruta, mozaici rimske vile (uključujući Hipnosa) i zašto zaslužuje pola dana posjete.",
     image: "/img/blog-risan-roman-mosaics-drive.webp",
     sections: [
       { type: 'h2', text: 'Zašto se isplati voziti u Risan' },

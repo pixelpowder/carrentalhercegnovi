@@ -1,8 +1,8 @@
 const content = {
   en: {
-    title: "The Ledenice Loop — The Mountain Road Above Herceg Novi",
+    title: "The Ledenice Loop Drive",
     subtitle: "A short, steep switchback road that climbs out of the old town into the pines — and delivers the best bay panorama on the west Boka",
-    description: "A driving guide to the Ledenice loop above Herceg Novi: how to find the turn, what the switchback is like, where to stop, and why morning and sunset give very different views of the bay.",
+    description: "Driving guide to the Ledenice mountain loop above Herceg Novi: finding the turn, switchback tips and why morning and sunset views differ.",
     image: "/img/blog-ledenice-viewpoint-loop.webp",
     sections: [
       { type: 'h2', text: 'What the loop is' },
@@ -41,9 +41,9 @@ const content = {
     ],
   },
   de: {
-    title: "Die Ledenice-Runde — die Bergstraße oberhalb von Herceg Novi",
+    title: "Die Ledenice-Runde",
     subtitle: "Eine kurze, steile Serpentinenstraße, die aus der Altstadt in die Kiefern klettert — und das beste Buchtpanorama der west-Boka liefert",
-    description: "Ein Fahrleitfaden zur Ledenice-Runde oberhalb von Herceg Novi: wo die Abzweigung liegt, wie die Serpentinen sind, wo man anhält und warum Morgen und Sonnenuntergang völlig unterschiedliche Ausblicke auf die Bucht liefern.",
+    description: "Fahrleitfaden zur Ledenice-Bergrunde oberhalb von Herceg Novi: Abzweigung finden, Serpentinen-Tipps und warum Morgen- und Sonnenuntergangsblicke anders sind.",
     image: "/img/blog-ledenice-viewpoint-loop.webp",
     sections: [
       { type: 'h2', text: 'Was die Runde ist' },
@@ -81,9 +81,9 @@ const content = {
     ],
   },
   ru: {
-    title: "Петля Леденице — горная дорога над Херцег-Нови",
+    title: "Петля Леденице",
     subtitle: "Короткая крутая серпантинная дорога, уходящая из старого города в сосны — и дающая лучшую панораму бухты на западной Боке",
-    description: "Гид по поездке на петлю Леденице над Херцег-Нови: как найти поворот, какова серпантинная дорога, где остановиться и почему утро и закат дают совершенно разные виды бухты.",
+    description: "Гид по горной петле Леденице над Херцег-Нови: как найти поворот, советы по серпантину и почему утренние и закатные виды бухты различаются.",
     image: "/img/blog-ledenice-viewpoint-loop.webp",
     sections: [
       { type: 'h2', text: 'Что это за петля' },
@@ -121,9 +121,9 @@ const content = {
     ],
   },
   it: {
-    title: "L'anello di Ledenice — la strada di montagna sopra Herceg Novi",
+    title: "L'anello di Ledenice",
     subtitle: "Una breve strada ripida a tornanti che sale dalla città vecchia tra i pini — e offre il miglior panorama del golfo sulla Boka occidentale",
-    description: "Guida alla guida lungo l'anello di Ledenice sopra Herceg Novi: come trovare la svolta, com'è la strada a tornanti, dove fermarsi e perché mattino e tramonto offrono viste molto diverse del golfo.",
+    description: "Guida all'anello di montagna di Ledenice sopra Herceg Novi: come trovare la svolta, consigli sui tornanti e perché mattino e tramonto sono diversi.",
     image: "/img/blog-ledenice-viewpoint-loop.webp",
     sections: [
       { type: 'h2', text: 'Cos\'è l\'anello' },
@@ -161,9 +161,9 @@ const content = {
     ],
   },
   fr: {
-    title: "La boucle de Ledenice — la route de montagne au-dessus de Herceg Novi",
+    title: "La boucle de Ledenice",
     subtitle: "Une courte route en lacets, raide, qui quitte la vieille ville pour les pins — et offre le meilleur panorama de la Boka occidentale",
-    description: "Guide de conduite sur la boucle de Ledenice au-dessus de Herceg Novi : trouver l'embranchement, à quoi ressemble la route en lacets, où s'arrêter, et pourquoi matin et coucher de soleil donnent des vues très différentes.",
+    description: "Guide de la boucle de montagne de Ledenice au-dessus de Herceg Novi : trouver l'embranchement, conseils sur les lacets et vues matin contre coucher.",
     image: "/img/blog-ledenice-viewpoint-loop.webp",
     sections: [
       { type: 'h2', text: 'Ce qu\'est la boucle' },
@@ -201,9 +201,9 @@ const content = {
     ],
   },
   me: {
-    title: "Petlja Ledenice — planinski put iznad Herceg Novog",
+    title: "Petlja Ledenice",
     subtitle: "Kratak, strm serpentinski put koji se iz starog grada penje u borove — i pruža najbolju panoramu zaljeva na zapadnoj Boki",
-    description: "Vodič za vožnju petljom Ledenice iznad Herceg Novog: kako naći skretanje, kakva je serpentina, gdje se zaustaviti i zašto jutro i zalazak daju sasvim različite poglede na zaljev.",
+    description: "Vodič za planinsku petlju Ledenice iznad Herceg Novog: kako naći skretanje, savjeti za serpentine i zašto jutarnji i zalazni pogledi su različiti.",
     image: "/img/blog-ledenice-viewpoint-loop.webp",
     sections: [
       { type: 'h2', text: 'Šta je petlja' },

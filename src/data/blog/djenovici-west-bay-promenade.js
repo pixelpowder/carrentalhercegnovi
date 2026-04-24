@@ -1,8 +1,8 @@
 const content = {
   en: {
-    title: "Đenovići and the West-Bay Promenade — The Forgotten Coastal Strip East of Herceg Novi",
+    title: "Đenovići & the West-Bay Promenade",
     subtitle: "A slow, low-rise stretch of Austro-Hungarian villas, cypress avenues, and concrete swimming platforms — walkable all the way from Herceg Novi",
-    description: "A walking and driving guide to Đenovići, Baošići and the quiet west-bay coastal promenade east of Herceg Novi: Austro-Hungarian history, where to swim, where to eat, and how to fit it into a lazy day.",
+    description: "Walking and driving guide to Đenovići and Baošići east of Herceg Novi: Austro-Hungarian history, where to swim and where to eat on the coast.",
     image: "/img/blog-djenovici-west-bay-promenade.webp",
     sections: [
       { type: 'h2', text: 'What the strip is' },
@@ -43,9 +43,9 @@ const content = {
     ],
   },
   de: {
-    title: "Đenovići und die Westbucht-Promenade — der vergessene Küstenstreifen östlich von Herceg Novi",
+    title: "Đenovići & Westbucht-Promenade",
     subtitle: "Ein langsamer, niedriger Streifen aus österreichisch-ungarischen Villen, Zypressenalleen und Betonbadeplattformen — von Herceg Novi aus zu Fuß erreichbar",
-    description: "Geh- und Fahrleitfaden zu Đenovići, Baošići und der ruhigen Westbucht-Promenade östlich von Herceg Novi: österreichisch-ungarische Geschichte, wo man schwimmt, wo man isst und wie man es in einen gemütlichen Tag packt.",
+    description: "Geh- und Fahrleitfaden zu Đenovići und Baošići östlich von Herceg Novi: österreichisch-ungarische Geschichte, wo man schwimmt und wo man isst.",
     image: "/img/blog-djenovici-west-bay-promenade.webp",
     sections: [
       { type: 'h2', text: 'Was der Streifen ist' },
@@ -85,9 +85,9 @@ const content = {
     ],
   },
   ru: {
-    title: "Đenovići и променад западного залива — забытая прибрежная полоса к востоку от Херцег-Нови",
+    title: "Đenovići и променад западного залива",
     subtitle: "Неторопливый низкоэтажный участок из австро-венгерских вилл, кипарисовых аллей и бетонных платформ для купания — пешком от самого Херцег-Нови",
-    description: "Пеший и автомобильный гид по Đenovići, Baošići и тихому прибрежному променаду западного залива к востоку от Херцег-Нови: австро-венгерская история, где купаться, где есть и как вписать в ленивый день.",
+    description: "Пеший и автомобильный гид по Đenovići и Baošići к востоку от Херцег-Нови: австро-венгерская история, где купаться и где пообедать у моря.",
     image: "/img/blog-djenovici-west-bay-promenade.webp",
     sections: [
       { type: 'h2', text: 'Что это за полоса' },
@@ -127,9 +127,9 @@ const content = {
     ],
   },
   it: {
-    title: "Đenovići e la passeggiata del golfo ovest — la striscia costiera dimenticata a est di Herceg Novi",
+    title: "Đenovići e la passeggiata del golfo",
     subtitle: "Un tratto lento e basso di ville austro-ungariche, viali di cipressi e piattaforme in cemento per fare il bagno — percorribile a piedi fin da Herceg Novi",
-    description: "Guida a piedi e in auto a Đenovići, Baošići e alla tranquilla passeggiata costiera del golfo ovest a est di Herceg Novi: storia austro-ungarica, dove fare il bagno, dove mangiare e come inserirla in una giornata tranquilla.",
+    description: "Guida a piedi e in auto a Đenovići e Baošići a est di Herceg Novi: storia austro-ungarica, dove fare il bagno e dove mangiare sulla costa.",
     image: "/img/blog-djenovici-west-bay-promenade.webp",
     sections: [
       { type: 'h2', text: 'Cos\'è la striscia' },
@@ -169,9 +169,9 @@ const content = {
     ],
   },
   fr: {
-    title: "Đenovići et la promenade de la baie ouest — la bande côtière oubliée à l'est de Herceg Novi",
+    title: "Đenovići et la promenade de la baie",
     subtitle: "Un tronçon lent et bas de villas austro-hongroises, d'allées de cyprès et de plateformes de baignade en béton — accessible à pied depuis Herceg Novi",
-    description: "Guide à pied et en voiture de Đenovići, Baošići et la tranquille promenade côtière de la baie ouest à l'est de Herceg Novi : histoire austro-hongroise, où se baigner, où manger et comment l'insérer dans une journée paresseuse.",
+    description: "Guide à pied et en voiture de Đenovići et Baošići à l'est de Herceg Novi : histoire austro-hongroise, où se baigner et où manger sur la côte.",
     image: "/img/blog-djenovici-west-bay-promenade.webp",
     sections: [
       { type: 'h2', text: 'Ce qu\'est cette bande' },
@@ -211,9 +211,9 @@ const content = {
     ],
   },
   me: {
-    title: "Đenovići i šetalište zapadnog zaljeva — zaboravljena obalna dionica istočno od Herceg Novog",
+    title: "Đenovići i šetalište zapadne Boke",
     subtitle: "Spora, niska dionica austrougarskih vila, drvoreda čempresa i betonskih platformi za kupanje — pješice dostupna iz Herceg Novog",
-    description: "Vodič za šetnju i vožnju kroz Đenoviće, Baošiće i mirno obalno šetalište zapadnog zaljeva istočno od Herceg Novog: austrougarska istorija, gdje se kupati, gdje jesti i kako uklopiti u lijen dan.",
+    description: "Vodič za šetnju i vožnju kroz Đenoviće i Baošiće istočno od Herceg Novog: austrougarska istorija, gdje se kupati i gdje jesti uz obalu.",
     image: "/img/blog-djenovici-west-bay-promenade.webp",
     sections: [
       { type: 'h2', text: 'Šta je ova dionica' },

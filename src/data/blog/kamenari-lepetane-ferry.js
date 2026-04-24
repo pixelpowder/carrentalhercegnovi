@@ -1,8 +1,8 @@
 const content = {
   en: {
-    title: "The Kamenari–Lepetane Ferry — The Bay of Kotor Shortcut",
+    title: "Kamenari–Lepetane Ferry Guide",
     subtitle: "A five-minute crossing that saves the long drive around the inner bay — and when you should ignore it and drive around anyway",
-    description: "A practical guide to the Kamenari–Lepetane car ferry across the narrowest point of the Bay of Kotor: the route, when to use it, ticket basics, and what the crossing actually shows you.",
+    description: "Practical guide to the Kamenari–Lepetane car ferry across the narrowest point of the Bay of Kotor: route, when to use it and ticket basics.",
     image: "/img/blog-kamenari-lepetane-ferry.webp",
     sections: [
       { type: 'h2', text: 'What the ferry is' },
@@ -43,9 +43,9 @@ const content = {
     ],
   },
   de: {
-    title: "Die Fähre Kamenari–Lepetane — Die Abkürzung durch die Bucht von Kotor",
+    title: "Fähre Kamenari–Lepetane — Leitfaden",
     subtitle: "Eine fünfminütige Überfahrt, die die lange Fahrt um die innere Bucht erspart — und wann man sie trotzdem ignorieren und außen herum fahren sollte",
-    description: "Ein praktischer Leitfaden zur Autofähre Kamenari–Lepetane über die engste Stelle der Bucht von Kotor: die Strecke, wann man sie nutzt, Ticket-Basics und was man auf der Überfahrt tatsächlich sieht.",
+    description: "Praktischer Leitfaden zur Autofähre Kamenari–Lepetane über die engste Stelle der Bucht von Kotor: Strecke, wann sie sich lohnt und Ticket-Basics.",
     image: "/img/blog-kamenari-lepetane-ferry.webp",
     sections: [
       { type: 'h2', text: 'Was die Fähre ist' },
@@ -86,9 +86,9 @@ const content = {
     ],
   },
   ru: {
-    title: "Паром Каменари–Лепетане — короткая дорога через Бока-Которскую бухту",
+    title: "Паром Каменари–Лепетане",
     subtitle: "Пятиминутная переправа, которая экономит длинный объезд внутренней бухты — и когда её всё-таки стоит проигнорировать",
-    description: "Практический гид по автомобильному парому Каменари–Лепетане через самое узкое место Которской бухты: маршрут, когда пользоваться, основы билетов и что реально видно во время переправы.",
+    description: "Практический гид по автопарому Каменари–Лепетане через самое узкое место Которской бухты: маршрут, когда пользоваться и основы билетов.",
     image: "/img/blog-kamenari-lepetane-ferry.webp",
     sections: [
       { type: 'h2', text: 'Что это за паром' },
@@ -129,9 +129,9 @@ const content = {
     ],
   },
   it: {
-    title: "Il traghetto Kamenari–Lepetane — la scorciatoia delle Bocche di Cattaro",
+    title: "Traghetto Kamenari–Lepetane",
     subtitle: "Una traversata di cinque minuti che evita il lungo giro intorno al golfo interno — e quando invece conviene ignorarla e fare comunque il giro",
-    description: "Guida pratica al traghetto auto Kamenari–Lepetane attraverso il punto più stretto delle Bocche di Cattaro: il percorso, quando usarlo, basi sui biglietti e cosa mostra davvero la traversata.",
+    description: "Guida pratica al traghetto auto Kamenari–Lepetane attraverso il punto più stretto delle Bocche di Cattaro: percorso, quando usarlo e biglietti.",
     image: "/img/blog-kamenari-lepetane-ferry.webp",
     sections: [
       { type: 'h2', text: 'Cos\'è il traghetto' },
@@ -172,9 +172,9 @@ const content = {
     ],
   },
   fr: {
-    title: "Le ferry Kamenari–Lepetane — le raccourci des Bouches de Kotor",
+    title: "Ferry Kamenari–Lepetane",
     subtitle: "Une traversée de cinq minutes qui évite le long détour autour du bassin intérieur — et quand il vaut mieux l'ignorer et faire le tour quand même",
-    description: "Guide pratique du ferry voitures Kamenari–Lepetane à travers le point le plus étroit des Bouches de Kotor : l'itinéraire, quand l'utiliser, les bases des billets et ce que la traversée révèle réellement.",
+    description: "Guide pratique du ferry voitures Kamenari–Lepetane au point le plus étroit des Bouches de Kotor : itinéraire, quand l'utiliser et les billets.",
     image: "/img/blog-kamenari-lepetane-ferry.webp",
     sections: [
       { type: 'h2', text: 'Ce qu\'est le ferry' },
@@ -215,9 +215,9 @@ const content = {
     ],
   },
   me: {
-    title: "Trajekt Kamenari–Lepetane — prečica preko Boke kotorske",
+    title: "Trajekt Kamenari–Lepetane — vodič",
     subtitle: "Petominutna plovidba koja štedi dugu vožnju oko unutrašnjeg zaljeva — i kada je svejedno bolje zaobići je i voziti okolo",
-    description: "Praktičan vodič za auto-trajekt Kamenari–Lepetane preko najužeg dijela Boke kotorske: ruta, kada ga koristiti, osnove karata i šta plovidba stvarno pokazuje.",
+    description: "Praktičan vodič za auto-trajekt Kamenari–Lepetane preko najužeg dijela Boke kotorske: ruta, kada ga koristiti i osnovne informacije o kartama.",
     image: "/img/blog-kamenari-lepetane-ferry.webp",
     sections: [
       { type: 'h2', text: 'Šta je trajekt' },

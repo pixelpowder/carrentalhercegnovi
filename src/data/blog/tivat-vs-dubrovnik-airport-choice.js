@@ -1,8 +1,8 @@
 const content = {
   en: {
-    title: "Tivat vs Dubrovnik — Which Airport to Fly Into for Herceg Novi",
+    title: "Tivat vs Dubrovnik Airport",
     subtitle: "Two airports, roughly equal driving time to Herceg Novi, very different logistics. A decision guide for first-time visitors",
-    description: "A detailed comparison of Tivat (TIV) and Dubrovnik (DBV) airports for reaching Herceg Novi: driving times, border crossings, rental car considerations, flight options and cost trade-offs.",
+    description: "Detailed comparison of Tivat (TIV) and Dubrovnik (DBV) for reaching Herceg Novi: driving times, border crossings, rentals and cost trade-offs.",
     image: "/img/blog-tivat-vs-dubrovnik-airport-choice.webp",
     sections: [
       { type: 'h2', text: 'The short answer first' },
@@ -50,9 +50,9 @@ const content = {
     ],
   },
   de: {
-    title: "Tivat vs Dubrovnik — welcher Flughafen für Herceg Novi",
+    title: "Tivat vs Dubrovnik — Flughafenwahl",
     subtitle: "Zwei Flughäfen, ungefähr gleiche Fahrzeit nach Herceg Novi, sehr unterschiedliche Logistik. Ein Entscheidungsleitfaden für Erstbesucher",
-    description: "Detaillierter Vergleich der Flughäfen Tivat (TIV) und Dubrovnik (DBV) für die Anreise nach Herceg Novi: Fahrzeiten, Grenzübergänge, Mietwagen-Überlegungen, Flugoptionen und Kosten-Abwägungen.",
+    description: "Detaillierter Vergleich der Flughäfen Tivat (TIV) und Dubrovnik (DBV) für Herceg Novi: Fahrzeiten, Grenzübergänge, Mietwagen und Kostenabwägungen.",
     image: "/img/blog-tivat-vs-dubrovnik-airport-choice.webp",
     sections: [
       { type: 'h2', text: 'Die kurze Antwort zuerst' },
@@ -100,9 +100,9 @@ const content = {
     ],
   },
   ru: {
-    title: "Тиват или Дубровник — в какой аэропорт лететь для Херцег-Нови",
+    title: "Тиват или Дубровник",
     subtitle: "Два аэропорта, примерно равное время в пути до Херцег-Нови и очень разная логистика. Гид по решению для впервые едущих",
-    description: "Подробное сравнение аэропортов Тиват (TIV) и Дубровник (DBV) для попадания в Херцег-Нови: время в пути, границы, прокатные нюансы, варианты рейсов и компромиссы по цене.",
+    description: "Подробное сравнение аэропортов Тиват (TIV) и Дубровник (DBV) для Херцег-Нови: время в пути, границы, прокат авто и компромиссы по цене.",
     image: "/img/blog-tivat-vs-dubrovnik-airport-choice.webp",
     sections: [
       { type: 'h2', text: 'Короткий ответ' },
@@ -150,9 +150,9 @@ const content = {
     ],
   },
   it: {
-    title: "Tivat o Dubrovnik — su quale aeroporto atterrare per Herceg Novi",
+    title: "Tivat o Dubrovnik — quale scalo",
     subtitle: "Due aeroporti, tempi di guida verso Herceg Novi più o meno uguali, logistica molto diversa. Guida alla scelta per chi arriva la prima volta",
-    description: "Confronto dettagliato tra gli aeroporti di Tivat (TIV) e Dubrovnik (DBV) per raggiungere Herceg Novi: tempi di guida, valichi di frontiera, considerazioni sul noleggio, opzioni di volo e compromessi di costo.",
+    description: "Confronto dettagliato tra gli aeroporti di Tivat (TIV) e Dubrovnik (DBV) per Herceg Novi: tempi di guida, frontiere, noleggio e compromessi di costo.",
     image: "/img/blog-tivat-vs-dubrovnik-airport-choice.webp",
     sections: [
       { type: 'h2', text: 'La risposta breve per prima' },
@@ -200,9 +200,9 @@ const content = {
     ],
   },
   fr: {
-    title: "Tivat ou Dubrovnik — à quel aéroport atterrir pour Herceg Novi",
+    title: "Tivat ou Dubrovnik — quel aéroport",
     subtitle: "Deux aéroports, temps de route vers Herceg Novi à peu près égaux, logistique très différente. Guide de décision pour les primo-visiteurs",
-    description: "Comparaison détaillée des aéroports de Tivat (TIV) et Dubrovnik (DBV) pour rejoindre Herceg Novi : temps de route, passages de frontière, considérations de location, options de vol et arbitrages de coût.",
+    description: "Comparaison détaillée des aéroports de Tivat (TIV) et Dubrovnik (DBV) pour Herceg Novi : temps de route, frontières, location et arbitrages de coût.",
     image: "/img/blog-tivat-vs-dubrovnik-airport-choice.webp",
     sections: [
       { type: 'h2', text: 'La réponse courte d\'abord' },
@@ -250,9 +250,9 @@ const content = {
     ],
   },
   me: {
-    title: "Tivat ili Dubrovnik — na koji aerodrom letjeti za Herceg Novi",
+    title: "Tivat ili Dubrovnik — aerodrom",
     subtitle: "Dva aerodroma, približno jednako vrijeme vožnje do Herceg Novog, vrlo različita logistika. Vodič za odluku za prve posjetioce",
-    description: "Detaljno poređenje aerodroma Tivat (TIV) i Dubrovnik (DBV) za dolazak u Herceg Novi: vremena vožnje, granični prelazi, rent-a-car aspekti, opcije letova i kompromisi u cijeni.",
+    description: "Detaljno poređenje aerodroma Tivat (TIV) i Dubrovnik (DBV) za Herceg Novi: vremena vožnje, granični prelazi, rent-a-car i kompromisi u cijeni.",
     image: "/img/blog-tivat-vs-dubrovnik-airport-choice.webp",
     sections: [
       { type: 'h2', text: 'Kratak odgovor odmah' },

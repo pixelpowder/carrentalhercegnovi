@@ -1,8 +1,8 @@
 const content = {
   en: {
-    title: "Bijela Shipyards — The Industrial Heritage of the Outer Bay",
+    title: "Bijela Shipyards — Outer Bay Heritage",
     subtitle: "The dry docks and cranes that defined the west Boka's working coast — and what is quietly changing at the waterline",
-    description: "A driving and walking guide to Bijela, the outer Bay of Kotor's shipyard town: the history of the dockyard, what is visible from the road, and how to fit a visit around the ferry and the inner bay.",
+    description: "Driving guide to Bijela on the outer Bay of Kotor: the shipyard history, what is visible from the road, and how to pair it with the ferry.",
     image: "/img/blog-bijela-shipyards-heritage.webp",
     sections: [
       { type: 'h2', text: 'Where Bijela is' },
@@ -41,9 +41,9 @@ const content = {
     ],
   },
   de: {
-    title: "Werft Bijela — das industrielle Erbe der Außenbucht",
+    title: "Werft Bijela — Erbe der Außenbucht",
     subtitle: "Die Trockendocks und Kräne, die die arbeitende Küste der westlichen Boka prägten — und was sich am Wasser leise verändert",
-    description: "Ein Fahr- und Gehleitfaden für Bijela, die Werftstadt der äußeren Bucht von Kotor: Geschichte der Werft, was von der Straße aus sichtbar ist und wie ein Besuch in den Tag mit Fähre und Innenbucht passt.",
+    description: "Fahrleitfaden für Bijela an der äußeren Bucht von Kotor: Geschichte der Werft, was von der Straße sichtbar ist, und wie man es mit der Fähre verbindet.",
     image: "/img/blog-bijela-shipyards-heritage.webp",
     sections: [
       { type: 'h2', text: 'Wo Bijela liegt' },
@@ -82,9 +82,9 @@ const content = {
     ],
   },
   ru: {
-    title: "Верфи Биелы — индустриальное наследие внешнего залива",
+    title: "Верфи Биелы — наследие Боки",
     subtitle: "Сухие доки и краны, определившие рабочий берег западной Боки — и что тихо меняется у воды",
-    description: "Гид по Биеле — городку с верфью на внешней стороне Которской бухты: история верфи, что видно с дороги и как вписать визит в день с паромом и внутренним заливом.",
+    description: "Гид по поездке в Биелу на внешней стороне Которской бухты: история верфи, что видно с дороги и как совместить посещение с паромом Каменари.",
     image: "/img/blog-bijela-shipyards-heritage.webp",
     sections: [
       { type: 'h2', text: 'Где Биела' },
@@ -123,9 +123,9 @@ const content = {
     ],
   },
   it: {
-    title: "Cantieri di Bijela — il patrimonio industriale del golfo esterno",
+    title: "Cantieri di Bijela — patrimonio della Boka",
     subtitle: "I bacini di carenaggio e le gru che hanno definito la costa operaia della Boka occidentale — e cosa sta cambiando silenziosamente sulla linea d'acqua",
-    description: "Guida in auto e a piedi di Bijela, la cittadina dei cantieri delle Bocche esterne di Cattaro: storia del cantiere, cosa si vede dalla strada, come inserirla in una giornata col traghetto e col golfo interno.",
+    description: "Guida in auto a Bijela, sulle Bocche esterne di Cattaro: la storia del cantiere, cosa si vede dalla strada e come abbinarla alla traversata del traghetto.",
     image: "/img/blog-bijela-shipyards-heritage.webp",
     sections: [
       { type: 'h2', text: 'Dov\'è Bijela' },
@@ -164,9 +164,9 @@ const content = {
     ],
   },
   fr: {
-    title: "Chantiers de Bijela — l'héritage industriel de la baie extérieure",
+    title: "Chantiers de Bijela — héritage des Bouches",
     subtitle: "Les cales sèches et les grues qui ont défini la côte ouvrière de la Boka ouest — et ce qui change silencieusement au bord de l'eau",
-    description: "Guide en voiture et à pied de Bijela, la ville-chantier de la baie extérieure de Kotor : histoire du chantier, ce qui se voit depuis la route, et comment l'insérer dans une journée avec le ferry et la baie intérieure.",
+    description: "Guide en voiture de Bijela, baie extérieure de Kotor : histoire du chantier naval, ce qui se voit depuis la route et comment la combiner avec le ferry.",
     image: "/img/blog-bijela-shipyards-heritage.webp",
     sections: [
       { type: 'h2', text: 'Où se trouve Bijela' },
@@ -205,9 +205,9 @@ const content = {
     ],
   },
   me: {
-    title: "Brodogradilište Bijela — industrijsko nasljeđe vanjskog zaljeva",
+    title: "Brodogradilište Bijela — nasljeđe Boke",
     subtitle: "Suhi dokovi i dizalice koji su definisali radnu obalu zapadne Boke — i šta se tiho mijenja na vodenoj liniji",
-    description: "Vodič za vožnju i šetnju u Bijeloj, brodogradilišnom gradiću vanjske Boke kotorske: istorija brodogradilišta, šta se vidi s puta i kako uklopiti posjetu uz trajekt i unutrašnji zaljev.",
+    description: "Vodič za vožnju kroz Bijelu na vanjskoj Boki kotorskoj: istorija brodogradilišta, šta se vidi s puta i kako je uklopiti s prelaskom trajekta Kamenari.",
     image: "/img/blog-bijela-shipyards-heritage.webp",
     sections: [
       { type: 'h2', text: 'Gdje je Bijela' },

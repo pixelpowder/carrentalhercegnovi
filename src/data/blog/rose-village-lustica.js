@@ -1,8 +1,8 @@
 const content = {
   en: {
-    title: "Rose Village — The Fishing Hamlet at the Tip of Luštica",
+    title: "Rose Village on Luštica",
     subtitle: "A car-free stone village on the outer Luštica shore, with Austrian battery ruins above and a boat-taxi culture below",
-    description: "A guide to Rose (Rose, Luštica) — the small 14th-century fishing village on the Luštica peninsula opposite Herceg Novi: how to get there, where to park, what to see, and how the Austrian coastal batteries tie in.",
+    description: "Guide to Rose, the 14th-century fishing village on the Luštica peninsula opposite Herceg Novi: how to get there, parking and the Austrian batteries.",
     image: "/img/blog-rose-village-lustica.webp",
     sections: [
       { type: 'h2', text: 'Where Rose is' },
@@ -40,9 +40,9 @@ const content = {
     ],
   },
   de: {
-    title: "Rose — das Fischerdorf an der Spitze von Luštica",
+    title: "Rose — Fischerdorf auf Luštica",
     subtitle: "Ein autofreies Steindorf an der Außenküste von Luštica, mit österreichischen Batterieruinen darüber und einer Bootstaxi-Kultur darunter",
-    description: "Ein Leitfaden zu Rose auf der Luštica-Halbinsel gegenüber Herceg Novi: Anfahrt, Parken, Sehenswertes und der Zusammenhang mit den österreichischen Küstenbatterien.",
+    description: "Leitfaden zu Rose, dem Fischerdorf aus dem 14. Jahrhundert auf der Luštica-Halbinsel gegenüber Herceg Novi: Anfahrt, Parken und die österreichischen Batterien.",
     image: "/img/blog-rose-village-lustica.webp",
     sections: [
       { type: 'h2', text: 'Wo Rose liegt' },
@@ -80,9 +80,9 @@ const content = {
     ],
   },
   ru: {
-    title: "Деревня Rose — рыбацкое село на оконечности Luštica",
+    title: "Деревня Rose на Luštica",
     subtitle: "Каменная безмашинная деревня на внешнем берегу Luštica, с австрийскими батарейными руинами наверху и культурой водных такси внизу",
-    description: "Гид по Rose на полуострове Luštica напротив Херцег-Нови: как добраться, где парковаться, что смотреть и как вписываются австрийские береговые батареи.",
+    description: "Гид по Rose, рыбацкому селу XIV века на полуострове Luštica напротив Херцег-Нови: как добраться, парковка и австрийские береговые батареи.",
     image: "/img/blog-rose-village-lustica.webp",
     sections: [
       { type: 'h2', text: 'Где находится Rose' },
@@ -120,9 +120,9 @@ const content = {
     ],
   },
   it: {
-    title: "Rose — il borgo di pescatori alla punta di Luštica",
+    title: "Rose — borgo di Luštica",
     subtitle: "Un villaggio di pietra senza auto sulla costa esterna di Luštica, con rovine di batterie austriache sopra e una cultura di taxi-barca sotto",
-    description: "Guida a Rose sulla penisola di Luštica di fronte a Herceg Novi: come arrivare, dove parcheggiare, cosa vedere e come le batterie costiere austriache si incastrano nella storia.",
+    description: "Guida a Rose, il borgo di pescatori del XIV secolo sulla penisola di Luštica di fronte a Herceg Novi: come arrivare, parcheggio e le batterie austriache.",
     image: "/img/blog-rose-village-lustica.webp",
     sections: [
       { type: 'h2', text: 'Dov\'è Rose' },
@@ -160,9 +160,9 @@ const content = {
     ],
   },
   fr: {
-    title: "Rose — le hameau de pêcheurs à la pointe de Luštica",
+    title: "Rose — village de Luštica",
     subtitle: "Un village de pierre sans voitures sur la côte extérieure de Luštica, avec des ruines de batteries autrichiennes au-dessus et une culture de bateaux-taxis en bas",
-    description: "Guide de Rose sur la péninsule de Luštica, en face de Herceg Novi : comment y aller, où se garer, ce qu'il faut voir et le rôle des batteries côtières autrichiennes.",
+    description: "Guide de Rose, hameau de pêcheurs du XIVe siècle sur la péninsule de Luštica, face à Herceg Novi : comment y aller, stationnement et batteries autrichiennes.",
     image: "/img/blog-rose-village-lustica.webp",
     sections: [
       { type: 'h2', text: 'Où se trouve Rose' },
@@ -200,9 +200,9 @@ const content = {
     ],
   },
   me: {
-    title: "Selo Rose — ribarsko naselje na vrhu Luštice",
+    title: "Selo Rose na Luštici",
     subtitle: "Kameno selo bez auta na vanjskoj obali Luštice, s ruševinama austrijskih baterija iznad i kulturom brodskih taksija ispod",
-    description: "Vodič za Rose na poluostrvu Luštica preko puta Herceg Novog: kako doći, gdje parkirati, šta vidjeti i kako se uklapaju austrijske obalske baterije.",
+    description: "Vodič za Rose, ribarsko selo iz 14. vijeka na poluostrvu Luštica preko puta Herceg Novog: kako doći, parking i austrijske obalske baterije.",
     image: "/img/blog-rose-village-lustica.webp",
     sections: [
       { type: 'h2', text: 'Gdje je Rose' },
