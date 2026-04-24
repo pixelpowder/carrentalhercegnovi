@@ -4,7 +4,7 @@ const siteConfig = {
   domain: "carrentalhercegnovi.com",
   phone: "",
   email: "info@carrentalhercegnovi.com",
-  address: "Tabacina BB, Kotor, 85330",
+  address: "Trg Mičela Komnena, Herceg Novi, 85340",
 
   hero: {
     headline: "Rent a Car in Herceg Novi",
