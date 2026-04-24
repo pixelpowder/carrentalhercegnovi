@@ -854,12 +854,12 @@
     "manage4": "Blokirate sve kolačiće trećih strana",
     "managingNote": "Imajte na umu da blokiranje neophodnih kolačića može uticati na funkcionalnost widgeta za rezervaciju.",
     "contactTitle": "Kontakt",
-    "contactText": "Pitanja o našem korišćenju kolačića? Kontaktirajte nas na info@budvacarrental.com."
+    "contactText": "Pitanja o našem korišćenju kolačića? Kontaktirajte nas na info@carrentalhercegnovi.com."
   },
   "privacyBody": {
     "lastUpdated": "Posljednje ažuriranje:",
     "whoTitle": "Ko smo mi",
-    "whoText": "Car Rental Budva funkcioniše kao partnerski posrednik koji povezuje putnika s pružaocima usluga najma automobila u Budvau i okolini, Crna Gora. Naša web stranica se nalazi na budvacarrental.com. Kada koristite našu stranicu, možemo prikupljati određene informacije kako je opisano u nastavku.",
+    "whoText": "Car Rental Budva funkcioniše kao partnerski posrednik koji povezuje putnika s pružaocima usluga najma automobila u Budvau i okolini, Crna Gora. Naša web stranica se nalazi na carrentalhercegnovi.com. Kada koristite našu stranicu, možemo prikupljati određene informacije kako je opisano u nastavku.",
     "collectTitle": "Koje informacije prikupljamo",
     "provideTitle": "Informacije koje vi pružate",
     "provideText": "Kada koristite naš obrazac za pretragu rezervacija, prikupljamo lokaciju preuzimanja, datume i vrijeme koje unesete kako bismo pronašli dostupna vozila. Ove informacije se prosleđuju našem partneru (LocalRent) za generisanje rezultata pretrage. Ne prikupljamo niti čuvamo podatke o plaćanju, sva plaćanja se obrađuju direktno od strane pružaoca najma.",
@@ -894,12 +894,12 @@
     "right3": "Povučete saglasnost za obradu podataka",
     "right4": "Podnesete žalbu nadležnom organu za zaštitu podataka",
     "contactTitle": "Kontakt",
-    "contactText": "Za sva pitanja vezana za privatnost, kontaktirajte nas putem emaila na info@budvacarrental.com."
+    "contactText": "Za sva pitanja vezana za privatnost, kontaktirajte nas putem emaila na info@carrentalhercegnovi.com."
   },
   "termsBody": {
     "lastUpdated": "Posljednje ažuriranje:",
     "aboutTitle": "O ovoj web stranici",
-    "aboutText": "Car Rental Budva (budvacarrental.com) je partnerska web stranica koja povezuje putnike s uslugama najma automobila u Budvau i okolini, Crna Gora. Mi nismo kompanija za najam automobila, sarađujemo s LocalRent-om za pružanje dostupnosti u realnom vremenu i usluga rezervacije.",
+    "aboutText": "Car Rental Budva (carrentalhercegnovi.com) je partnerska web stranica koja povezuje putnike s uslugama najma automobila u Budvau i okolini, Crna Gora. Mi nismo kompanija za najam automobila, sarađujemo s LocalRent-om za pružanje dostupnosti u realnom vremenu i usluga rezervacije.",
     "bookingTitle": "Uslovi rezervacije i najma",
     "bookingP1": "Sve rezervacije najma automobila izvršene preko naše web stranice obrađuje i ispunjava naš partner LocalRent. Kada završite rezervaciju, sklapate ugovor o najmu direktno s dobavljačem vozila, a ne s Car Rental Budva.",
     "bookingP2": "Uslovi najma, uključujući politike otkazivanja, osiguranje, starosne uslove i uslove plaćanja, određuje dobavljač vozila i prikazuju se tokom procesa rezervacije. Preporučujemo da pažljivo pročitate ove uslove prije potvrde bilo koje rezervacije.",
@@ -925,7 +925,7 @@
     "ipTitle": "Intelektualna svojina",
     "ipText": "Sav sadržaj na ovoj web stranici, uključujući tekst, dizajn i grafiku, vlasništvo je Car Rental Budva osim ako nije drugačije navedeno. Stock fotografija se koristi pod licencom od Pexels.",
     "contactTitle": "Kontakt",
-    "contactText": "Pitanja o ovim uslovima? Kontaktirajte nas na info@budvacarrental.com."
+    "contactText": "Pitanja o ovim uslovima? Kontaktirajte nas na info@carrentalhercegnovi.com."
   },
   "affiliate": {
     "heroTitle": "Zaradite 50% provizije na svaku rezervaciju",

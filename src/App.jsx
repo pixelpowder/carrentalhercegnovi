@@ -976,8 +976,8 @@ function CTABanner() {
           <a href={localePath("/book")} className="cta-white-btn">
             {t('cta.browseFleet')} <ArrowRight size={16} />
           </a>
-          <a href="mailto:info@carrentalbudva.com" className="cta-btn--outline">
-            <Mail size={15} /> info@carrentalbudva.com
+          <a href="mailto:info@carrentalhercegnovi.com" className="cta-btn--outline">
+            <Mail size={15} /> info@carrentalhercegnovi.com
           </a>
         </div>
       </div>
