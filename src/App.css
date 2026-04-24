@@ -3515,8 +3515,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .car-gallery__stage {
   position: relative;
-  aspect-ratio: 2/1;
-  border-radius: 14px;
+  aspect-ratio: 16/9;
+  border-radius: 0;
   background: #ffffff;
   overflow: visible;
 }
@@ -3525,15 +3525,17 @@ h1, h2, h3, h4, h5, h6 {
   inset: 0;
   width: 100%;
   height: 100%;
-  /* Container is wider than source (2/1 vs LocalRent 3/2), so `contain`
-     letterboxes horizontally — full car height visible, no antenna clip. */
+  /* Container (16/9 = 1.78) is wider than LocalRent source (3/2 = 1.5),
+     so `contain` letterboxes horizontally — full car height always fits,
+     never clipped. Generous top padding keeps antennas clear. */
   object-fit: contain;
   object-position: center;
   opacity: 0;
   transition: opacity 0.3s ease;
   pointer-events: none;
-  padding: 4% 2%;
+  padding: 6% 4%;
   box-sizing: border-box;
+  filter: drop-shadow(0 18px 22px rgba(15, 23, 42, 0.18));
 }
 .car-gallery__img--active {
   opacity: 1;
