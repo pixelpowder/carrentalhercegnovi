@@ -9,7 +9,7 @@ const siteConfig = {
   hero: {
     headline: "Rent a Car in Herceg Novi",
     subheadline: "The entrance to the Bay of Kotor — Dubrovnik 40 minutes one way, Kotor Old Town 30 minutes the other. Orjen Mountain behind. Mamula Island offshore.",
-    image: "/img/hero-hercegnovi.webp",
+    image: "/img/hero-green-minicooper.jpg",
   },
 
   cars: [

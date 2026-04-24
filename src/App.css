@@ -2388,7 +2388,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   right: 0;
   height: 80px;
-  background: linear-gradient(to bottom, rgba(255,255,255,0.6), transparent);
+  background: linear-gradient(to bottom, #2A2A2A, #1A1A1A);
   pointer-events: none;
 }
 
@@ -3515,24 +3515,24 @@ h1, h2, h3, h4, h5, h6 {
 }
 .car-gallery__stage {
   position: relative;
-  aspect-ratio: 3/2;
+  aspect-ratio: 16/10;
   border-radius: 14px;
-  overflow: hidden;
   background: #ffffff;
+  overflow: visible;
 }
 .car-gallery__img {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
-  /* contain (not cover) so the whole car is visible — LocalRent press shots
-     are composed with whitespace, cropping clips the roof/wheels. */
+  /* contain so the whole car is visible — LocalRent press shots
+     are composed with whitespace; never crop roof/wheels. */
   object-fit: contain;
   object-position: center;
   opacity: 0;
   transition: opacity 0.3s ease;
   pointer-events: none;
-  padding: 6% 8%;
+  padding: 2% 4%;
   box-sizing: border-box;
 }
 .car-gallery__img--active {
