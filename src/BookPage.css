@@ -47,7 +47,7 @@
   font-size: 14px;
   font-weight: 500;
   color: var(--black);
-  background: var(--primary-light, #FEE8EC);
+  background: var(--primary-light, #d1fae5);
   border: 1px solid rgba(227, 25, 55, 0.15);
   border-radius: 24px;
   padding: 8px 16px;

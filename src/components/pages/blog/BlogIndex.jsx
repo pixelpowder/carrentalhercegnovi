@@ -9,7 +9,7 @@ const cardImageStyle = { width: '100%', height: '220px', objectFit: 'cover', dis
 const cardBodyStyle = { padding: '24px', display: 'flex', flexDirection: 'column', flex: 1 };
 const cardTitleStyle = { fontSize: '18px', fontWeight: 800, color: 'var(--navy, #05203c)', lineHeight: 1.3, marginBottom: '10px' };
 const cardExcerptStyle = { fontSize: '15px', color: 'var(--gray-600, #6c757d)', lineHeight: 1.65, marginBottom: '20px', flex: 1 };
-const cardLinkStyle = { fontSize: '14px', fontWeight: 700, color: '#E31937', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px' };
+const cardLinkStyle = { fontSize: '14px', fontWeight: 700, color: '#047857', textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '4px' };
 
 const articles = [
   { title: 'The Kamenari–Lepetane Ferry — The Bay of Kotor Shortcut', excerpt: 'A five-minute roll-on ferry across the Verige strait — when to use it vs driving around the bay.', image: '/img/blog-kamenari-lepetane-ferry.webp', href: '/blog/kamenari-lepetane-ferry' },

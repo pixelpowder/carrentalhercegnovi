@@ -345,7 +345,7 @@
   background: var(--primary);
   border-radius: 50%;
   flex-shrink: 0;
-  box-shadow: 0 0 0 5px rgba(227, 25, 55, 0.12), 0 0 0 10px rgba(227, 25, 55, 0.05);
+  box-shadow: 0 0 0 5px rgba(4, 120, 87, 0.12), 0 0 0 10px rgba(4, 120, 87, 0.05);
   margin-left: -3px;
 }
 
@@ -627,7 +627,7 @@
   font-family: 'Lato', arial, helvetica, sans-serif;
   font-size: clamp(36px, 4.5vw, 48px);
   font-weight: 700;
-  background: linear-gradient(135deg, #1A1A1A 0%, #E31937 50%, #1A1A1A 100%);
+  background: linear-gradient(135deg, #1A1A1A 0%, #047857 50%, #1A1A1A 100%);
   background-size: 200% auto;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -830,7 +830,7 @@ select.booking-field__input {
 .booking-card__search:hover {
   background: var(--primary-hover);
   
-  box-shadow: 0 4px 16px rgba(227, 25, 55, 0.35);
+  box-shadow: 0 4px 16px rgba(4, 120, 87, 0.35);
   animation: none;
 }
 
@@ -839,8 +839,8 @@ select.booking-field__input {
 }
 
 @keyframes searchPulse {
-  0%, 100% { box-shadow: 0 0 0 0 rgba(227, 25, 55, 0.3); }
-  50% { box-shadow: 0 0 0 8px rgba(227, 25, 55, 0); }
+  0%, 100% { box-shadow: 0 0 0 0 rgba(4, 120, 87, 0.3); }
+  50% { box-shadow: 0 0 0 8px rgba(4, 120, 87, 0); }
 }
 
 /* ─── HERO SPACER ─────────────────────────────────────── */
@@ -1006,7 +1006,7 @@ h1, h2, h3, h4, h5, h6 {
 .blog-card:hover,
 .dest-image-card:hover,
 .category-card:hover {
-  box-shadow: 0 8px 30px rgba(227, 25, 55, 0.08), 0 4px 12px rgba(0,0,0,0.06);
+  box-shadow: 0 8px 30px rgba(4, 120, 87, 0.08), 0 4px 12px rgba(0,0,0,0.06);
 }
 
 /* ─── POPULAR ROUTES ──────────────────────────────────── */
@@ -1103,7 +1103,7 @@ h1, h2, h3, h4, h5, h6 {
 .step-card__number {
   width: 72px;
   height: 72px;
-  background: linear-gradient(135deg, var(--primary) 0%, #ff4d6a 100%);
+  background: linear-gradient(135deg, var(--primary) 0%, #10b981 100%);
   color: #fff;
   border-radius: 50%;
   display: flex;
@@ -1112,7 +1112,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   font-weight: 800;
   margin: 0 auto 20px;
-  box-shadow: 0 4px 20px rgba(227,25,55,0.3);
+  box-shadow: 0 4px 20px rgba(4, 120, 87,0.3);
 }
 
 .step-card__title {
@@ -1227,7 +1227,7 @@ h1, h2, h3, h4, h5, h6 {
   left: -20%;
   width: 60%;
   height: 200%;
-  background: radial-gradient(circle, rgba(227,25,55,0.08) 0%, transparent 60%);
+  background: radial-gradient(circle, rgba(4, 120, 87,0.08) 0%, transparent 60%);
   pointer-events: none;
 }
 
@@ -1945,7 +1945,7 @@ h1, h2, h3, h4, h5, h6 {
 .compare-card--good {
   background: var(--white);
   border-color: var(--primary);
-  box-shadow: 0 0 0 4px rgba(227, 25, 55, 0.08);
+  box-shadow: 0 0 0 4px rgba(4, 120, 87, 0.08);
 }
 
 .compare-card__header {
@@ -2021,7 +2021,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 16px;
   font-weight: 800;
   letter-spacing: 0.1em;
-  box-shadow: 0 4px 24px rgba(227, 25, 55, 0.3), 0 0 0 8px rgba(227, 25, 55, 0.08);
+  box-shadow: 0 4px 24px rgba(4, 120, 87, 0.3), 0 0 0 8px rgba(4, 120, 87, 0.08);
 }
 
 .drivemap__spokes {
@@ -2161,7 +2161,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ─── CTA BANNER ───────────────────────────────────────── */
 .cta-banner {
-  background: linear-gradient(135deg, #E31937 0%, #C71530 40%, #B01228 100%);
+  background: linear-gradient(135deg, #047857 0%, #064e3b 40%, #052e16 100%);
   padding: 80px 24px;
   text-align: center;
   position: relative;
@@ -2268,7 +2268,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 2px 12px rgba(227, 25, 55, 0.3);
+  box-shadow: 0 2px 12px rgba(4, 120, 87, 0.3);
   z-index: 1000;
   text-decoration: none;
   opacity: 0.85;
@@ -2295,7 +2295,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 12px rgba(227,25,55,0.25);
+  box-shadow: 0 4px 12px rgba(4, 120, 87,0.25);
   z-index: 999;
   transition: transform 0.2s, box-shadow 0.2s;
 }
@@ -3301,18 +3301,18 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
 }
 .fleet-showcase__tab:hover {
-  color: rgb(0, 98, 227);
-  border-color: rgba(0, 98, 227, 0.4);
+  color: rgb(4, 120, 87);
+  border-color: rgba(4, 120, 87, 0.4);
 }
 .fleet-showcase__tab--active {
-  background: rgb(0, 98, 227);
+  background: rgb(4, 120, 87);
   color: #fff;
-  border-color: rgb(0, 98, 227);
+  border-color: rgb(4, 120, 87);
 }
 .fleet-showcase__tab--active:hover {
   color: #fff;
-  background: rgb(5, 32, 60);
-  border-color: rgb(5, 32, 60);
+  background: rgb(6, 78, 59);
+  border-color: rgb(6, 78, 59);
 }
 .fleet-showcase__strip {
   display: grid;
@@ -3338,9 +3338,9 @@ h1, h2, h3, h4, h5, h6 {
   transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
 }
 .fleet-showcase__chip:hover {
-  box-shadow: 0 10px 28px rgba(5, 32, 60, 0.10);
+  box-shadow: 0 10px 28px rgba(6, 78, 59, 0.10);
   transform: translateY(-2px);
-  border-color: rgba(0, 98, 227, 0.35);
+  border-color: rgba(4, 120, 87, 0.35);
 }
 .fleet-showcase__chip-img {
   aspect-ratio: 3/2;
@@ -3357,7 +3357,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: rgb(0, 98, 227);
+  color: rgb(4, 120, 87);
   margin-bottom: 2px;
 }
 .fleet-showcase__chip-name {
@@ -3376,13 +3376,13 @@ h1, h2, h3, h4, h5, h6 {
   gap: 6px;
   font-size: 13px;
   font-weight: 700;
-  color: rgb(0, 98, 227);
+  color: rgb(4, 120, 87);
   text-decoration: none;
-  border-bottom: 1px solid rgba(0, 98, 227, 0.3);
+  border-bottom: 1px solid rgba(4, 120, 87, 0.3);
   padding-bottom: 2px;
 }
 .fleet-showcase__all-link:hover {
-  border-bottom-color: rgb(0, 98, 227);
+  border-bottom-color: rgb(4, 120, 87);
 }
 
 /* ─── FLEET INDEX (/cars listing page) ───────────────────── */
@@ -3404,7 +3404,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 .fleet-index-card:hover {
-  box-shadow: 0 14px 40px rgba(5, 32, 60, 0.10);
+  box-shadow: 0 14px 40px rgba(6, 78, 59, 0.10);
   transform: translateY(-3px);
 }
 .fleet-index-card__img {
@@ -3425,7 +3425,7 @@ h1, h2, h3, h4, h5, h6 {
   text-transform: uppercase;
   padding: 4px 9px;
   border-radius: 999px;
-  background: rgba(5, 32, 60, 0.88);
+  background: rgba(6, 78, 59, 0.88);
   color: #fff;
 }
 .fleet-index-card__body {
@@ -3460,10 +3460,10 @@ h1, h2, h3, h4, h5, h6 {
 .fleet-index-card__extra {
   font-size: 11px;
   font-weight: 600;
-  color: rgb(0, 98, 227);
+  color: rgb(4, 120, 87);
   letter-spacing: 0.02em;
 }
-.fleet-index-card__arrow { font-size: 12px; font-weight: 700; color: rgb(0, 98, 227); display: inline-flex; gap: 4px; align-items: center; }
+.fleet-index-card__arrow { font-size: 12px; font-weight: 700; color: rgb(4, 120, 87); display: inline-flex; gap: 4px; align-items: center; }
 
 /* ─── CAR DETAIL PAGE ────────────────────────────────────── */
 /* Pill + lede on a single line, visually aligned.
@@ -3473,8 +3473,8 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
   margin: 12px 0 20px;
   padding: 14px 18px;
-  background: rgba(0, 98, 227, 0.06);
-  border: 1px solid rgba(0, 98, 227, 0.15);
+  background: rgba(4, 120, 87, 0.06);
+  border: 1px solid rgba(4, 120, 87, 0.15);
   border-radius: 14px;
   line-height: 1.5;
   font-size: 15px;
@@ -3493,7 +3493,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   border-radius: 999px;
-  background: rgb(0, 98, 227);
+  background: rgb(4, 120, 87);
   color: #fff;
   margin-right: 10px;
   position: relative;
@@ -3552,12 +3552,12 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--navy, #05203c);
   border: none;
   cursor: pointer;
-  box-shadow: 0 4px 12px rgba(5, 32, 60, 0.18);
+  box-shadow: 0 4px 12px rgba(6, 78, 59, 0.18);
   transition: background 0.2s ease, color 0.2s ease;
   z-index: 2;
 }
 .car-gallery__arrow:hover {
-  background: rgb(0, 98, 227);
+  background: rgb(4, 120, 87);
   color: #fff;
 }
 .car-gallery__arrow--prev { left: 14px; }
@@ -3570,7 +3570,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
   font-weight: 700;
   color: #fff;
-  background: rgba(5, 32, 60, 0.75);
+  background: rgba(6, 78, 59, 0.75);
   border-radius: 999px;
   backdrop-filter: blur(6px);
 }
@@ -3590,7 +3590,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
   aspect-ratio: 3/2;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 1px 3px rgba(5, 32, 60, 0.08);
+  box-shadow: 0 1px 3px rgba(6, 78, 59, 0.08);
 }
 .car-gallery__thumb::after {
   /* Outer ring for the active state — no layout shift */
@@ -3612,7 +3612,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .car-gallery__thumb:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(5, 32, 60, 0.14);
+  box-shadow: 0 6px 16px rgba(6, 78, 59, 0.14);
 }
 .car-gallery__thumb:hover img {
   opacity: 1;
@@ -3622,8 +3622,8 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
 }
 .car-gallery__thumb--active::after {
-  border-color: rgb(0, 98, 227);
-  box-shadow: 0 0 0 3px rgba(0, 98, 227, 0.15);
+  border-color: rgb(4, 120, 87);
+  box-shadow: 0 0 0 3px rgba(4, 120, 87, 0.15);
 }
 @media (max-width: 640px) {
   .car-gallery__arrow { width: 34px; height: 34px; }
@@ -3635,13 +3635,13 @@ h1, h2, h3, h4, h5, h6 {
 .car-detail-regional {
   margin: 24px 0;
   padding: 20px 24px;
-  background: linear-gradient(135deg, rgba(0, 98, 227, 0.06), rgba(5, 32, 60, 0.03));
-  border-left: 4px solid rgb(0, 98, 227);
+  background: linear-gradient(135deg, rgba(4, 120, 87, 0.06), rgba(6, 78, 59, 0.03));
+  border-left: 4px solid rgb(4, 120, 87);
   border-radius: 12px;
 }
 .car-detail-regional h2 {
   margin-top: 0;
-  color: rgb(0, 98, 227);
+  color: rgb(4, 120, 87);
   font-size: 18px;
 }
 .car-detail-regional p {
@@ -3706,9 +3706,9 @@ h1, h2, h3, h4, h5, h6 {
   transition: box-shadow 0.2s ease, transform 0.2s ease, border-color 0.2s ease;
 }
 .car-detail-related__card:hover {
-  box-shadow: 0 10px 24px rgba(5, 32, 60, 0.10);
+  box-shadow: 0 10px 24px rgba(6, 78, 59, 0.10);
   transform: translateY(-2px);
-  border-color: rgba(0, 98, 227, 0.3);
+  border-color: rgba(4, 120, 87, 0.3);
 }
 .car-detail-related__img {
   aspect-ratio: 16/10;
@@ -3721,7 +3721,7 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 12px 14px;
-  color: rgb(0, 98, 227);
+  color: rgb(4, 120, 87);
 }
 .car-detail-related__title {
   font-size: 14px;
@@ -3730,7 +3730,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
 }
 .car-detail-related__body svg {
-  color: rgb(0, 98, 227);
+  color: rgb(4, 120, 87);
   flex-shrink: 0;
 }
 .car-detail-article__section p {
@@ -3764,7 +3764,7 @@ h1, h2, h3, h4, h5, h6 {
   background: #fff;
   text-align: center;
 }
-.car-detail-spec__icon { color: rgb(0, 98, 227); }
+.car-detail-spec__icon { color: rgb(4, 120, 87); }
 .car-detail-spec__label { font-size: 11px; color: var(--gray-700, #495057); text-transform: uppercase; letter-spacing: 0.06em; }
 .car-detail-spec__value { font-size: 15px; font-weight: 700; color: var(--navy, #05203c); }
 .car-detail-bestfor,
@@ -3786,7 +3786,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .car-detail-bestfor svg,
 .car-detail-feature-list svg {
-  color: rgb(0, 98, 227);
+  color: rgb(4, 120, 87);
   flex-shrink: 0;
 }
 .car-detail-cta {
@@ -3804,7 +3804,7 @@ a.car-detail-cta__btn:visited {
   align-items: center;
   gap: 8px;
   padding: 12px 20px;
-  background: rgb(0, 98, 227);
+  background: rgb(4, 120, 87);
   color: #fff !important;
   font-weight: 700;
   font-size: 14px;
@@ -3812,20 +3812,20 @@ a.car-detail-cta__btn:visited {
   text-decoration: none !important;
   transition: background 0.2s ease;
 }
-a.car-detail-cta__btn:hover { background: rgb(5, 32, 60); color: #fff !important; }
+a.car-detail-cta__btn:hover { background: rgb(6, 78, 59); color: #fff !important; }
 .car-detail-cta__next {
   display: inline-flex;
   align-items: center;
   gap: 6px;
   padding: 12px 20px;
-  color: rgb(0, 98, 227);
+  color: rgb(4, 120, 87);
   font-weight: 700;
   font-size: 14px;
   text-decoration: none;
-  border: 1px solid rgba(0, 98, 227, 0.25);
+  border: 1px solid rgba(4, 120, 87, 0.25);
   border-radius: 10px;
 }
-.car-detail-cta__next:hover { background: rgba(0, 98, 227, 0.06); }
+.car-detail-cta__next:hover { background: rgba(4, 120, 87, 0.06); }
 
 @media (max-width: 640px) {
   .fleet-showcase__grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
