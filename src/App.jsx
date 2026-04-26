@@ -185,7 +185,7 @@ function Hero() {
       </div>
 
       {/* Image section with overlaid search form */}
-      <div className="hero__image-section">
+      <div className="hero__image-section" style={{ '--hero-image': `url(${config.heroImage})` }}>
         <div className="booking-card">
           <div className="booking-card__fields">
             <LocationField value={pickup} onChange={setPickup} />

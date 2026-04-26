@@ -1,5 +1,6 @@
 const siteConfig = {
   name: "Car Rental Herceg Novi",
+  heroImage: "/img/hero-green-minicooper.jpg",
   tagline: "The western edge of the Adriatic, at the Croatian border",
   domain: "carrentalhercegnovi.com",
   phone: "",
