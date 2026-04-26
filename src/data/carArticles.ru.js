@@ -1,4 +1,4 @@
-// Russian translations — Herceg Novi rental angle (multi-day hires from a Herceg Novi base).
+// Russian translations ,  Herceg Novi rental angle (multi-day hires from a Herceg Novi base).
 export const carArticles = {
   "renault-clio": {
     paragraphs: [

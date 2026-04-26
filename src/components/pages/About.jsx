@@ -15,7 +15,7 @@ export default function About() {
       <p>Car Rental Herceg Novi is a booking platform partnered with small and mid-sized rental operators on Montenegro's western coast, the stretch from the Debeli Brijeg border through Igalo, Herceg Novi, and onto the Kamenari ferry. We're a small local team, not a global franchise.</p>
 
       <h2>Why base in Herceg Novi</h2>
-      <p>Herceg Novi sits at the western gateway to the Bay of Kotor — between the Croatian border and the Verige Strait. It's the natural base for visitors who want two-country access without moving hotels: Dubrovnik is 40 minutes west, Kotor 30 minutes east.</p>
+      <p>Herceg Novi sits at the western gateway to the Bay of Kotor ,  between the Croatian border and the Verige Strait. It's the natural base for visitors who want two-country access without moving hotels: Dubrovnik is 40 minutes west, Kotor 30 minutes east.</p>
       <p>From here, the <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')}>airport choice</a> shapes your arrival, the <a href={localePath('/blog/rose-village-lustica')}>Luštica peninsula</a> is a short ferry away, and the <a href={localePath('/blog/ledenice-viewpoint-loop')}>Ledenice loop</a> delivers a mountain drive forty minutes from the beach.</p>
 
       <h2>Included with every rental</h2>

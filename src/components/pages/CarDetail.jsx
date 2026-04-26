@@ -24,7 +24,7 @@ import {
   Droplet, Package,
 } from 'lucide-react';
 
-// Kotor-rental inline photo per car — bay road, Lovćen, motorway, cross-border feel.
+// Kotor-rental inline photo per car ,  bay road, Lovćen, motorway, cross-border feel.
 const INLINE_PHOTOS = {
   'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Bay of Kotor coastal road near Dobrota',       caption: 'The Dobrota–Prčanj stretch at a steady 50 km/h, the Clio\u2019s natural cruising pace on a multi-day bay stay.' },
   'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Smokovac–Mateševo motorway inland from Kotor',  caption: 'The Smokovac motorway toward Podgorica, the 308\u2019s BlueHDi settles into a steady 1,800 rpm cruise here.' },
@@ -36,7 +36,7 @@ const INLINE_PHOTOS = {
   _default:         { src: '/img/fleet-inline/kotor-bay.jpg',         alt: 'Aerial view of the Bay of Kotor',               caption: 'A week based in Kotor puts Cetinje, Njeguši, Risan, Skadar Lake and Dubrovnik all inside day-trip range.' },
 };
 
-// Related cards per car — using the actual blog + destination pages that exist on kotorcarrental.
+// Related cards per car ,  using the actual blog + destination pages that exist on kotorcarrental.
 const RELATED = {
   'vw-polo': [
     { href: '/blog/djenovici-west-bay-promenade', img: '/img/blog-djenovici-west-bay-promenade.webp', title: 'Đenovići west-bay promenade' },

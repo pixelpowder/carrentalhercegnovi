@@ -1,4 +1,4 @@
-// Hand-written SEO metas per car — Herceg Novi rental angle (multi-day hires).
+// Hand-written SEO metas per car ,  Herceg Novi rental angle (multi-day hires).
 // Titles ≤60 chars, descriptions 140-160 chars, unique per car+locale.
 export const carMetas = {
   'renault-clio': {

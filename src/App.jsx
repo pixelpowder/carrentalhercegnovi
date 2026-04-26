@@ -144,7 +144,7 @@ function LocationField({ value, onChange }) {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 1: HERO — headline + badges + image + search
+   SECTION 1: HERO ,  headline + badges + image + search
    ═══════════════════════════════════════════════════════════ */
 function Hero() {
   const { t, localePath } = useTranslation();
@@ -190,7 +190,7 @@ function Hero() {
           <div className="booking-card__fields">
             <LocationField value={pickup} onChange={setPickup} />
             <div className="booking-field booking-field--dates">
-              <label>{t('hero.pickupDate')} — {t('hero.dropoffDate')}</label>
+              <label>{t('hero.pickupDate')} {t('hero.dropoffDate')}</label>
               <DatePicker
                 selectsRange startDate={startDate} endDate={endDate}
                 onChange={handleDateChange} minDate={new Date()}
@@ -230,7 +230,7 @@ function Hero() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 2: REVIEWS — horizontal scrolling carousel
+   SECTION 2: REVIEWS ,  horizontal scrolling carousel
    ═══════════════════════════════════════════════════════════ */
 function Reviews() {
   const { t } = useTranslation();
@@ -278,7 +278,7 @@ function Reviews() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 3: BROWSE BY CATEGORY — horizontal pill scroll
+   SECTION 3: BROWSE BY CATEGORY ,  horizontal pill scroll
    ═══════════════════════════════════════════════════════════ */
 const CATEGORIES = [
   { label: 'Economy', image: '/img/pexels-1035108.jpg' },
@@ -308,7 +308,7 @@ function BrowseByCategory() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 4: BROWSE CARS CTA — search prompt
+   SECTION 4: BROWSE CARS CTA ,  search prompt
    ═══════════════════════════════════════════════════════════ */
 function BrowseCarsCTA() {
   const { t, localePath } = useTranslation();
@@ -330,7 +330,7 @@ function BrowseCarsCTA() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 5: FLEET — LocalRent iframe (kept as-is)
+   SECTION 5: FLEET ,  LocalRent iframe (kept as-is)
    ═══════════════════════════════════════════════════════════ */
 function Fleet() {
   const { t, localePath } = useTranslation();
@@ -344,7 +344,7 @@ function Fleet() {
 
   useEffect(() => {
     function onMessage(e) {
-      // Ignore widget height messages — use fixed height instead
+      // Ignore widget height messages ,  use fixed height instead
       // if (e.data && e.data.type === 'iframeHeight') setIframeHeight(e.data.height);
     }
     window.addEventListener('message', onMessage);
@@ -385,7 +385,7 @@ function Fleet() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   FLEET SHOWCASE — per-car guide links (internal SEO, /cars routes)
+   FLEET SHOWCASE ,  per-car guide links (internal SEO, /cars routes)
    ═══════════════════════════════════════════════════════════ */
 const FLEET_TABS = [
   { key: 'all',     fallback: 'All' },
@@ -394,7 +394,7 @@ const FLEET_TABS = [
   { key: 'suv',     fallback: 'SUV' },
 ];
 
-// Homepage curates 6 of 7 — leave off citroen-c3 (very close in brief to Clio).
+// Homepage curates 6 of 7 ,  leave off citroen-c3 (very close in brief to Clio).
 const HOMEPAGE_FLEET_SLUGS = [
   'renault-megane', 'peugeot-308', 'vw-golf', 'kia-stonic', 'renault-clio', 'fiat-500', 'citroen-c3',
 ];
@@ -470,7 +470,7 @@ function FleetShowcase() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 6: USP STRIP — horizontal feature icons
+   SECTION 6: USP STRIP ,  horizontal feature icons
    ═══════════════════════════════════════════════════════════ */
 function USPStrip() {
   const { t } = useTranslation();
@@ -500,7 +500,7 @@ function USPStrip() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 7: DESTINATIONS — tabbed image cards (Cities / Airports)
+   SECTION 7: DESTINATIONS ,  tabbed image cards (Cities / Airports)
    ═══════════════════════════════════════════════════════════ */
 function Destinations() {
   const { t, localePath } = useTranslation();
@@ -565,7 +565,7 @@ function Destinations() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: POPULAR ROUTES — scenic driving cards
+   SECTION: POPULAR ROUTES ,  scenic driving cards
    ═══════════════════════════════════════════════════════════ */
 // Images + hrefs stay in code; title/desc/time/distance come from translations.
 const ROUTE_IMAGES = [
@@ -604,7 +604,7 @@ function PopularRoutes() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: HOW IT WORKS — 3 steps
+   SECTION: HOW IT WORKS ,  3 steps
    ═══════════════════════════════════════════════════════════ */
 function HowItWorks() {
   const { t } = useTranslation();
@@ -630,7 +630,7 @@ function HowItWorks() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: STATS — counter strip
+   SECTION: STATS ,  counter strip
    ═══════════════════════════════════════════════════════════ */
 function AnimatedNumber({ target, suffix = '', decimals = 0 }) {
   const [count, setCount] = useState(0);
@@ -690,7 +690,7 @@ function Stats() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: INSIDER TIPS — photo cards with travel advice
+   SECTION: INSIDER TIPS ,  photo cards with travel advice
    ═══════════════════════════════════════════════════════════ */
 // Images stay in code; tag/title/text come from translations.
 const TIP_IMAGES = ['/img/blog-tivat-vs-dubrovnik-airport-choice.webp', '/img/blog-ledenice-viewpoint-loop.webp', '/img/blog-djenovici-west-bay-promenade.webp'];
@@ -761,7 +761,7 @@ function BlogCards() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: EXPERIENCES — internal destination cards
+   SECTION: EXPERIENCES ,  internal destination cards
    ═══════════════════════════════════════════════════════════ */
 // Images + hrefs stay in code; title/location come from translations.
 const EXPERIENCE_SLOTS = [
@@ -800,7 +800,7 @@ function Experiences() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION: AFFILIATE PROMO — split layout CTA
+   SECTION: AFFILIATE PROMO ,  split layout CTA
    ═══════════════════════════════════════════════════════════ */
 function RoadTripPromo() {
   const { t, localePath } = useTranslation();
@@ -827,7 +827,7 @@ function RoadTripPromo() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   SECTION 9: FAQ — accordion
+   SECTION 9: FAQ ,  accordion
    ═══════════════════════════════════════════════════════════ */
 function FAQ() {
   const { t } = useTranslation();
@@ -868,7 +868,7 @@ function FAQ() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   STICKY BOOKING BAR — appears when hero scrolls out of view
+   STICKY BOOKING BAR ,  appears when hero scrolls out of view
    ═══════════════════════════════════════════════════════════ */
 function StickyBookingBar() {
   const { t, localePath } = useTranslation();
@@ -892,7 +892,7 @@ function StickyBookingBar() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   PRICING COMPARISON — taxi vs rental car
+   PRICING COMPARISON ,  taxi vs rental car
    ═══════════════════════════════════════════════════════════ */
 function PricingComparison() {
   const { t } = useTranslation();
@@ -931,7 +931,7 @@ function PricingComparison() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   DRIVE TIMES MAP — visual hub with radiating destinations
+   DRIVE TIMES MAP ,  visual hub with radiating destinations
    ═══════════════════════════════════════════════════════════ */
 function DriveTimesMap() {
   const { t, localePath } = useTranslation();
@@ -1026,7 +1026,7 @@ function ScrollToTop() {
 }
 
 /* ═══════════════════════════════════════════════════════════
-   APP — Section order matches getrentacar.com
+   APP ,  Section order matches getrentacar.com
    ═══════════════════════════════════════════════════════════ */
 export default function App() {
   useGlobalReveal();

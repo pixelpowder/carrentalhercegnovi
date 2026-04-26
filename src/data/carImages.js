@@ -1,4 +1,4 @@
-// Per-car gallery manifest — real LocalRent photos.
+// Per-car gallery manifest ,  real LocalRent photos.
 // images[0] is the hero (cover); subsequent entries are additional angles
 // sourced from /gallery/ path variant.
 export const carImages = {

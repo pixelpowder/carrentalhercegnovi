@@ -11,7 +11,7 @@ export default function Montenegro() {
       description="Overview of Montenegro for Herceg Novi-based drivers: typical drive times to Kotor, Budva, Podgorica, and across the Croatian border."
       image="/img/blog-ledenice-viewpoint-loop.webp"
     >
-      <h2>Herceg Novi as a base — the two-country advantage</h2>
+      <h2>Herceg Novi as a base ,  the two-country advantage</h2>
       <p>Herceg Novi is the westernmost town on the Montenegrin coast. It's the only base from which you can do a morning in Croatia and an afternoon back in Montenegro without packing a bag. That geographical position defines what Montenegro looks like from here.</p>
 
       <h2>Within an hour by car</h2>
@@ -42,7 +42,7 @@ export default function Montenegro() {
       </ul>
 
       <h2>Best seasons</h2>
-      <p>May-June and September are ideal — warm sea, mild interior, shorter border queues. July-August is hot, busy, and the border waits peak. October-April is quieter but most tourist infrastructure scales back.</p>
+      <p>May-June and September are ideal ,  warm sea, mild interior, shorter border queues. July-August is hot, busy, and the border waits peak. October-April is quieter but most tourist infrastructure scales back.</p>
     </ContentPage>
   );
 }

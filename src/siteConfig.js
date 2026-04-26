@@ -455,7 +455,7 @@ const siteConfig = {
     { q: "Cross-border paperwork?", a: "Croatia, Bosnia, Serbia, Albania and Kosovo all supported. Green Card insurance included when you tell us your plans at booking." },
     { q: "Winter driving?", a: "Coast is mild year-round. Orjen Mountain and the inland passes need winter tyres November-April, included on mountain-class vehicles." },
     { q: "Parking in Herceg Novi?", a: "The Old Town is pedestrianised (stairs, not streets). Park at the waterfront lots (€1-2/hr) and walk up." },
-    { q: "Is one-way rental available?", a: "Yes, to Kotor, Tivat Airport, Budva, Podgorica and beyond. A small distance-based one-way fee applies." },
+    
     { q: "Mileage limit?", a: "Most rentals are unlimited. Budget economy vehicles sometimes cap at 200 km/day, visible at booking." },
     { q: "Late-night airport arrivals?", a: "Every flight met at Tivat, no surcharge. Dubrovnik pickups require 24 hours notice." },
     { q: "What if my ferry is delayed?", a: "We track ferries from Bari, Ancona and Dubrovnik port and adjust pickup times. No surcharge for delays." },

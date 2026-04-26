@@ -1,4 +1,4 @@
-// Italian translations — approccio Herceg Novi-noleggio (più giorni dalla base di Herceg Novi).
+// Italian translations ,  approccio Herceg Novi-noleggio (più giorni dalla base di Herceg Novi).
 export const carArticles = {
   "renault-clio": {
     paragraphs: [

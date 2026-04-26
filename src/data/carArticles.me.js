@@ -1,4 +1,4 @@
-// Crnogorski prijevodi — Herceg Novi-iznajmljivanje (višednevni najam iz Herceg Novia kao baze).
+// Crnogorski prijevodi ,  Herceg Novi-iznajmljivanje (višednevni najam iz Herceg Novia kao baze).
 export const carArticles = {
   "renault-clio": {
     paragraphs: [

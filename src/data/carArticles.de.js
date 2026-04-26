@@ -1,4 +1,4 @@
-// German translations — Herceg Novi-Miet-Ansatz (Mehrtagesmieten ab Herceg Novi).
+// German translations ,  Herceg Novi-Miet-Ansatz (Mehrtagesmieten ab Herceg Novi).
 export const carArticles = {
   "renault-clio": {
     paragraphs: [

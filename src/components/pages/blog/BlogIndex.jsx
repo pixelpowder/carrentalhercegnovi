@@ -37,7 +37,7 @@ export default function BlogIndex() {
             <span>Blog</span>
           </nav>
           <h1 className="content-hero__title">Driving the Western Bay of Kotor</h1>
-          <p className="content-hero__subtitle">Researched guides to the quieter corners of the Herceg Novi region — ferries, villages, viewpoints and the borders behind the old town.</p>
+          <p className="content-hero__subtitle">Researched guides to the quieter corners of the Herceg Novi region ,  ferries, villages, viewpoints and the borders behind the old town.</p>
         </div>
       </div>
       <div style={{ maxWidth: '1220px', margin: '0 auto', padding: '48px 24px 80px', width: '100%' }}>

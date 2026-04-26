@@ -1,4 +1,4 @@
-// French translations — angle location-Herceg Novi (locations pluri-journées depuis une base à Herceg Novi).
+// French translations ,  angle location-Herceg Novi (locations pluri-journées depuis une base à Herceg Novi).
 export const carArticles = {
   "renault-clio": {
     paragraphs: [
