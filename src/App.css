@@ -2369,17 +2369,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ─── FOOTER ───────────────────────────────────────────── */
 .footer {
-  background: #1f2937;
-  border-top: 1px solid rgba(255,255,255,0.08);
+  background: #ffffff;
+  border-top: 1px solid rgba(0,0,0,0.08);
   padding: 64px 0 32px;
-  color: rgba(255,255,255,0.72);
+  color: rgba(0,0,0,0.78);
   position: relative;
 }
 .footer h3,
 .footer h4,
-.footer .footer__brand { color: #fff; }
-.footer a { color: rgba(255,255,255,0.78); }
-.footer a:hover { color: #fff; }
+.footer .footer__brand { color: #0a0a0a; }
+.footer a { color: rgba(0,0,0,0.78); }
+.footer a:hover { color: #000; }
 
 .footer::before {
   content: '';
@@ -2387,8 +2387,8 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   right: 0;
-  height: 80px;
-  background: linear-gradient(to bottom, #2A2A2A, #1A1A1A);
+  height: 1px;
+  background: rgba(0,0,0,0.08);
   pointer-events: none;
 }
 
