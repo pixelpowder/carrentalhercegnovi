@@ -266,30 +266,26 @@
       "a": "Herceg Novi sits between two airports at roughly equal driving time. A representative meets you inside arrivals at either Tivat (TIV) or Dubrovnik (DBV) with a name board. Your car is parked within a short walk of the terminal. Drive time to the Herceg Novi waterfront is about 40 minutes from either side, Tivat via the Kamenari ferry, Dubrovnik via the Debeli Brijeg crossing."
     },
     "5": {
-      "q": "Is one-way rental possible?",
-      "a": "Yes, all rentals are round-trip. Collect and return at the same pickup point. One-way drop-offs are not currently offered; plan your route to loop back to the pickup location."
-    },
-    "6": {
       "q": "What if I need to cancel?",
       "a": "Most vehicles offer free cancellation up to seven days before pickup. Premium and convertible classes require thirty days. A small processing fee applies to all cancellations."
     },
-    "7": {
+    "6": {
       "q": "Do I need a deposit?",
       "a": "Most cars require between €100 and €350 held on a credit card. Some economy vehicles are deposit-free, these are clearly marked in your search results."
     },
-    "8": {
+    "7": {
       "q": "Is there a mileage cap?",
       "a": "Many vehicles include unlimited mileage. Those with limits charge a per-kilometre rate beyond the allowance, always visible before you confirm."
     },
-    "9": {
+    "8": {
       "q": "Are there any surprise charges?",
       "a": "None. The displayed price includes every tax and fee. No airport surcharges, no fuel-policy add-ons, nothing extra at the counter."
     },
-    "10": {
+    "9": {
       "q": "How much is the booking deposit?",
       "a": "A 15-20% advance payment secures your reservation. The balance is settled directly with the rental agent when you arrive to collect the vehicle."
     },
-    "11": {
+    "10": {
       "q": "Can I rent without a credit card?",
       "a": "A handful of vehicles are available without a credit card requirement. Look for the no-deposit filter when searching by pickup location."
     }

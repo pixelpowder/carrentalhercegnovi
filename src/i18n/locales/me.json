@@ -301,30 +301,26 @@
       "a": "Vaš agent čeka vas u holu dolazaka aerodroma Tivat Airport s tablom na kojoj piše vaše ime. Auto je parkiran odmah ispred. Od terminala do zidina Starog grada Budvaa traje oko 15 minuta putem uz zaliv. Alternativno, možemo organizovati preuzimanje na parkingu Tabacina, na ulazu u Stari grad."
     },
     "5": {
-      "q": "Mogu li vratiti vozilo na drugoj lokaciji?",
-      "a": "Jednosmjerno iznajmljivanje dostupno je u 28 mjesta za preuzimanje i vraćanje u Crnoj Gori. Izaberite različite lokacije u fazi rezervacije, naknada za jednosmjerni povratak može se primijeniti ovisno o udaljenosti."
-    },
-    "6": {
       "q": "Koja je politika otkazivanja?",
       "a": "Besplatno otkazivanje moguće je do 7 dana prije datuma početka najma. Luksuzni automobili i kabrioleti zahtijevaju 30 dana najave. Naknada za obradu plaćanja od 6 % primjenjuje se na sva otkazivanja bez obzira na vrijeme."
     },
-    "7": {
+    "6": {
       "q": "Da li je potreban depozit?",
       "a": "Većina vozila zahtijeva depozit od 100 do 350 € na fizičkoj kreditnoj kartici vozača. Neki ekonomični automobili dostupni su bez depozita, jasno su označeni u rezultatima pretrage. Blokada se oslobađa kada se vozilo vrati bez oštećenja."
     },
-    "8": {
+    "7": {
       "q": "Šta se dešava ako prekoračim limit kilometraže?",
       "a": "Vozila s ograničenjem kilometraže naplaćuju po kilometru iznad dogovorene granice. Tačna tarifa navedena je u detaljima vozila prije potvrde rezervacije."
     },
-    "9": {
+    "8": {
       "q": "Ima li skrivenih naknada?",
       "a": "Ne. Prikazana cijena uključuje sve poreze i naknade. Nema aerodromskih doplata, nema iznenađenja vezanih za politiku goriva, ništa se ne dodaje na šalteru."
     },
-    "10": {
+    "9": {
       "q": "Koliko plaćam unaprijed?",
       "a": "Avans od 15-20 % ukupne cijene najma potreban je za potvrdu rezervacije. Preostali iznos plaća se direktno agentu za iznajmljivanje pri preuzimanju automobila."
     },
-    "11": {
+    "10": {
       "q": "Mogu li iznajmiti bez kreditne kartice?",
       "a": "Mali broj vozila u floti dostupan je bez kreditne kartice. Te opcije su jasno označene u rezultatima pretrage kada filtrirate prema lokaciji preuzimanja."
     }

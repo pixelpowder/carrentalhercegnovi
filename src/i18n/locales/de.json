@@ -301,30 +301,26 @@
       "a": "Ein Vertreter empfängt Sie in der Ankunftshalle von Tivat Airport mit einem Namensschild. Ihr Auto steht im Flughafenparkhaus, nur wenige Schritte entfernt. Die Fahrt zur Altstadt von Budva dauert etwa fünfzehn Minuten."
     },
     "5": {
-      "q": "Ist eine Einwegmiete möglich?",
-      "a": "Ja, Abholung und Rückgabe an verschiedenen Standorten an über 28 Punkten in Montenegro. Bei größerer Entfernung kann ein Einwegzuschlag anfallen."
-    },
-    "6": {
       "q": "Was ist, wenn ich stornieren muss?",
       "a": "Die meisten Fahrzeuge bieten kostenlose Stornierung bis sieben Tage vor der Abholung. Premium- und Cabrio-Klassen erfordern dreißig Tage. Bei allen Stornierungen fällt eine kleine Bearbeitungsgebühr an."
     },
-    "7": {
+    "6": {
       "q": "Brauche ich eine Kaution?",
       "a": "Die meisten Autos erfordern zwischen 100 € und 350 € als Kreditkartenkaution. Einige Kleinwagen sind kautionsfrei, diese sind in den Suchergebnissen deutlich gekennzeichnet."
     },
-    "8": {
+    "7": {
       "q": "Gibt es eine Kilometerbegrenzung?",
       "a": "Viele Fahrzeuge bieten unbegrenzte Kilometer. Bei begrenzter Kilometerzahl wird ein Kilometersatz berechnet, dieser ist vor der Bestätigung immer sichtbar."
     },
-    "9": {
+    "8": {
       "q": "Gibt es versteckte Kosten?",
       "a": "Keine. Der angezeigte Preis enthält alle Steuern und Gebühren. Keine Flughafenzuschläge, keine Kraftstoff-Zusatzkosten, nichts Zusätzliches am Schalter."
     },
-    "10": {
+    "9": {
       "q": "Wie hoch ist die Anzahlung?",
       "a": "Eine Vorauszahlung von 15-20 % sichert Ihre Reservierung. Der Restbetrag wird direkt beim Mietwagenanbieter bei der Abholung beglichen."
     },
-    "11": {
+    "10": {
       "q": "Kann ich ohne Kreditkarte mieten?",
       "a": "Einige Fahrzeuge sind ohne Kreditkartenerfordernis verfügbar. Achten Sie auf den Ohne-Kaution-Filter bei der Suche nach Abholort."
     }
