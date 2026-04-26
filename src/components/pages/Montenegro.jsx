@@ -7,7 +7,7 @@ export default function Montenegro() {
   return (
     <ContentPage
       title="Driving Montenegro from the Western Bay"
-      subtitle="The country from Herceg Novi as a base — two-country access and the quickest route to every major destination"
+      subtitle="The country from Herceg Novi as a base, two-country access and the quickest route to every major destination"
       description="Overview of Montenegro for Herceg Novi-based drivers: typical drive times to Kotor, Budva, Podgorica, and across the Croatian border."
       image="/img/blog-ledenice-viewpoint-loop.webp"
     >
@@ -16,28 +16,28 @@ export default function Montenegro() {
 
       <h2>Within an hour by car</h2>
       <ul>
-        <li><a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')}>Tivat Airport</a> — 30-60 min depending on ferry</li>
-        <li>Kotor Old Town — 45 min around the bay</li>
-        <li>Perast — 35 min</li>
-        <li>Budva — 60 min</li>
-        <li><strong>Dubrovnik, Croatia</strong> — 45 min + border</li>
+        <li><a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')}>Tivat Airport</a>, 30-60 min depending on ferry</li>
+        <li>Kotor Old Town, 45 min around the bay</li>
+        <li>Perast, 35 min</li>
+        <li>Budva, 60 min</li>
+        <li><strong>Dubrovnik, Croatia</strong>, 45 min + border</li>
       </ul>
 
       <h2>Inside 90 minutes</h2>
       <ul>
-        <li>Cetinje royal capital — 1.5 hrs</li>
-        <li>Tara Canyon first viewpoints — 1.5 hrs</li>
-        <li>Trebinje, Bosnia — 1 hr (border + drive)</li>
-        <li>Podgorica — 1.5 hrs</li>
+        <li>Cetinje royal capital, 1.5 hrs</li>
+        <li>Tara Canyon first viewpoints, 1.5 hrs</li>
+        <li>Trebinje, Bosnia, 1 hr (border + drive)</li>
+        <li>Podgorica, 1.5 hrs</li>
       </ul>
 
       <h2>Day trips with real variety</h2>
-      <p>In a week from Herceg Novi you can reasonably tick off the Croatian walled city, a Montenegrin UNESCO old town, a mountain hike, a beach day, a monastery morning, and a border-crossing into Bosnia — all without moving accommodation. Few Mediterranean bases offer that kind of geographic density.</p>
+      <p>In a week from Herceg Novi you can reasonably tick off the Croatian walled city, a Montenegrin UNESCO old town, a mountain hike, a beach day, a monastery morning, and a border-crossing into Bosnia, all without moving accommodation. Few Mediterranean bases offer that kind of geographic density.</p>
 
       <h2>Borders from Herceg Novi</h2>
       <ul>
-        <li><strong>Croatia (Debeli Brijeg):</strong> 15 min to the border. Queue variable — see our <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')}>airport choice guide</a> for cross-border arrival tips.</li>
-        <li><strong>Bosnia (Sutorina / Ivanica):</strong> 20 min to the border, then straight into Trebinje country — see the <a href={localePath('/blog/sutorina-bosnia-corridor')}>Sutorina corridor</a> guide.</li>
+        <li><strong>Croatia (Debeli Brijeg):</strong> 15 min to the border. Queue variable, see our <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')}>airport choice guide</a> for cross-border arrival tips.</li>
+        <li><strong>Bosnia (Sutorina / Ivanica):</strong> 20 min to the border, then straight into Trebinje country, see the <a href={localePath('/blog/sutorina-bosnia-corridor')}>Sutorina corridor</a> guide.</li>
         <li><strong>Albania:</strong> requires an hour through coastal Montenegro first, then the Božaj crossing near Podgorica.</li>
       </ul>
 

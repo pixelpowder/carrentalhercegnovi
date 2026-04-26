@@ -40,7 +40,7 @@
     "fullInsurance": "Full Insurance",
     "fullInsuranceDesc": "CDW and liability on every vehicle, plus a zero-excess upgrade for the Orjen switchbacks and the Kamenari ferry ramp",
     "fastPickup": "Herceg Novi Pickup",
-    "fastPickupDesc": "Collect in central Herceg Novi, at Igalo, or at either airport — Tivat TIV or Dubrovnik DBV, both 40 minutes away"
+    "fastPickupDesc": "Collect in central Herceg Novi, at Igalo, or at either airport, Tivat TIV or Dubrovnik DBV, both 40 minutes away"
   },
   "stats": {
     "years": "Years Experience",
@@ -53,7 +53,7 @@
     "title": "On the Road in 3 Steps",
     "subtitle": "Simple booking. Instant confirmation. No queues at the airport.",
     "step1Title": "Choose Your Location",
-    "step1Desc": "Pick up in Herceg Novi, Igalo, Bijela, at Tivat Airport (TIV) or Dubrovnik Airport (DBV) — plus 28+ locations across Montenegro.",
+    "step1Desc": "Pick up in Herceg Novi, Igalo, Bijela, at Tivat Airport (TIV) or Dubrovnik Airport (DBV), plus 28+ locations across Montenegro.",
     "step2Title": "Pick Your Car",
     "step2Desc": "Browse our fleet from economy runabouts to premium SUVs. Filter by size, transmission, or budget.",
     "step3Title": "Drive the Outer Bay",
@@ -81,7 +81,7 @@
   "destinations": {
     "label": "Top Destinations",
     "title": "Explore from Herceg Novi",
-    "subtitle": "From the 100,000 Steps of the Old Town to the Orjen ledge at Ledenice, the Kamenari ferry, Rose on Luštica and Dubrovnik 40 minutes west — the outer bay and the Croatian border are both on your doorstep."
+    "subtitle": "From the 100,000 Steps of the Old Town to the Orjen ledge at Ledenice, the Kamenari ferry, Rose on Luštica and Dubrovnik 40 minutes west, the outer bay and the Croatian border are both on your doorstep."
   },
   "features": {
     "label": "Why Choose Us",
@@ -100,7 +100,7 @@
   },
   "cta": {
     "title": "Ready to Explore the Outer Bay?",
-    "subtitle": "Book in minutes. Pick up in Herceg Novi, Igalo or at either airport. Dubrovnik for a morning, Kotor for an afternoon, Orjen for sunset — all from one base.",
+    "subtitle": "Book in minutes. Pick up in Herceg Novi, Igalo or at either airport. Dubrovnik for a morning, Kotor for an afternoon, Orjen for sunset, all from one base.",
     "browseFleet": "Browse Fleet"
   },
   "sidebar": {
@@ -140,7 +140,7 @@
   "notFound": {
     "code": "404",
     "title": "Wrong Turn",
-    "text": "This road leads nowhere, but the Kamenari ferry, Orjen ledge and Savina monastery do — just a click away.",
+    "text": "This road leads nowhere, but the Kamenari ferry, Orjen ledge and Savina monastery do, just a click away.",
     "backHome": "Back to Home",
     "searchCars": "Search Cars"
   },
@@ -172,7 +172,7 @@
     "promise5": "Free cancellation on most reservations",
     "promise6": "24/7 roadside assistance anywhere in Montenegro",
     "localTitle": "Local Knowledge",
-    "localText": "Based in Herceg Novi, we know every stretch of road around the outer bay — the Kamenari ferry timetable, the Debeli Brijeg queue times, the Orjen switchbacks, and the parking tricks along Šetalište Pet Danica that guidebooks never mention. Whether you are heading from",
+    "localText": "Based in Herceg Novi, we know every stretch of road around the outer bay, the Kamenari ferry timetable, the Debeli Brijeg queue times, the Orjen switchbacks, and the parking tricks along Šetalište Pet Danica that guidebooks never mention. Whether you are heading from",
     "localLink1": "Tivat Airport",
     "localMid": "to",
     "localLink2": "Herceg Novi's",
@@ -184,7 +184,7 @@
   },
   "montenegro": {
     "title": "Montenegro Driving Guide",
-    "subtitle": "Outer-bay roads, Orjen switchbacks, and the closest border crossing in the country — from a driver who has covered them all from a Herceg Novi base.",
+    "subtitle": "Outer-bay roads, Orjen switchbacks, and the closest border crossing in the country, from a driver who has covered them all from a Herceg Novi base.",
     "seoDesc": "Montenegro car rental based in Herceg Novi: unlimited km for inland trips to Durmitor, Skadar Lake and Ostrog, plus quick border runs to Dubrovnik. Full insurance, four-season tyres."
   },
   "border-crossing": {
@@ -210,7 +210,7 @@
   "featureCards": {
     "airportPickup": {
       "title": "Two-Airport Collection",
-      "desc": "Your vehicle waits at Tivat (TIV) or Dubrovnik (DBV) arrivals — both 40 minutes from Herceg Novi. Pick whichever has the better flight, we cover both sides of the border."
+      "desc": "Your vehicle waits at Tivat (TIV) or Dubrovnik (DBV) arrivals, both 40 minutes from Herceg Novi. Pick whichever has the better flight, we cover both sides of the border."
     },
     "fullInsurance": {
       "title": "Comprehensive Cover",
@@ -218,7 +218,7 @@
     },
     "support": {
       "title": "Round-the-Clock Assistance",
-      "desc": "Flat tyre above Ledenice? Missed the Kamenari ferry? Our local team answers day and night — they know every road around the outer bay."
+      "desc": "Flat tyre above Ledenice? Missed the Kamenari ferry? Our local team answers day and night, they know every road around the outer bay."
     },
     "noHiddenFees": {
       "title": "Transparent Pricing",
@@ -230,18 +230,18 @@
     },
     "crossBorder": {
       "title": "Cross-Border Ready",
-      "desc": "Croatia via Debeli Brijeg 25 km west, Bosnia through Trebinje via the Sutorina valley, Albania via Sukobin — Green Card paperwork prepared at booking time."
+      "desc": "Croatia via Debeli Brijeg 25 km west, Bosnia through Trebinje via the Sutorina valley, Albania via Sukobin, Green Card paperwork prepared at booking time."
     }
   },
   "testimonials": {
     "0": {
-      "text": "We flew into Dubrovnik, collected the car at the airport, and were on the Herceg Novi waterfront within the hour. Spent the first afternoon on the Forte Mare battlements for sunset, the next morning climbing the 100,000 Steps to Savina monastery. The Orjen drive up to Ledenice on day three was the highlight — switchback after switchback, and the outer bay opening up behind us. Booking was painless, paperwork ready, zero fuss. — Freya & Magnus, Bergen"
+      "text": "We flew into Dubrovnik, collected the car at the airport, and were on the Herceg Novi waterfront within the hour. Spent the first afternoon on the Forte Mare battlements for sunset, the next morning climbing the 100,000 Steps to Savina monastery. The Orjen drive up to Ledenice on day three was the highlight, switchback after switchback, and the outer bay opening up behind us. Booking was painless, paperwork ready, zero fuss., Freya & Magnus, Bergen"
     },
     "1": {
-      "text": "Third trip to Herceg Novi in five years and the booking was the smoothest yet. The Kamenari ferry over to Luštica for a Mamula boat morning, then back across for lunch in Perast — a rental car makes that itinerary easy, otherwise it's two full days. Useful that the team warned us about the Debeli Brijeg queue on Saturday afternoons before we set off for Dubrovnik. Saved us a hot hour sitting at the border. — Malcolm Ferriss, Edinburgh"
+      "text": "Third trip to Herceg Novi in five years and the booking was the smoothest yet. The Kamenari ferry over to Luštica for a Mamula boat morning, then back across for lunch in Perast, a rental car makes that itinerary easy, otherwise it's two full days. Useful that the team warned us about the Debeli Brijeg queue on Saturday afternoons before we set off for Dubrovnik. Saved us a hot hour sitting at the border., Malcolm Ferriss, Edinburgh"
     },
     "2": {
-      "text": "We based ourselves in Igalo for the spa and used the car for day trips: Dubrovnik one morning, Trebinje over the Bosnian border another, Kotor via the Kamenari ferry on a third. Pickup was outside our apartment rather than the airport — small touch, big help with a toddler. The zero-excess upgrade paid for itself the first time we met oncoming traffic on the Orjen hairpins. — Siobhan O'Rourke, Cork"
+      "text": "We based ourselves in Igalo for the spa and used the car for day trips: Dubrovnik one morning, Trebinje over the Bosnian border another, Kotor via the Kamenari ferry on a third. Pickup was outside our apartment rather than the airport, small touch, big help with a toddler. The zero-excess upgrade paid for itself the first time we met oncoming traffic on the Orjen hairpins., Siobhan O'Rourke, Cork"
     }
   },
   "faqItems": {
@@ -251,7 +251,7 @@
     },
     "1": {
       "q": "Can I cross into Croatia or other countries?",
-      "a": "Absolutely. The Debeli Brijeg crossing into Croatia is just 35 minutes from Herceg Novi — the quickest international border in the country. Green Card paperwork is included at booking. Bosnia (via Ivanica into the Sutorina valley for Trebinje), Albania, Serbia, and Kosovo are also available with advance notice."
+      "a": "Absolutely. The Debeli Brijeg crossing into Croatia is just 35 minutes from Herceg Novi, the quickest international border in the country. Green Card paperwork is included at booking. Bosnia (via Ivanica into the Sutorina valley for Trebinje), Albania, Serbia, and Kosovo are also available with advance notice."
     },
     "2": {
       "q": "What age do I need to be?",
@@ -263,11 +263,11 @@
     },
     "4": {
       "q": "How do I collect the car at the airport?",
-      "a": "Herceg Novi sits between two airports at roughly equal driving time. A representative meets you inside arrivals at either Tivat (TIV) or Dubrovnik (DBV) with a name board. Your car is parked within a short walk of the terminal. Drive time to the Herceg Novi waterfront is about 40 minutes from either side — Tivat via the Kamenari ferry, Dubrovnik via the Debeli Brijeg crossing."
+      "a": "Herceg Novi sits between two airports at roughly equal driving time. A representative meets you inside arrivals at either Tivat (TIV) or Dubrovnik (DBV) with a name board. Your car is parked within a short walk of the terminal. Drive time to the Herceg Novi waterfront is about 40 minutes from either side, Tivat via the Kamenari ferry, Dubrovnik via the Debeli Brijeg crossing."
     },
     "5": {
       "q": "Is one-way rental possible?",
-      "a": "Yes — all rentals are round-trip. Collect and return at the same pickup point. One-way drop-offs are not currently offered; plan your route to loop back to the pickup location."
+      "a": "Yes, all rentals are round-trip. Collect and return at the same pickup point. One-way drop-offs are not currently offered; plan your route to loop back to the pickup location."
     },
     "6": {
       "q": "What if I need to cancel?",
@@ -308,7 +308,7 @@
     "podgorica-airport": {
       "name": "Podgorica Airport",
       "tag": "Winter Hub",
-      "desc": "Montenegro's year-round airport — 2 hrs inland from Herceg Novi."
+      "desc": "Montenegro's year-round airport, 2 hrs inland from Herceg Novi."
     },
     "perast": {
       "name": "Perast",
@@ -350,18 +350,18 @@
     "h5": "Contact Us Any Time",
     "p5": "WhatsApp, Viber, a traditional phone call, whichever suits you. We respond quickly, even during the hectic July cruise-ship season. Browse the fleet online, lock in a rate, and we take care of the rest. Or message us a question about parking near the Cathedral, the best route to Cetinje, or whether that mountain pass is open in December.",
     "h6": "Our Vehicles and What They Handle",
-    "p6": "Each car in the fleet is chosen for the realities of Montenegrin roads. The compact hatchbacks — Fiat Panda, VW Polo, Renault Clio — slot into the narrow lane along Marshal Tito in Herceg Novi where larger vehicles simply cannot fit. For families or longer trips, the mid-size SUVs (Dacia Duster, Nissan Qashqai) carry luggage comfortably and handle the loose gravel on the Orjen road without hesitation. Premium saloons suit the motorway run to Podgorica via Nikšić or the cross-border highway to Dubrovnik. Vehicles are serviced by our partner operators in Herceg Novi and Bijela, checked between rentals, and delivered with a full tank of fuel and verified tyre pressures for mountain driving.",
+    "p6": "Each car in the fleet is chosen for the realities of Montenegrin roads. The compact hatchbacks, Fiat Panda, VW Polo, Renault Clio, slot into the narrow lane along Marshal Tito in Herceg Novi where larger vehicles simply cannot fit. For families or longer trips, the mid-size SUVs (Dacia Duster, Nissan Qashqai) carry luggage comfortably and handle the loose gravel on the Orjen road without hesitation. Premium saloons suit the motorway run to Podgorica via Nikšić or the cross-border highway to Dubrovnik. Vehicles are serviced by our partner operators in Herceg Novi and Bijela, checked between rentals, and delivered with a full tank of fuel and verified tyre pressures for mountain driving.",
     "h7": "A Typical Week Behind the Wheel",
     "p7": "Monday morning: collect in central Herceg Novi, walk the 100,000 Steps, afternoon coffee on the waterfront. Tuesday: Kamenari ferry across the Verige strait, day in Perast with the Our Lady of the Rocks boat, loop back through Risan for the Roman mosaics. Wednesday: the Orjen road up to Ledenice for the outer-bay panorama, then down to Igalo for the mud-bath spa. Thursday: cross at Debeli Brijeg in the morning, spend the afternoon in Dubrovnik, back for dinner in the Old Town. Friday: Luštica loop to Rose and Žanjice, short ferry across to Mamula Island. Saturday: inland via the Sutorina valley to Trebinje for Bosnian lunch. Sunday: return the car. That entire circuit covers roughly 450 km. Fuel cost: approximately 45 to 55 euros at current diesel prices. No bus, tour group, or taxi could replicate it at any price.",
     "h8": "Seasonal Advice from the Team",
-    "p8": "Summer brings the cruise ships calling at Kotor, up to four vessels per day between June and September, and with them passengers spilling out across the bay. Herceg Novi stays quieter — its harbour is too shallow for the big ships — but the Kamenari ferry queue and the Debeli Brijeg border both build from mid-morning. We advise an early start or a late-evening cross. Winter transforms the outer bay into a quieter place: fewer visitors, lower rates, and Orjen roads that occasionally close above 900 metres due to snow. Spring and autumn are the sweet spot. The Mimosa Festival in February paints Igalo yellow, September still offers warm seas without the crowds, and the Orjen road is open and uncrowded."
+    "p8": "Summer brings the cruise ships calling at Kotor, up to four vessels per day between June and September, and with them passengers spilling out across the bay. Herceg Novi stays quieter, its harbour is too shallow for the big ships, but the Kamenari ferry queue and the Debeli Brijeg border both build from mid-morning. We advise an early start or a late-evening cross. Winter transforms the outer bay into a quieter place: fewer visitors, lower rates, and Orjen roads that occasionally close above 900 metres due to snow. Spring and autumn are the sweet spot. The Mimosa Festival in February paints Igalo yellow, September still offers warm seas without the crowds, and the Orjen road is open and uncrowded."
   },
   "montenegroBody": {
     "h1": "Driving Montenegro from a Herceg Novi Base",
     "p1": "Montenegro is roughly the size of Northern Ireland yet contains a coast, a deep fjord-like bay, walled towns from the Venetian period, a 1,300-metre-deep canyon, and alpine peaks above 2,500 metres. Driving distances look short on a map. In practice, the roads twist, climb, tunnel, and ferry-cross their way between these extremes, and journey times rarely match what GPS predicts. Accept that, and the driving itself becomes part of the holiday.",
     "p2": "Herceg Novi sits at the western mouth of the Bay of Kotor, 25 km from the Croatian border at Debeli Brijeg and a short Kamenari ferry hop from the inner bay. Dubrovnik is 40 minutes west. Kotor is 45 minutes east via the ferry. Ledenice on Orjen is 45 minutes inland. Lake Skadar is two hours south. Only Durmitor, in the far north, requires a genuine road trip. Everything else radiates outward from the Old Town like spokes from a hub.",
     "startTitle": "Picking Up Your Car",
-    "startText": "Tivat Airport (TIV) is 40 minutes east via the Kamenari–Lepetane ferry. Dubrovnik Airport (DBV) is 40 minutes west across the Debeli Brijeg crossing in Croatia. Podgorica Airport offers wider winter schedules but adds two hours of inland driving. Herceg Novi is unusual in Montenegro for having two international airports within equal reach — pick whichever has the better fare. All three points support meet-and-greet handovers.",
+    "startText": "Tivat Airport (TIV) is 40 minutes east via the Kamenari–Lepetane ferry. Dubrovnik Airport (DBV) is 40 minutes west across the Debeli Brijeg crossing in Croatia. Podgorica Airport offers wider winter schedules but adds two hours of inland driving. Herceg Novi is unusual in Montenegro for having two international airports within equal reach, pick whichever has the better fare. All three points support meet-and-greet handovers.",
     "timesTitle": "Realistic Drive Times from Herceg Novi",
     "timesText1": "Igalo: 10 min. Kamenari ferry: 20 min. Dubrovnik border (Debeli Brijeg): 35 min. Tivat Airport: 40 min. Dubrovnik: 40 min. Kotor: 45 min. Ledenice (Orjen): 45 min. Trebinje (Bosnia): 1 h 15. Podgorica: 2 h. Žabljak (Durmitor): 3.5–4 h.",
     "timesText2": "The Orjen switchbacks up to Ledenice contain a dozen tight hairpins across 22 km of climbing. Navigation apps routinely underestimate mountain stretches by 20–30%. Plan accordingly and carry water.",
@@ -377,31 +377,31 @@
     "keyRule3": "Alcohol: zero-tolerance policy, any detectable blood alcohol means an on-the-spot fine or worse",
     "keyRule4": "Speed cameras: fixed units on the magistrala and mobile traps on the highway. Fines are issued to the rental company and charged back to your card",
     "conditionsTitle": "What the Roads Are Actually Like",
-    "conditionsText": "The magistrala between Herceg Novi and Kotor is paved and well maintained but barely two cars wide in places, with stone walls on one side and the Bay of Kotor on the other. Mountain roads above 800 metres — the Orjen climb in particular — may lack guard rails entirely. The Sozina tunnel toward Bar is modern and well-lit. The Ledenice road is narrow, steep, and has limited passing places, so honk before blind bends. In winter, chains or winter tyres are legally required above the snow line.",
+    "conditionsText": "The magistrala between Herceg Novi and Kotor is paved and well maintained but barely two cars wide in places, with stone walls on one side and the Bay of Kotor on the other. Mountain roads above 800 metres, the Orjen climb in particular, may lack guard rails entirely. The Sozina tunnel toward Bar is modern and well-lit. The Ledenice road is narrow, steep, and has limited passing places, so honk before blind bends. In winter, chains or winter tyres are legally required above the snow line.",
     "routesTitle": "Two Arterial Roads",
     "e65Title": "E65 / E80: The Adriatic Coast Road",
-    "e65Text": "This route traces the Adriatic coast from the Debeli Brijeg crossing west of Herceg Novi, around the mouth of the Bay of Kotor, over the Kamenari–Lepetane car ferry, and onward past Tivat toward the southern coast. The ferry shortcut across the Verige strait saves 45 minutes versus the loop via Risan. The outer-bay magistrala is where most Herceg Novi visitors spend their driving time, and for good reason — the views change with every headland.",
+    "e65Text": "This route traces the Adriatic coast from the Debeli Brijeg crossing west of Herceg Novi, around the mouth of the Bay of Kotor, over the Kamenari–Lepetane car ferry, and onward past Tivat toward the southern coast. The ferry shortcut across the Verige strait saves 45 minutes versus the loop via Risan. The outer-bay magistrala is where most Herceg Novi visitors spend their driving time, and for good reason, the views change with every headland.",
     "e762Title": "E762: Coast to Interior",
     "e762Text": "Cuts inland from the Adriatic through the Montenegrin heartland toward the Serbian and eastern Bosnian borders. This is the route to Niksic, the Piva canyon, and eventually Durmitor. Less scenic near the coast but increasingly dramatic as it climbs.",
     "borderTitle": "Crossing Into Neighbouring Countries",
-    "borderText": "Cross-border driving is permitted with a Green Card. The Debeli Brijeg crossing into Croatia sits 25 km west of Herceg Novi and is by far the most convenient for an HN base — and the busiest. In July and August, waits of one to two hours are normal. Weekday mornings before 08:00 or evenings after 20:00 cut the queue significantly. The inland Ivanica crossing into Bosnia, reached via the Sutorina valley, is almost always quieter. Albania, Serbia, and Kosovo crossings are further afield but generally fast.",
+    "borderText": "Cross-border driving is permitted with a Green Card. The Debeli Brijeg crossing into Croatia sits 25 km west of Herceg Novi and is by far the most convenient for an HN base, and the busiest. In July and August, waits of one to two hours are normal. Weekday mornings before 08:00 or evenings after 20:00 cut the queue significantly. The inland Ivanica crossing into Bosnia, reached via the Sutorina valley, is almost always quieter. Albania, Serbia, and Kosovo crossings are further afield but generally fast.",
     "nationTitle": "Why Montenegro Rewards Drivers",
     "nationText": "Independent only since 2006, Montenegro remains lightly visited compared to Croatia or Greece. The roads are quieter, the parking easier, and the landscapes more concentrated. A single tank of fuel can take you from Herceg Novi's stepped lanes to a glacial mountain lake and back. Few countries this small pack this much into their borders.",
     "fuelTitle": "Fuel Stations and Costs",
     "fuelP1": "Montenegro has three main fuel brands: Jugopetrol (part of Hellenic Petroleum), Eko, and several independent stations. Prices are regulated and relatively uniform across the country at approximately 1.45 to 1.55 euros per litre for diesel and slightly more for petrol. All major stations accept credit cards, though smaller independent stations in the north occasionally require cash.",
-    "fuelP2": "On the coast, fuel stations are frequent — you will pass one every 15 to 20 km along the magistrala. In the mountains, they thin out considerably. Fill your tank in Herceg Novi or Igalo before heading up Orjen to Ledenice, inland to Trebinje, or anywhere in the northern highlands. The Grahovo highland stretch and the old mountain route between Cetinje and Podgorica have no fuel stops at all.",
+    "fuelP2": "On the coast, fuel stations are frequent, you will pass one every 15 to 20 km along the magistrala. In the mountains, they thin out considerably. Fill your tank in Herceg Novi or Igalo before heading up Orjen to Ledenice, inland to Trebinje, or anywhere in the northern highlands. The Grahovo highland stretch and the old mountain route between Cetinje and Podgorica have no fuel stops at all.",
     "speedTitle": "Speed Limits and Enforcement",
-    "speedP1": "Built-up areas: 50 km/h. Open roads: 80 km/h. Dual carriageways and motorway-standard roads: 100 km/h (or 130 km/h where posted). The magistrala fluctuates between 40 and 60 km/h depending on the settlement. Fixed speed cameras sit at several points along the outer-bay magistrala — near Igalo, near Risan, and at the entrance to the Sozina tunnel.",
+    "speedP1": "Built-up areas: 50 km/h. Open roads: 80 km/h. Dual carriageways and motorway-standard roads: 100 km/h (or 130 km/h where posted). The magistrala fluctuates between 40 and 60 km/h depending on the settlement. Fixed speed cameras sit at several points along the outer-bay magistrala, near Igalo, near Risan, and at the entrance to the Sozina tunnel.",
     "speedP2": "Mobile police speed traps appear randomly, particularly on the highway between the coast and Podgorica and on the approach to border crossings. Fines are issued on the spot and range from 30 to 200 euros depending on how far over the limit you were travelling. The rental company is notified electronically if a camera catches you, and the fine is charged to your credit card.",
     "mountainTitle": "Mountain Driving: A Survival Guide",
     "mountainP1": "Montenegrin mountain roads are beautiful and demanding in equal measure. The Orjen road from the coast up to Ledenice climbs 700 metres in 22 km with tight hairpins, rough-patched asphalt, and no guard rails on the upper sections. The road to Durmitor via the Piva canyon is 170 km of continuous mountain driving with narrow bridges, unlit tunnels, and occasional rockfall debris.",
-    "mountainP2": "Practical advice: use low gears on descents to save your brakes. Honk before blind bends — it is standard practice and potentially lifesaving. Carry at least two litres of water per person. Keep headlights on even in daytime. Pull into passing places to let faster or larger vehicles through. And budget 30 per cent more time than your GPS suggests.",
+    "mountainP2": "Practical advice: use low gears on descents to save your brakes. Honk before blind bends, it is standard practice and potentially lifesaving. Carry at least two litres of water per person. Keep headlights on even in daytime. Pull into passing places to let faster or larger vehicles through. And budget 30 per cent more time than your GPS suggests.",
     "startLink": "Start at {{link}}, the closest airport to Herceg Novi via the Kamenari ferry.",
     "startLinkText": "Tivat Airport car hire"
   },
   "borderCrossingBody": {
     "h1": "Taking a Rental Car Across Balkan Borders",
-    "p1": "Montenegro shares land borders with five countries: Croatia, Bosnia and Herzegovina, Albania, Kosovo, and Serbia. From a Herceg Novi base, Croatia is closer than most Montenegrin towns — the Debeli Brijeg crossing sits 25 km west, a 35-minute drive. Driving a rental car into any neighbouring country is permitted, provided you inform the rental company at booking so the paperwork is ready when you collect the keys.",
+    "p1": "Montenegro shares land borders with five countries: Croatia, Bosnia and Herzegovina, Albania, Kosovo, and Serbia. From a Herceg Novi base, Croatia is closer than most Montenegrin towns, the Debeli Brijeg crossing sits 25 km west, a 35-minute drive. Driving a rental car into any neighbouring country is permitted, provided you inform the rental company at booking so the paperwork is ready when you collect the keys.",
     "greenCardTitle": "The Green Card Explained",
     "greenCardText": "A Green Card (Carte Internationale d'Assurance Automobile) is a standardised document proving your vehicle carries valid third-party insurance in the country you are entering. Border guards request it at every Balkan checkpoint. Without one, you will be turned around.",
     "greenCard1": "Typical cost: around 15 euros for a 15-day period",
@@ -416,14 +416,14 @@
     "doc5": "Vehicle registration certificate (kept in the car by the rental company)",
     "crossingsTitle": "Country-by-Country Crossing Details",
     "croatiaTitle": "Into Croatia: Debeli Brijeg",
-    "croatiaText": "The E65 coastal crossing between Herceg Novi and Dubrovnik is by far the most popular from this side of the bay, and therefore the most congested. It sits just 25 km — about 35 minutes — from the Herceg Novi waterfront. In July and August, two passport checks (Montenegrin exit, Croatian entry) combine with heavy tourist traffic to produce queues of one to two hours. The crossing itself is a simple road checkpoint with booths on both sides.",
-    "croatiaTip": "Timing matters enormously. Cross before 08:00 or after 20:00 and the wait drops to minutes. Weekday mornings are dramatically quieter than Saturday or Sunday. If you must cross mid-afternoon in August, bring water and patience — or loop inland via Ivanica and the Sutorina valley into Bosnia, then drop down to Dubrovnik from the north, which often ends up faster.",
+    "croatiaText": "The E65 coastal crossing between Herceg Novi and Dubrovnik is by far the most popular from this side of the bay, and therefore the most congested. It sits just 25 km, about 35 minutes, from the Herceg Novi waterfront. In July and August, two passport checks (Montenegrin exit, Croatian entry) combine with heavy tourist traffic to produce queues of one to two hours. The crossing itself is a simple road checkpoint with booths on both sides.",
+    "croatiaTip": "Timing matters enormously. Cross before 08:00 or after 20:00 and the wait drops to minutes. Weekday mornings are dramatically quieter than Saturday or Sunday. If you must cross mid-afternoon in August, bring water and patience, or loop inland via Ivanica and the Sutorina valley into Bosnia, then drop down to Dubrovnik from the north, which often ends up faster.",
     "croatiaFerry": "Heading east from Herceg Novi toward Kotor, the Kamenari–Lepetane car ferry crosses the narrowest point of the bay in about five minutes, saving a 45-minute drive around the inner shore via Risan. Ferries run continuously through the day; the fare is a few euros per vehicle.",
     "albaniaTitle": "Into Albania: Sukobin or Hani i Hotit",
     "albaniaText": "The coastal crossing at Sukobin/Muriqan, south of Ulcinj, is the more straightforward route, well-signed, with generally short queues. The inland alternative at Hani i Hotit, near the southern shore of Lake Skadar, is scenic but quieter and less familiar to foreign tourists.",
     "albaniaNote": "Albanian road infrastructure is improving rapidly but remains unpredictable outside main highways. Speed limits drop on rural roads and surface quality can change without warning. Drive defensively, particularly at night.",
     "bosniaTitle": "Into Bosnia: Ivanica (Sutorina) or Šćepan Polje",
-    "bosniaText": "The Ivanica crossing, 20 minutes inland from Herceg Novi up the Sutorina valley, is the easiest Bosnian route on this side of Montenegro — Trebinje is only 45 minutes from the HN waterfront, making it a viable half-day lunch trip. Further north, the Šćepan Polje crossing near Foča accesses the Tara River gorge and Sutjeska National Park. Both are lightly used and rarely involve waiting.",
+    "bosniaText": "The Ivanica crossing, 20 minutes inland from Herceg Novi up the Sutorina valley, is the easiest Bosnian route on this side of Montenegro, Trebinje is only 45 minutes from the HN waterfront, making it a viable half-day lunch trip. Further north, the Šćepan Polje crossing near Foča accesses the Tara River gorge and Sutjeska National Park. Both are lightly used and rarely involve waiting.",
     "serbiaTitle": "Into Serbia: Dobrakovo",
     "serbiaText": "The Dobrakovo checkpoint on the E65, north of Bijelo Polje, connects to the Serbian motorway network. From there, Belgrade is roughly four hours of straightforward motorway driving. Tolls are charged at motorway entry and exit booths, take a ticket when you join and pay based on distance when you leave.",
     "kosovoTitle": "Into Kosovo: Kula",
@@ -456,7 +456,7 @@
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Herceg Novi Driving Guides",
-    "heroSubtitle": "Road routes, local secrets, and quiet corners of the outer Bay of Kotor — from people who drive these roads daily.",
+    "heroSubtitle": "Road routes, local secrets, and quiet corners of the outer Bay of Kotor, from people who drive these roads daily.",
     "readGuide": "Read guide",
     "card_churches_title": "Kamenari–Lepetane Ferry: The Five-Minute Shortcut",
     "card_churches_excerpt": "The car ferry across the Verige strait saves a 45-minute drive around the inner bay. How often it runs, what it costs, and the morning queue patterns worth planning around.",
@@ -581,7 +581,7 @@
   "termsBody": {
     "lastUpdated": "Last updated:",
     "aboutTitle": "About This Website",
-    "aboutText": "Car Rental Herceg Novi (carrentalhercegnovi.com) is an affiliate website that connects travellers with car rental services in and around Herceg Novi, Montenegro. We are not a car rental company — we partner with LocalRent to provide real-time availability and booking services.",
+    "aboutText": "Car Rental Herceg Novi (carrentalhercegnovi.com) is an affiliate website that connects travellers with car rental services in and around Herceg Novi, Montenegro. We are not a car rental company, we partner with LocalRent to provide real-time availability and booking services.",
     "bookingTitle": "Booking & Rental Terms",
     "bookingP1": "All car rental bookings made through our website are processed and fulfilled by our partner, LocalRent. When you complete a booking, you enter into a rental agreement directly with the vehicle supplier, not with Car Rental Herceg Novi.",
     "bookingP2": "The rental terms, including cancellation policies, insurance coverage, age requirements, and payment conditions, are set by the vehicle supplier and displayed during the booking process. We recommend reading these terms carefully before confirming any booking.",
@@ -644,7 +644,7 @@
     "whoLocal": "Local Businesses",
     "whoLocalText": "Hotels, apartments, tour operators, and transfer companies in Montenegro, recommend cars to your guests.",
     "whoCreators": "Content Creators",
-    "whoCreatorsText": "YouTube, Instagram, TikTok — share your outer-bay or Dubrovnik-border driving content and monetise with rental links.",
+    "whoCreatorsText": "YouTube, Instagram, TikTok, share your outer-bay or Dubrovnik-border driving content and monetise with rental links.",
     "whoDevs": "Web Developers",
     "whoDevsText": "Build travel tools, comparison sites, or booking platforms using the API and white-label solution.",
     "ctaTitle": "Start Earning Today",
@@ -697,7 +697,7 @@
       "0": {
         "tag": "Timing",
         "title": "Mimosa Festival Weekend Books Out",
-        "text": "The February Mimosa Festival fills every hotel and rental in Herceg Novi for a single weekend. If you’re arriving in late Feb, book the car the same week you book the hotel — supply is thin."
+        "text": "The February Mimosa Festival fills every hotel and rental in Herceg Novi for a single weekend. If you’re arriving in late Feb, book the car the same week you book the hotel, supply is thin."
       },
       "1": {
         "tag": "Driving",
@@ -707,7 +707,7 @@
       "2": {
         "tag": "The border",
         "title": "Croatia in 40 Minutes",
-        "text": "Debeli Brijeg is the closest Montenegro–Croatia crossing in the country — 40 minutes from the Herceg Novi waterfront. Green Card in the glovebox, passports on the dashboard, and you’re on the road to Dubrovnik inside the hour."
+        "text": "Debeli Brijeg is the closest Montenegro–Croatia crossing in the country, 40 minutes from the Herceg Novi waterfront. Green Card in the glovebox, passports on the dashboard, and you’re on the road to Dubrovnik inside the hour."
       }
     }
   },
@@ -740,7 +740,7 @@
     "title": "Planning an Outer Bay Road Trip?",
     "browseAll": "Browse all guides",
     "lovcenGuide": "Orjen Ledenice loop",
-    "desc": "Scenic routes, Orjen viewpoints, fuel stops, Kamenari ferry timings, and border crossing advice — written by drivers who know every hairpin on these roads."
+    "desc": "Scenic routes, Orjen viewpoints, fuel stops, Kamenari ferry timings, and border crossing advice, written by drivers who know every hairpin on these roads."
   },
   "compare": {
     "label": "Why Rent?",
@@ -839,9 +839,9 @@
   "fleetIndex": {
     "title": "Our Herceg Novi Rental Fleet",
     "subtitle": "Seven cars picked for a multi-day Herceg Novi base, with day-trips out to Kotor, Dubrovnik, Orjen and across to Trebinje.",
-    "seoDesc": "Seven multi-day rental cars for Herceg Novi — mid-size wagons, diesel cruisers and a city Fiat. Specs, fuel range, and which car suits day-trips out of the outer bay.",
-    "intro1": "This fleet is built around the multi-day Herceg Novi renter — visitors who anchor themselves at an Igalo apartment or an Old Town guesthouse for a fortnight or longer, and who expect to be spending real time on the road between bay-based days. That brief is different from a cruise-day hire or a pure Tivat Airport pickup: it leans on boot space for a weekly shop at Voli, diesel torque for the Debeli Brijeg border run, and a seating position that keeps four adults comfortable on the drive up Orjen to Ledenice. The seven cars below are chosen accordingly.",
-    "intro2": "The mix is deliberately weighted toward mid-size. A Peugeot 308 with the 1.5 BlueHDi and the EAT auto, a Renault Megane diesel with the segment's biggest boot, a VW Golf with the DSG 2.0 TDI — these are the cars that turn a Herceg Novi → Kamenari ferry → Kotor → Lovćen → Skadar Lake loop from a gear-changing chore into a cruise. For shorter hops we keep a Renault Clio, a Citroen C3 with Advanced Comfort dampers, a Kia Stonic crossover for the rutted spur roads up to Ledenice and Podi, and a tiny Fiat 500 for when the stepped Old Town lanes are the deciding constraint. No one-trick supercars, no vans; every car here justifies a multi-day hire.",
-    "intro3": "A practical Herceg Novi note before you choose. Diesel remains the smarter spec for anyone planning even one cross-border run — Dubrovnik via Debeli Brijeg is 40 minutes, Trebinje via the Sutorina valley is 1 h 15, and Mostar is a full day each way on a good cruise. The 308 and Megane will cover all three on a single tank, the Golf is the most refined motorway car we have, and the petrol Clio will still do a Herceg Novi → Dubrovnik return on half a tank. If your week is bay-contained — Igalo, Đenovići, Bijela, Perast via the ferry — the Fiat 500 or the C3 saves a third on weekly fuel and parks in places the rest of the fleet can't. Pick on your itinerary, not the daily rate."
+    "seoDesc": "Seven multi-day rental cars for Herceg Novi, mid-size wagons, diesel cruisers and a city Fiat. Specs, fuel range, and which car suits day-trips out of the outer bay.",
+    "intro1": "This fleet is built around the multi-day Herceg Novi renter, visitors who anchor themselves at an Igalo apartment or an Old Town guesthouse for a fortnight or longer, and who expect to be spending real time on the road between bay-based days. That brief is different from a cruise-day hire or a pure Tivat Airport pickup: it leans on boot space for a weekly shop at Voli, diesel torque for the Debeli Brijeg border run, and a seating position that keeps four adults comfortable on the drive up Orjen to Ledenice. The seven cars below are chosen accordingly.",
+    "intro2": "The mix is deliberately weighted toward mid-size. A Peugeot 308 with the 1.5 BlueHDi and the EAT auto, a Renault Megane diesel with the segment's biggest boot, a VW Golf with the DSG 2.0 TDI, these are the cars that turn a Herceg Novi → Kamenari ferry → Kotor → Lovćen → Skadar Lake loop from a gear-changing chore into a cruise. For shorter hops we keep a Renault Clio, a Citroen C3 with Advanced Comfort dampers, a Kia Stonic crossover for the rutted spur roads up to Ledenice and Podi, and a tiny Fiat 500 for when the stepped Old Town lanes are the deciding constraint. No one-trick supercars, no vans; every car here justifies a multi-day hire.",
+    "intro3": "A practical Herceg Novi note before you choose. Diesel remains the smarter spec for anyone planning even one cross-border run, Dubrovnik via Debeli Brijeg is 40 minutes, Trebinje via the Sutorina valley is 1 h 15, and Mostar is a full day each way on a good cruise. The 308 and Megane will cover all three on a single tank, the Golf is the most refined motorway car we have, and the petrol Clio will still do a Herceg Novi → Dubrovnik return on half a tank. If your week is bay-contained, Igalo, Đenovići, Bijela, Perast via the ferry, the Fiat 500 or the C3 saves a third on weekly fuel and parks in places the rest of the fleet can't. Pick on your itinerary, not the daily rate."
   }
 }
