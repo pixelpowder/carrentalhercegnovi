@@ -1286,7 +1286,9 @@
         "1": "Bluetooth-Audio",
         "2": "Tempomat",
         "3": "USB-Ladeanschluss"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "hyundai-i20": {
       "name": "Hyundai i20",
@@ -1305,7 +1307,9 @@
         "1": "Notbremsassistent",
         "2": "Apple CarPlay",
         "3": "Rückfahrkamera"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "toyota-yaris": {
       "name": "Toyota Yaris",
@@ -1324,7 +1328,9 @@
         "1": "Lichtautomatik",
         "2": "Bluetooth",
         "3": "Adaptiver Tempomat"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "ford-fiesta": {
       "name": "Ford Fiesta",
@@ -1343,7 +1349,9 @@
         "1": "Berganfahrhilfe",
         "2": "Bluetooth",
         "3": "USB-C-Ladeanschluss"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "suzuki-ignis": {
       "name": "Suzuki Ignis",
@@ -1362,7 +1370,9 @@
         "1": "Kompakte Abmessungen",
         "2": "Bluetooth",
         "3": "Heck-Einparkhilfe"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "citroen-c4": {
       "name": "Citroën C4",
@@ -1381,7 +1391,9 @@
         "1": "10-Zoll-Touchscreen",
         "2": "Adaptiver Tempomat",
         "3": "Kabelloses CarPlay"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "citroen-c3": {
       "name": "Citroën C3",

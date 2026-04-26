@@ -1027,7 +1027,9 @@
         "1": "Bluetooth Audio",
         "2": "Cruise Control",
         "3": "USB Charging"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "hyundai-i20": {
       "name": "Hyundai i20",
@@ -1046,7 +1048,9 @@
         "1": "Autonomous Braking",
         "2": "Apple CarPlay",
         "3": "Reversing Camera"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "toyota-yaris": {
       "name": "Toyota Yaris",
@@ -1065,7 +1069,9 @@
         "1": "Automatic Headlights",
         "2": "Bluetooth",
         "3": "Adaptive Cruise"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "ford-fiesta": {
       "name": "Ford Fiesta",
@@ -1084,7 +1090,9 @@
         "1": "Hill-Start Assist",
         "2": "Bluetooth",
         "3": "USB-C Charging"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "suzuki-ignis": {
       "name": "Suzuki Ignis",
@@ -1103,7 +1111,9 @@
         "1": "Compact Dimensions",
         "2": "Bluetooth",
         "3": "Rear Parking Sensors"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "citroen-c4": {
       "name": "Citroen C4",
@@ -1122,7 +1132,9 @@
         "1": "10-inch Touchscreen",
         "2": "Adaptive Cruise",
         "3": "Wireless CarPlay"
-      }
+      },
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "citroen-c3": {
       "name": "Citroen C3",

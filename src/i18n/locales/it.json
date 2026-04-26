@@ -1286,7 +1286,9 @@
         "Audio Bluetooth",
         "Cruise control",
         "Ricarica USB"
-      ]
+      ],
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "hyundai-i20": {
       "name": "Hyundai i20",
@@ -1305,7 +1307,9 @@
         "Frenata autonoma",
         "Apple CarPlay",
         "Telecamera posteriore"
-      ]
+      ],
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "toyota-yaris": {
       "name": "Toyota Yaris",
@@ -1324,7 +1328,9 @@
         "Fari automatici",
         "Bluetooth",
         "Cruise control adattivo"
-      ]
+      ],
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "ford-fiesta": {
       "name": "Ford Fiesta",
@@ -1343,7 +1349,9 @@
         "Assistente alla partenza in salita",
         "Bluetooth",
         "Ricarica USB-C"
-      ]
+      ],
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "suzuki-ignis": {
       "name": "Suzuki Ignis",
@@ -1362,7 +1370,9 @@
         "Dimensioni compatte",
         "Bluetooth",
         "Sensori di parcheggio posteriori"
-      ]
+      ],
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "citroen-c4": {
       "name": "Citroen C4",
@@ -1381,7 +1391,9 @@
         "Touchscreen da 10 pollici",
         "Cruise control adattivo",
         "CarPlay wireless"
-      ]
+      ],
+      "inlineAlt": "",
+      "inlineCaption": ""
     },
     "citroen-c3": {
       "name": "Citroen C3",
