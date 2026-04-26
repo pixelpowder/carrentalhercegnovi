@@ -13,7 +13,8 @@
     "callUs": "Pozovite Nas",
     "bookNow": "Rezerviši Sad",
     "perDay": "po danu",
-    "emailUs": "Pošaljite email"
+    "emailUs": "Pošaljite email",
+    "readGuide": "Pročitaj vodič"
   },
   "hero": {
     "headline": "Car Rental Budva. Iznajmite lokalno, platite manje.",
@@ -110,7 +111,11 @@
     "helpText": "Naš tim je dostupan putem WhatsApp, Viber ili telefona.",
     "popularDest": "Popularne Destinacije",
     "tivatAirport": "Aerodrom Tivat Airport",
-    "dubrovnikAirport": "Aerodrom Dubrovnik"
+    "dubrovnikAirport": "Aerodrom Dubrovnik",
+    "westernBayGuides": "Vodiči zapadnog Boke",
+    "easternBayGuides": "Vodiči istočne Boke",
+    "northernGuides": "Vodiči sjeverne Boke",
+    "regionGuides": "Vodiči regije"
   },
   "book": {
     "title": "Pronađite Vaš Auto",
@@ -360,6 +365,46 @@
       "name": "Podgorica",
       "tag": "Glavni grad",
       "desc": "Prijestonica Crna Gora, vrata ka unutrašnjosti."
+    },
+    "blog/kamenari-lepetane-ferry": {
+      "name": "Trajekt Kamenari, Lepetane",
+      "desc": "Roll-on prečica preko najužeg dijela Boke kotorske.",
+      "tag": "Prelaz oko 5 minuta"
+    },
+    "blog/rose-village-lustica": {
+      "name": "Selo Rose",
+      "desc": "Ribarsko naselje iz 14. vijeka sa ruševinama austrougarske baterije iznad.",
+      "tag": "Poluostrvo Luštica"
+    },
+    "blog/ledenice-viewpoint-loop": {
+      "name": "Krug Ledenice",
+      "desc": "Serpentinski put iznad Herceg Novog i najbolja panorama zaliva na zapadnoj strani Boke.",
+      "tag": "Oko 700 m nadmorske visine"
+    },
+    "blog/risan-roman-mosaics-drive": {
+      "name": "Risan, rimski mozaici",
+      "desc": "Drevna ilirska prijestonica i pod rimske vile sa mozaikom Hipnosa.",
+      "tag": "Unutrašnji zaliv"
+    },
+    "blog/portonovi-marina-podi": {
+      "name": "Marina Portonovi",
+      "desc": "Nekadašnja jugoslovenska pomorska baza u Kumboru, danas marina za superjahte.",
+      "tag": "5 km istočno"
+    },
+    "blog/bijela-shipyards-heritage": {
+      "name": "Brodogradilište Bijela",
+      "desc": "Aktivni grad sa suvim dokom na vanjskoj obali magistrale.",
+      "tag": "Od 1927. godine"
+    },
+    "blog/djenovici-west-bay-promenade": {
+      "name": "Šetalište Đenovići",
+      "desc": "Niskogradnja primorska zona i šetalište istočno od Herceg Novog.",
+      "tag": "Austrougarske vile"
+    },
+    "blog/tivat-vs-dubrovnik-airport-choice": {
+      "name": "Izbor aerodroma",
+      "desc": "Dva aerodroma, otprilike isto vrijeme vožnje, vodič za odluku.",
+      "tag": "Tivat ili Dubrovnik"
     }
   },
   "aboutBody": {
@@ -823,7 +868,8 @@
     "title": "Kontaktirajte nas",
     "seoDesc": "Kontaktirajte Car Rental Budva za ponude, preuzimanje na aerodromu ili pitanja o putovanju.",
     "heading": "Kontaktirajte nas",
-    "intro": "Imate pitanje o iznajmljivanju automobila u Budvau? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje."
+    "intro": "Imate pitanje o iznajmljivanju automobila u Budvau? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje.",
+    "thanks": "Hvala što ste nam se javili, odgovorićemo u roku od nekoliko sati."
   },
   "cookieBody": {
     "lastUpdated": "Posljednje ažuriranje:",
@@ -1119,7 +1165,8 @@
   "relatedGuides": {
     "secretChurches": "Tajne crkve Budvaa",
     "vrmacRidge": "Planinarenje po grebenu Vrmca",
-    "swimmingSpots": "Najbolja mjesta za plivanje"
+    "swimmingSpots": "Najbolja mjesta za plivanje",
+    "title": "Moglo bi vam se svidjeti"
   },
   "navTop": {
     "carRental": "Iznajmljivanje automobila",
@@ -1134,7 +1181,271 @@
     "decline": "Odbij"
   },
   "cars": {
-    "readGuide": "Pročitaj vodič"
+    "readGuide": "Pročitaj vodič",
+    "renault-clio": {
+      "name": "Renault Clio",
+      "tagline": "Pouzdan primorski automobil za dvonedjeljni boravak u Herceg Novom",
+      "lede": "Štedljiv, jeftin za parkiranje na lokaciji preuzimanja i udoban na auto-putu prema Podgorici ili Žabljaku.",
+      "suitability": "Par koji boravi u Herceg Novom deset do četrnaest dana, sa redovnim dnevnim izletima u Cetinje, Risan i na obalu Skadarskog jezera, jednostavan za parkiranje, nezahtjevan za benzin.",
+      "regional": "Lako savladava uspon Herceg Novi, Cetinje u trećoj brzini, prolazi kroz uske obalne puteve okolnih sela, a potrošnja od 5,3 L/100 km drži račun za gorivo predvidivim tokom višednevnog najma.",
+      "category": "Ekonomična",
+      "bestFor": [
+        "Parovi na dvonedjeljnom boravku",
+        "Dnevni izleti u Cetinje i Njeguše",
+        "Posjetioci rimskih mozaika u Risnu"
+      ],
+      "features": [
+        "Bluetooth audio",
+        "USB punjenje",
+        "Centralno zaključavanje",
+        "Ekran osjetljiv na dodir"
+      ]
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "tagline": "Dizel srednje klase za vožnju Herceg Novi, Dubrovnik i Herceg Novi, Durmitor",
+      "lede": "Izdržljiv BlueHDi sa automatskim mjenjačem, napravljen za trosatnu vožnju do Žabljaka ili prelazak granice prema Trebinju i Mostaru.",
+      "suitability": "Izbor za sve koji uz boravak u Herceg Novom planiraju višednevne vožnje u unutrašnjost, automatski mjenjač i tempomat opravdavaju cijenu na podgoričkom auto-putu.",
+      "regional": "Lako kruži dionicom Smokovac, Mateševo, primi opremu za sedmicu planinarenja u Žabljaku, a vožnju Herceg Novi, Dubrovnik preko Debelog Brijega odrađuje sa pola rezervoara.",
+      "category": "Srednja klasa",
+      "bestFor": [
+        "Putovanja preko granice",
+        "Vikendi u Durmitoru",
+        "Četiri odrasle osobe sa punim prtljagom"
+      ],
+      "features": [
+        "Automatski mjenjač",
+        "Adaptivni tempomat",
+        "Klima dual-zone",
+        "Veliki gepek"
+      ]
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "tagline": "Najveći gepek u francuskoj srednjoj klasi, idealan za duge boravke i izlete na jezera",
+      "lede": "Gepek od 434 litre, tih dizel motor, mekano vješanje, izbor srednje klase za mjesec dana u zalivu sa redovnim izletima.",
+      "suitability": "Korisnici koji žele više prostora od hečbeka bez dužine pravog karavana, idealno za pribor za pecanje na Skadarskom jezeru, dnevne torbe za manastir Cetinje i frižider za put kući.",
+      "regional": "Vješanje sa dugim hodom apsorbuje neravan asfalt na starom putu Herceg Novi, Budva, dCi dizel troši malo na dionici kroz tunel Sozina, a velikodušan gepek prima dvonedjeljnu porodičnu opremu uz vreću rublja koju pokupite u Prčanju.",
+      "category": "Srednja klasa",
+      "bestFor": [
+        "Korisnici na dužem boravku",
+        "Dnevni izleti na Skadarsko jezero",
+        "Porodice koje obilaze manastire"
+      ],
+      "features": [
+        "Veliki gepek",
+        "Bluetooth audio",
+        "Tempomat",
+        "Senzori za parkiranje"
+      ]
+    },
+    "peugeot-208": {
+      "name": "Peugeot 208",
+      "tagline": "Mali francuski hečbek, najjeftiniji način da dođete do hercegnovske obale",
+      "lede": "Najlakši i najjeftiniji za dnevnu vožnju u floti. Instrumenti i-Cockpit, PureTech 1.2 benzin i dovoljno mali da stane u parking uz bedeme kod Morskih vrata.",
+      "suitability": "Najjeftiniji ekonomični izbor u floti, za kratak boravak od 3 do 5 noćenja sa svakodnevnim odlascima na kafu u Stari grad i popodnevnim vožnjama do Žanjica i Mirišta.",
+      "regional": "Dužina od 4,05 m staje u ista parking mjesta kao i Clio, gepek od 311 litara prima dva ručna prtljaga i frižider, a potrošnja od 4,7 L/100 km drži sedmicu šetnje između Kotora i Perasta ispod 25 evra goriva.",
+      "category": "Ekonomična",
+      "bestFor": [
+        "Solo putnici sa skromnim budžetom",
+        "Vikendi iz Dubrovnika",
+        "Kratki boravci u Herceg Novom"
+      ],
+      "features": [
+        "i-Cockpit digitalna tabla",
+        "Bluetooth audio",
+        "Tempomat",
+        "USB punjenje"
+      ]
+    },
+    "hyundai-i20": {
+      "name": "Hyundai i20",
+      "tagline": "Tih korejski hečbek, profinjen izbor u klasi malih automobila",
+      "lede": "Udobnija unutrašnjost od francuskih rivala, profinjen 1.2 MPi benzin, asistent trake i automatsko kočenje serijski. Izbor među malim automobilima kada želite tišu vožnju od Clija ili Fieste.",
+      "suitability": "Mekan i miran mali hečbek za korisnike koji žele modernu sigurnosnu opremu bez cijene srednje klase. Idealan za sedmodnevni boravak u Herceg Novom sa izletima u Perast, Tivat i Risan.",
+      "regional": "Četvorocilindrični motor je primjetno tiši od trocilindričnih alternativa na dugoj dionici auto-puta do Podgorice, a asistent trake olakšava prolaz kroz uske dijelove sa nagibom kroz Morinj i Kostanjicu.",
+      "category": "Ekonomična",
+      "bestFor": [
+        "Stariji parovi na opuštenom boravku",
+        "Vozači koji prvi put voze na Balkanu",
+        "Korisnici nesigurni u jadranskom saobraćaju"
+      ],
+      "features": [
+        "Asistent za zadržavanje trake",
+        "Autonomno kočenje",
+        "Apple CarPlay",
+        "Kamera za vožnju unazad"
+      ]
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "tagline": "Pouzdan Toyotin hečbek, izbor \"ne kvari se\" za duža putovanja",
+      "lede": "Mali automobil ako vam je pouzdanost važnija od prestiža. 1.5 četvorocilindarac sa Toyotinim legendarnim intervalima servisa, bez brige čak i na trosedmičnom najmu.",
+      "suitability": "Za korisnike koji biraju automobil prema dosadašnjoj pouzdanosti a ne stilu, Yaris je najprilagodljiviji mali hečbek na petlji Herceg Novi, Durmitor, Podgorica i nazad.",
+      "regional": "125 KS pruža pravi tempo na usponu prema Lovćenu, dužina od 3,94 m je najmanja u ekonomičnoj klasi pored Ignisa, a Toyota Safety Sense upravlja iznenadnim promjenama trake na prilazu tunelu Sozina.",
+      "category": "Ekonomična",
+      "bestFor": [
+        "Korisnici na dužem boravku, dvije sedmice ili više",
+        "Putnici koji obilaze cijelu zemlju",
+        "Nervozni korisnici prvi put"
+      ],
+      "features": [
+        "Toyota Safety Sense",
+        "Automatska svjetla",
+        "Bluetooth",
+        "Adaptivni tempomat"
+      ]
+    },
+    "ford-fiesta": {
+      "name": "Ford Fiesta",
+      "tagline": "Najbolje vozni Fordov mali automobil, izbor za serpentine Herceg Novi, Lovćen",
+      "lede": "Mali hečbek za entuzijaste. 1.0 EcoBoost trocilindrični motor pruža pravi tempo, a Fordova podešenost šasije pretvara serpentine ka Lovćenu u uživanje umjesto u izazov.",
+      "suitability": "Mali automobil koji nagrađuje vožnju. Za korisnike čiji plan uključuje 25 zavoja na Lovćenu, obalni put kroz Kostanjicu ili krivudavu rutu kroz Grahovo.",
+      "regional": "100 KS turbo motor čisto izvlači iz hercegnovskih tunela kod bedema, šestostepeni prenos drži motor u optimalnim obrtajima na nagibu E65, a precizno upravljanje je pravi razlog da izaberete Fiestu umjesto Clija za planinske vožnje.",
+      "category": "Ekonomična",
+      "bestFor": [
+        "Vozači entuzijasti",
+        "Istraživači obalnih puteva",
+        "Korisnici koji voze serpentine ka Lovćenu"
+      ],
+      "features": [
+        "EcoBoost turbo",
+        "Asistent kod kretanja na uzbrdici",
+        "Bluetooth",
+        "USB-C punjenje"
+      ]
+    },
+    "suzuki-ignis": {
+      "name": "Suzuki Ignis",
+      "tagline": "Mali krosover, povišena šasija za šljunčanu deonicu do Žanjica i Mirišta",
+      "lede": "Sitne dimenzije i prava visina šasije. Izbor za uvale do kojih se stiže zemljanim putem, Žanjic, Mirište, sporedni put do ribarskog sela Rose, bez prelaska na pravi SUV.",
+      "suitability": "Specifičan izbor flote: viša šasija od hečbeka, manje dimenzije od bilo kog SUV-a. Pravljen za neasfaltirane krakove Luštice koji vode do skrivenih plaža.",
+      "regional": "Klirens od 180 mm prelazi duboke kolotečine na posljednja 2 km zemljanog puta do plaže Žanjic, dužina od 3,7 m parkira se kod Morskih vrata gdje srednja klasa ne može, a četvorocilindrični motor je primjetno tiši od trocilindričnih rivala.",
+      "category": "Mini krosover",
+      "bestFor": [
+        "Istraživači poluostrva Luštica",
+        "Parovi koji idu izvan glavnih ruta",
+        "Fotografi koji traže šljunčane uvale"
+      ],
+      "features": [
+        "Povišena visina šasije",
+        "Kompaktne dimenzije",
+        "Bluetooth",
+        "Senzori za parkiranje pozadi"
+      ]
+    },
+    "citroen-c4": {
+      "name": "Citroen C4",
+      "tagline": "Francuska srednja klasa sa Advanced Comfort vješanjem, najmekša vožnja u floti",
+      "lede": "Gepek od 380 litara, PureTech 130 i Citroënovi Advanced Comfort hidraulični graničnici koji izglađuju zakrpljen asfalt na starom obalnom putu. Najnježnija srednja klasa za duge vožnje.",
+      "suitability": "Izbor srednje klase za korisnike kojima je udobnost ispred performansi, savršen za sedmicu kombinovanja boravka u Herceg Novom sa dnevnim izletima u Budvu, Stari Bar ili na sjever.",
+      "regional": "Progresivni hidraulični graničnici izglađuju neravnu dionicu između Risna i Perasta, gepek od 380 litara prima četiri kofera plus opremu za plažu, a 130 KS je sasvim dovoljno za pretjecanje sporog turističkog saobraćaja na E80 prema Budvi.",
+      "category": "Srednja klasa",
+      "bestFor": [
+        "Parovi koji prvo traže udobnost",
+        "Korisnici sa problemima leđa",
+        "Četiri odrasle osobe na sporoj turi"
+      ],
+      "features": [
+        "Advanced Comfort vješanje",
+        "Ekran osjetljiv na dodir 10 inča",
+        "Adaptivni tempomat",
+        "Bežični CarPlay"
+      ]
+    },
+    "citroen-c3": {
+      "name": "Citroen C3",
+      "tagline": "Najmekši mali hečbek za neravnu dionicu Herceg Novi, Risan i sporedne puteve",
+      "lede": "Advanced Comfort amortizeri izglađuju zakrpljeni asfalt na starom putu zaliva, najnježniji mali automobil za noćno parkiranje uz hercegnovske bedeme.",
+      "suitability": "Izbor za udobnost kao prioritet, sedmica u Herceg Novom sa svakodnevnim sporim izletima, rimski mozaici Risna, zaselak Gornja Lastva iznad Tivta, povratni krug kroz okolna sela.",
+      "regional": "Progresivni hidraulični graničnici čine neravnu dionicu od Risna do Perasta tišom za jednu klasu, motor od 83 KS sa malim opterećenjem odgovara ograničenju od 50 km/h na obalnom putu, a dužina od 4 metra stane u svaku parking nišu uz bedeme Starog grada.",
+      "category": "Ekonomična",
+      "bestFor": [
+        "Parovi koji vole sporu turu",
+        "Istraživači sporednih puteva",
+        "Korisnici skloni mučnini u vožnji"
+      ],
+      "features": [
+        "Advanced Comfort sjedišta",
+        "Bluetooth audio",
+        "USB punjenje",
+        "Upozorenje o napuštanju trake"
+      ]
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "tagline": "Krosover sa povišenom šasijom za šljunčani prilaz Njegušima i Lovćenu",
+      "lede": "Nešto viša alternativa hečbeku, savladava izrovane sporedne puteve oko Njeguša i sporedne prilaze Lovćenu bez struganja.",
+      "suitability": "Korisnici koji žele preglednost krosovera i nešto klirensa za sporedne puteve oko gornjeg dijela hercegnovskog zaliva i prilaza Lovćenu, bez plaćanja punog SUV-a.",
+      "regional": "Viši položaj sjedenja olakšava pogled preko kamenih ograda u regionu, klirens od 182 mm prelazi kamene neravnine na starom putu kroz Njeguše do pušnica šunke, a gepek od 352 litre prima porodičnu opremu za planinarenje u Durmitoru bez sklapanja sjedišta.",
+      "category": "Kompaktni krosover",
+      "bestFor": [
+        "Vikendaši ka Njegušima",
+        "Dnevni izleti u Durmitor",
+        "Fotografi vidikovaca na grebenu"
+      ],
+      "features": [
+        "Povišena visina šasije",
+        "Apple CarPlay",
+        "Kamera za vožnju unazad",
+        "Asistent za zadržavanje trake"
+      ]
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "tagline": "DSG dizel za sve namjene, mirna vožnja na E80 i višednevne ture",
+      "lede": "Racionalan izbor za korisnika koji boravak u Herceg Novom kombinuje sa dugim vožnjama u unutrašnjost, profinjen, dovoljno brz i ekonomičan na auto-putu.",
+      "suitability": "Standardna srednja klasa za korisnike koji žele jedan automobil koji će prvi dan obići obod Starog grada Herceg Novi, a četvrti dan auto-put Smokovac, Mateševo, bez problema.",
+      "regional": "DSG sam bira pravu brzinu na serpentinama Herceg Novi, Lovćen, 2.0 TDI drži 130 km/h na auto-putu prema Podgorici uz 4,3 L/100 km, a tihina kabine čini trosatnu vožnju do Žabljaka istinski opuštajućom.",
+      "category": "Srednja klasa",
+      "bestFor": [
+        "Parovi koji kombinuju obalu i kanjone",
+        "Poslovni putnici na sedmodnevnom najmu",
+        "Vozači koji planiraju prelazak granice prema BiH ili Hrvatskoj"
+      ],
+      "features": [
+        "DSG automatik",
+        "Adaptivni tempomat",
+        "Digitalna instrument tabla",
+        "Apple CarPlay"
+      ]
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "tagline": "Mali gradski automobil za kratak boravak u Herceg Novom, staje između dostavnih kombija",
+      "lede": "Sitne dimenzije, krov na otvaranje, hibridom potpomognut 1.0 motor, izbor za dvije ili tri noći boravka u Herceg Novom kada višednevne vožnje nisu na rasporedu.",
+      "suitability": "Dvije ili tri noći u Herceg Novom sa kratkim popodnevnim odlascima u Perast i Prčanj, 500 parkira tamo gdje srednja klasa samo proleti.",
+      "regional": "Dužina od 3,57 m je presudna: stane u stepenasti terasni parking uz obalu okolnih sela i u uski razmak ispred Morskih vrata gdje Clio ne može. Slabiji za uspon na Lovćen, pa kombinujte sa žičarom ili se zadržite u granicama zaliva.",
+      "category": "Gradski",
+      "bestFor": [
+        "Kratki boravci u gradu",
+        "Solo posjetioci sa skromnim budžetom",
+        "Fotografi u kratkim obilascima"
+      ],
+      "features": [
+        "Kompaktne dimenzije",
+        "Lako parkiranje",
+        "Krov na otvaranje",
+        "Bluetooth"
+      ]
+    },
+    "overviewTitle": "Ukratko",
+    "specsTitle": "Puna specifikacija",
+    "featuresTitle": "Unutrašnjost",
+    "whoForTitle": "Za koga je ovaj automobil?",
+    "regionalTitle": "Najbolja regionalna upotreba",
+    "articleTitle": "Na crnogorskim putevima",
+    "relatedTitle": "Kuda vas ovaj automobil vodi",
+    "checkAvailability": "Provjerite dostupnost i cijene uživo",
+    "nextBtn": "Sljedeći u floti",
+    "sections": {
+      "behindWheel": "Iza volana",
+      "onRoads": "Na crnogorskim putevima",
+      "spaceLoad": "Prostor i prtljag",
+      "bestFor": "Najbolja putovanja za ovaj automobil",
+      "practical": "Praktične napomene",
+      "verdict": "Zaključak"
+    }
   },
   "fleetShowcase": {
     "label": "Upoznaj svoj auto",
@@ -1157,5 +1468,44 @@
     "intro1": "Ova flota napravljena je za gosta koji iznajmljuje u Budvau na više dana, ljude koji se ukopaju u stan u Dobroti ili pansion u Starom gradu na dvije sedmice ili više, i koji znaju da će pravo vrijeme provesti na putu između dana u zalivu. To je drugačiji zadatak od jednodnevnog najma sa krstarenja ili prostog preuzimanja auta na tivatskom aerodromu: traži prtljažnik za sedmičnu kupovinu u Voliju, dizel moment za uspon Sozine i sedeću poziciju u kojoj četvoro odraslih izdrži trosatnu vožnju do Žabljaka. Sedam auta ispod izabrani su baš po toj mjeri.",
     "intro2": "Miks namjerno ide ka srednjoj klasi. Peugeot 308 sa 1.5 BlueHDi i EAT automatikom, dizel Renault Megane sa najvećim prtljažnikom u klasi, VW Golf sa DSG 2.0 TDI, ta kola pretvaraju petlju Budva → Cetinje → Skadarsko jezero → Sozina iz posla sa mjenjačem u mirno krstarenje. Za kraće skokove držimo Renault Clio, Citroën C3 sa Advanced Comfort vješanjem, krosover Kia Stonic za razvaljene odvojke ka Njegušima i Gornjoj Lastvi, i sitan Fiat 500 kada je jedino ograničenje parkiranje na mulu u Muu. Bez monotonaca i bez kombija, svaki auto ovdje opravdava višednevni najam.",
     "intro3": "Jedan praktičan budvaski savjet prije izbora. Dizel je i dalje pametniji potez ako je u planu makar jedna prekogranična vožnja, Trebinje je 90 minuta, Dubrovnik preko Debelog Brijega isto 90, Mostar pun dan u oba smjera. 308 i Megane pokrivaju sve tri rute na jednom rezervoaru, Golf je najtiši autoputni auto koji imamo, a benzinski Clio će svejedno preći Budva–Dubrovnik u oba smjera na pola rezervoara. Ako vam je sedmica u granicama zaliva, Rafailovići, Prčanj, Muo, Risan, Fiat 500 ili C3 uštedi trećinu goriva i staje tamo gdje ostali ne stanu. Birajte po maršruti, ne po dnevnoj cijeni."
-  }
+  },
+  "carSpecs": {
+    "values": {
+      "Petrol": "Benzin",
+      "Manual": "Manuelno",
+      "Diesel": "Dizel",
+      "Automatic": "Automatik"
+    },
+    "seats": "Sjedišta",
+    "transmission": "Mjenjač",
+    "fuel": "Gorivo",
+    "luggage": "Prtljag",
+    "bootSize": "Gepek",
+    "mpg": "Potrošnja",
+    "bagsSuffix": "torbe"
+  },
+  "locationsList": [
+    {
+      "name": "Herceg Novi",
+      "tag": "Najpopularnije"
+    },
+    {
+      "name": "Igalo",
+      "tag": "Banjski centar"
+    },
+    {
+      "name": "Aerodrom Tivat",
+      "tag": "Preuzimanje sa aerodroma"
+    },
+    {
+      "name": "Aerodrom Dubrovnik",
+      "tag": "Preko granice"
+    },
+    {
+      "name": "Bijela"
+    },
+    {
+      "name": "Meljine"
+    }
+  ]
 }

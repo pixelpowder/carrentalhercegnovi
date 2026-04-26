@@ -72,7 +72,7 @@ export default function Footer() {
         </div>
 
         <div>
-          <div className="footer__col-title">Western Bay Drives</div>
+          <div className="footer__col-title">{t('sidebar.westernBayDrives') || 'Western Bay Drives'}</div>
           <div className="footer__links">
             <a href={localePath('/blog/sutorina-bosnia-corridor')} className="footer__link">Sutorina → Bosnia</a>
             <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')} className="footer__link">Airport Choice</a>

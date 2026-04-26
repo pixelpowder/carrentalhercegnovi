@@ -13,7 +13,8 @@
     "callUs": "Call Us",
     "bookNow": "Book Now",
     "perDay": "per day",
-    "emailUs": "Email Us"
+    "emailUs": "Email Us",
+    "readGuide": "Read guide"
   },
   "hero": {
     "headline": "Rent a Car in Herceg Novi. Outer Bay Ready.",
@@ -110,7 +111,11 @@
     "helpText": "Our team is available via WhatsApp, Viber, or phone.",
     "popularDest": "Popular Destinations",
     "tivatAirport": "Tivat Airport (TIV)",
-    "dubrovnikAirport": "Dubrovnik Airport"
+    "dubrovnikAirport": "Dubrovnik Airport",
+    "westernBayGuides": "Western Bay Guides",
+    "easternBayGuides": "Eastern Bay Guides",
+    "northernGuides": "Northern Bay Guides",
+    "regionGuides": "Region Guides"
   },
   "book": {
     "title": "Find Your Car",
@@ -325,6 +330,46 @@
       "name": "Podgorica",
       "tag": "Capital City",
       "desc": "Montenegro's capital, 2 hrs inland from the outer bay."
+    },
+    "blog/kamenari-lepetane-ferry": {
+      "name": "Kamenari–Lepetane Ferry",
+      "desc": "The roll-on ferry shortcut across the narrowest point of the Bay of Kotor.",
+      "tag": "~5 min crossing"
+    },
+    "blog/rose-village-lustica": {
+      "name": "Rose Village",
+      "desc": "A 14th-century fishing hamlet with Austrian battery ruins above.",
+      "tag": "Luštica peninsula"
+    },
+    "blog/ledenice-viewpoint-loop": {
+      "name": "Ledenice Loop",
+      "desc": "The switchback road above Herceg Novi and the best bay panorama on the west Boka.",
+      "tag": "~700 m altitude"
+    },
+    "blog/risan-roman-mosaics-drive": {
+      "name": "Risan Roman Mosaics",
+      "desc": "An ancient Illyrian capital and a Roman villa floor mosaic of Hypnos.",
+      "tag": "Inner bay"
+    },
+    "blog/portonovi-marina-podi": {
+      "name": "Portonovi Marina",
+      "desc": "The former Yugoslav naval base at Kumbor, now a superyacht marina.",
+      "tag": "5 km east"
+    },
+    "blog/bijela-shipyards-heritage": {
+      "name": "Bijela Shipyards",
+      "desc": "The working dry-dock town on the outer bay magistrala.",
+      "tag": "Since 1927"
+    },
+    "blog/djenovici-west-bay-promenade": {
+      "name": "Đenovići Promenade",
+      "desc": "A low-rise coastal strip and walking promenade east of Herceg Novi.",
+      "tag": "Austro-Hungarian villas"
+    },
+    "blog/tivat-vs-dubrovnik-airport-choice": {
+      "name": "Airport Choice",
+      "desc": "Two airports, roughly equal drive time, a decision guide.",
+      "tag": "Tivat vs Dubrovnik"
     }
   },
   "aboutBody": {
@@ -505,7 +550,8 @@
     "title": "Contact Us",
     "seoDesc": "Reach Car Rental Herceg Novi for quotes, airport pickup, or trip planning questions. Email, WhatsApp, form, replies within two hours most weekdays.",
     "heading": "Contact Us",
-    "intro": "Have a question about renting a car in Herceg Novi? Get in touch and we'll help you find the perfect vehicle for your trip."
+    "intro": "Have a question about renting a car in Herceg Novi? Get in touch and we'll help you find the perfect vehicle for your trip.",
+    "thanks": "Thanks for getting in touch, we will reply within a few hours."
   },
   "cookieBody": {
     "lastUpdated": "Last updated:",
@@ -801,7 +847,8 @@
   "relatedGuides": {
     "secretChurches": "Kamenari–Lepetane Ferry Guide",
     "vrmacRidge": "Ledenice Viewpoint on Orjen",
-    "swimmingSpots": "Rose Village on Luštica Peninsula"
+    "swimmingSpots": "Rose Village on Luštica Peninsula",
+    "title": "You might also like"
   },
   "navTop": {
     "carRental": "Car Rental",
@@ -816,7 +863,271 @@
     "decline": "Decline"
   },
   "cars": {
-    "readGuide": "Read guide"
+    "readGuide": "Read guide",
+    "renault-clio": {
+      "name": "Renault Clio",
+      "tagline": "The low-maintenance coast-runner for a fortnight-long Herceg Novi base",
+      "lede": "Light on fuel, cheap to park at the pickup location, and comfortable on the motorway push to Podgorica or Žabljak.",
+      "suitability": "A pair settling in Herceg Novi for ten to fourteen days, with regular day-trips out to Cetinje, Risan and the Lake Skadar shore, simple to park, forgiving on petrol.",
+      "regional": "Handles the Herceg Novi–Cetinje climb in third gear without drama, threads the narrow waterfront through outlying villages, and the 5.3 L/100 km petrol keeps the fuel bill predictable over a multi-week hire.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Couples on a two-week stay",
+        "1": "Day-trippers to Cetinje and Njeguši",
+        "2": "Shoppers at Risan Roman mosaics"
+      },
+      "features": {
+        "0": "Bluetooth Audio",
+        "1": "USB Charging",
+        "2": "Central Locking",
+        "3": "Touchscreen Display"
+      }
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "tagline": "Diesel mid-size for the Herceg Novi → Dubrovnik and Herceg Novi → Durmitor runs",
+      "lede": "Long-legged BlueHDi + auto box built for the 3-hour push up to Žabljak or the cross-border drive to Trebinje and Mostar.",
+      "suitability": "The mid-size diesel picks for anyone pairing a Herceg Novi base with multi-day drives inland, auto gearbox and cruise control earn their keep on the Podgorica motorway.",
+      "regional": "Cruises the Smokovac–Mateševo motorway section effortlessly, swallows a week of hiking kit bound for Žabljak, and covers the Herceg Novi → Dubrovnik via Debeli Brijeg run on half a tank.",
+      "category": "Mid-Size",
+      "bestFor": {
+        "0": "Cross-border road-trippers",
+        "1": "Durmitor weekenders",
+        "2": "Four adults with full luggage"
+      },
+      "features": {
+        "0": "Automatic Transmission",
+        "1": "Adaptive Cruise",
+        "2": "Dual-Zone Climate",
+        "3": "Large Boot"
+      }
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "tagline": "Biggest-boot French mid-size, built for long-stay loads and lake trips",
+      "lede": "434-litre boot, quiet diesel cruising, sofa-soft damping, the mid-size wagon pick for a month in the bay with regular excursions out.",
+      "suitability": "Renters who want more than a hatchback's packing space without the length of a full estate, ideal for Skadar Lake fishing kit, Cetinje monastery day-bags and a cool-box for the drive home.",
+      "regional": "The long-travel suspension shrugs off the patchy bitumen on the old Herceg Novi–Budva road, the dCi diesel sips on the Sozina tunnel run, and the generous boot takes two weeks of family kit plus the laundry bag you pick up in Prčanj.",
+      "category": "Mid-Size",
+      "bestFor": {
+        "0": "Long-stay renters",
+        "1": "Skadar Lake day-trippers",
+        "2": "Families visiting monasteries"
+      },
+      "features": {
+        "0": "Large Boot",
+        "1": "Bluetooth Audio",
+        "2": "Cruise Control",
+        "3": "Parking Sensors"
+      }
+    },
+    "peugeot-208": {
+      "name": "Peugeot 208",
+      "tagline": "Small-footprint French hatch, the cheapest way onto the Herceg Novi waterfront",
+      "lede": "Lightest, cheapest runaround in the fleet. i-Cockpit gauges, PureTech 1.2 petrol, and a small enough footprint to slip into the bastion car-parks at the Sea Gate.",
+      "suitability": "The cheapest economy slot in the fleet, for a short 3- to 5-night stay with daily coffee runs to the Old Town and afternoon drives out to Žanjic and Mirište.",
+      "regional": "The 4.05 m length parks in the same bays a Clio takes, the 311-litre boot swallows two carry-ons plus a cool-box, and the 4.7 L/100 km petrol keeps a week of Kotor-Perast pottering under €25 of fuel.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Budget solo travellers",
+        "1": "Weekend breaks from Dubrovnik",
+        "2": "Short Herceg Novi stays"
+      },
+      "features": {
+        "0": "i-Cockpit Digital Dash",
+        "1": "Bluetooth Audio",
+        "2": "Cruise Control",
+        "3": "USB Charging"
+      }
+    },
+    "hyundai-i20": {
+      "name": "Hyundai i20",
+      "tagline": "Quiet Korean hatch, the refined choice in the small-car class",
+      "lede": "Plusher cabin than the French rivals, refined 1.2 MPi petrol, lane-keep and AEB as standard. The small-car pick when you want a quieter drive than a Clio or Fiesta.",
+      "suitability": "A soft, unflustered small hatch for renters who want modern safety kit without paying mid-size prices. Ideal week-long Herceg Novi base with trips to Perast, Tivat, Risan.",
+      "regional": "The 4-cylinder engine is noticeably smoother than the 3-pot alternatives on the long motorway push to Podgorica, and lane-keep assist takes the edge off the tight cambered sections through Morinj and Kostanjica.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Older couples on relaxed stays",
+        "1": "First-time Balkan drivers",
+        "2": "Renters nervous about Adriatic traffic"
+      },
+      "features": {
+        "0": "Lane Keep Assist",
+        "1": "Autonomous Braking",
+        "2": "Apple CarPlay",
+        "3": "Reversing Camera"
+      }
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "tagline": "Reliable Toyota hatch, the 'never breaks down' option for longer road trips",
+      "lede": "The small-car pick if reliability matters more than badge cachet. 1.5 four-cylinder with Toyota's legendary service intervals, zero worry even on a three-week rental.",
+      "suitability": "For renters who pick the car on past reliability rather than styling, the Yaris is the most forgiving small hatch on the Herceg Novi → Durmitor → Podgorica → back loop.",
+      "regional": "125 hp has genuine pace for the Lovćen climb, the 3.94 m length is the shortest in the economy lineup aside from the Ignis, and Toyota Safety Sense manages the sudden lane-merges on the Sozina tunnel approach.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Long-stay renters (2+ weeks)",
+        "1": "Road-trippers looping the whole country",
+        "2": "Nervous first-time renters"
+      },
+      "features": {
+        "0": "Toyota Safety Sense",
+        "1": "Automatic Headlights",
+        "2": "Bluetooth",
+        "3": "Adaptive Cruise"
+      }
+    },
+    "ford-fiesta": {
+      "name": "Ford Fiesta",
+      "tagline": "Ford's best-handling small car, the pick for the Herceg Novi → Lovćen hairpins",
+      "lede": "The enthusiast's small hatch. 1.0 EcoBoost 3-cyl makes real pace, and Ford's chassis tuning turns the Lovćen switchbacks into a highlight rather than an endurance test.",
+      "suitability": "A small car that actually rewards driving. For renters whose itinerary includes the Lovćen 25-bends, the cross-bay coast road through Kostanjica, or the winding back route via Grahovo.",
+      "regional": "The 100 hp turbo hauls cleanly out of the Herceg Novi bastion tunnels, six-speed gearing keeps the engine in its sweet spot on the E65 grade, and the precise steering is the real reason to pick a Fiesta over a Clio for the mountain drives.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Enthusiast drivers",
+        "1": "Coastal road explorers",
+        "2": "Renters doing the Lovćen switchbacks"
+      },
+      "features": {
+        "0": "EcoBoost Turbo",
+        "1": "Hill-Start Assist",
+        "2": "Bluetooth",
+        "3": "USB-C Charging"
+      }
+    },
+    "suzuki-ignis": {
+      "name": "Suzuki Ignis",
+      "tagline": "Pocket crossover, raised ride for the gravel spur to Žanjic and Mirište",
+      "lede": "Tiny footprint plus genuine ride height. The pick for coves reached by dirt tracks, Žanjic, Mirište, the back road to Rose fishing village, without jumping to a full SUV.",
+      "suitability": "The fleet's quirky pick: higher ride height than a hatchback, smaller footprint than any SUV. Designed for Luštica's unpaved spurs to secluded beaches.",
+      "regional": "180 mm ground clearance clears the deep ruts on the last 2 km of dirt track down to Žanjic beach, the 3.7 m length parks at the Sea Gate where a mid-size can't, and the four-cylinder engine is noticeably quieter than the 3-pot rivals.",
+      "category": "Mini Crossover",
+      "bestFor": {
+        "0": "Luštica peninsula explorers",
+        "1": "Off-the-beaten-track couples",
+        "2": "Photographers chasing gravel-road coves"
+      },
+      "features": {
+        "0": "Raised Ride Height",
+        "1": "Compact Dimensions",
+        "2": "Bluetooth",
+        "3": "Rear Parking Sensors"
+      }
+    },
+    "citroen-c4": {
+      "name": "Citroen C4",
+      "tagline": "French mid-size with Advanced Comfort suspension, the softest ride in the fleet",
+      "lede": "380-litre boot, PureTech 130, and Citroën's Advanced Comfort hydraulic bump stops that iron out the patched bitumen on the old coast road. The gentlest mid-size for long drives.",
+      "suitability": "The mid-size pick for renters who prioritise comfort over performance, perfect for a week mixing the Herceg Novi base with day-trips out to Budva, Stari Bar, or the north.",
+      "regional": "Progressive hydraulic bump stops smooth the broken stretch between Risan and Perast, the 380-litre boot fits four cases plus beach gear, and the 130 hp is plenty for overtaking slow tourist traffic on the E80 to Budva.",
+      "category": "Mid-Size",
+      "bestFor": {
+        "0": "Comfort-first couples",
+        "1": "Renters with back issues",
+        "2": "Four adults on a slow tour"
+      },
+      "features": {
+        "0": "Advanced Comfort Suspension",
+        "1": "10-inch Touchscreen",
+        "2": "Adaptive Cruise",
+        "3": "Wireless CarPlay"
+      }
+    },
+    "citroen-c3": {
+      "name": "Citroen C3",
+      "tagline": "Softest small hatch for the broken Herceg Novi–Risan stretch and back-road detours",
+      "lede": "Advanced Comfort dampers iron out the patched tarmac on the old bay road, the gentlest small car to park at the Herceg Novi bastions overnight.",
+      "suitability": "The comfort-first pick for a week in Herceg Novi with daily slow-paced detours, Risan's Roman mosaics, the Gornja Lastva hamlet above Tivat, the loop back through nearby villages.",
+      "regional": "The progressive hydraulic bump stops make the potholed stretch from Risan to Perast feel a size-class quieter, the low-stress 83 hp motor suits the 50 km/h bay-road limits, and the 4-metre length slots into any Old Town bastion bay.",
+      "category": "Economy",
+      "bestFor": {
+        "0": "Slow-touring couples",
+        "1": "Back-road explorers",
+        "2": "Renters prone to motion sickness"
+      },
+      "features": {
+        "0": "Advanced Comfort Seats",
+        "1": "Bluetooth Audio",
+        "2": "USB Charging",
+        "3": "Lane Departure Warning"
+      }
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "tagline": "Raised-ride crossover for the gravel approach to Njeguši and Lovćen",
+      "lede": "A slightly higher-riding alternative to a hatchback, takes the rutted spur roads around Njeguši and the Lovćen back approaches without scraping.",
+      "suitability": "Renters who want crossover sight-lines and a bit of ground clearance for the side-roads around Herceg Novi's upper bay and the Lovćen approach, without paying full-SUV money.",
+      "regional": "Higher seating position means easier viewing over region parapet walls, the 182 mm ride height clears the stone ruts on the old Njeguši ham-smoker lane, and the 352-litre boot handles a family's Durmitor hiking gear without folding seats.",
+      "category": "Compact Crossover",
+      "bestFor": {
+        "0": "Weekend trippers to Njeguši",
+        "1": "Durmitor day-trippers",
+        "2": "Photographers chasing ridge viewpoints"
+      },
+      "features": {
+        "0": "Raised Ride Height",
+        "1": "Apple CarPlay",
+        "2": "Reversing Camera",
+        "3": "Lane Keep Assist"
+      }
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "tagline": "DSG diesel all-rounder, calm cruising for the E80 and multi-day loops",
+      "lede": "The rational default for a renter mixing a Herceg Novi base with long inland drives, refined, quick enough, and economical on the motorway.",
+      "suitability": "The default mid-size for renters who want one car that will do the Herceg Novi Old Town perimeter on day one and the Smokovac-Mateševo motorway on day four without complaint.",
+      "regional": "DSG picks the right ratio on the Herceg Novi–Lovćen hairpins without any thinking, the 2.0 TDI holds 130 km/h on the motorway section up to Podgorica at 4.3 L/100 km, and the cabin quiet makes the 3-hour push to Žabljak genuinely relaxing.",
+      "category": "Mid-Size",
+      "bestFor": {
+        "0": "Couples mixing coast and canyon",
+        "1": "Business travellers on week-long hires",
+        "2": "Drivers planning the BiH or Croatia border run"
+      },
+      "features": {
+        "0": "DSG Automatic",
+        "1": "Adaptive Cruise",
+        "2": "Digital Cockpit",
+        "3": "Apple CarPlay"
+      }
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "tagline": "Postage-stamp city car for a short Herceg Novi stay, slots between delivery vans",
+      "lede": "Tiny footprint, sunroof, hybrid-assisted 1.0, the pick for a two- or three-night Herceg Novi anchor when multi-day drives aren't on the schedule.",
+      "suitability": "Two or three nights in Herceg Novi with short afternoon hops to Perast and Prčanj, the 500 parks where mid-size cars wave and drive past.",
+      "regional": "The 3.57 m length is the deciding factor: it fits the stepped terrace parking on the nearby villages waterfront and the shoulder-wide gap outside the Sea Gate that a Clio can't. Underpowered for the Lovćen climb, so pair with cable-car transfers or keep within bay limits.",
+      "category": "City",
+      "bestFor": {
+        "0": "Short city-base stays",
+        "1": "Solo visitors on a shoestring",
+        "2": "Photographers doing short hops"
+      },
+      "features": {
+        "0": "Compact Size",
+        "1": "Easy Parking",
+        "2": "Sunroof",
+        "3": "Bluetooth"
+      }
+    },
+    "overviewTitle": "At a glance",
+    "specsTitle": "Full specification",
+    "featuresTitle": "Inside the car",
+    "whoForTitle": "Who is this car for?",
+    "regionalTitle": "Best regional use",
+    "articleTitle": "On Montenegro roads",
+    "relatedTitle": "Where this car takes you",
+    "checkAvailability": "Check availability & live pricing",
+    "nextBtn": "Next in fleet",
+    "sections": {
+      "behindWheel": "Behind the wheel",
+      "onRoads": "On Montenegro roads",
+      "spaceLoad": "Space and load",
+      "bestFor": "Best journeys for this car",
+      "practical": "Practical notes",
+      "verdict": "The verdict"
+    }
   },
   "fleetShowcase": {
     "label": "Know your car",
@@ -839,5 +1150,44 @@
     "intro1": "This fleet is built around the multi-day Herceg Novi renter, visitors who anchor themselves at an Igalo apartment or an Old Town guesthouse for a fortnight or longer, and who expect to be spending real time on the road between bay-based days. That brief is different from a cruise-day hire or a pure Tivat Airport pickup: it leans on boot space for a weekly shop at Voli, diesel torque for the Debeli Brijeg border run, and a seating position that keeps four adults comfortable on the drive up Orjen to Ledenice. The seven cars below are chosen accordingly.",
     "intro2": "The mix is deliberately weighted toward mid-size. A Peugeot 308 with the 1.5 BlueHDi and the EAT auto, a Renault Megane diesel with the segment's biggest boot, a VW Golf with the DSG 2.0 TDI, these are the cars that turn a Herceg Novi → Kamenari ferry → Kotor → Lovćen → Skadar Lake loop from a gear-changing chore into a cruise. For shorter hops we keep a Renault Clio, a Citroen C3 with Advanced Comfort dampers, a Kia Stonic crossover for the rutted spur roads up to Ledenice and Podi, and a tiny Fiat 500 for when the stepped Old Town lanes are the deciding constraint. No one-trick supercars, no vans; every car here justifies a multi-day hire.",
     "intro3": "A practical Herceg Novi note before you choose. Diesel remains the smarter spec for anyone planning even one cross-border run, Dubrovnik via Debeli Brijeg is 40 minutes, Trebinje via the Sutorina valley is 1 h 15, and Mostar is a full day each way on a good cruise. The 308 and Megane will cover all three on a single tank, the Golf is the most refined motorway car we have, and the petrol Clio will still do a Herceg Novi → Dubrovnik return on half a tank. If your week is bay-contained, Igalo, Đenovići, Bijela, Perast via the ferry, the Fiat 500 or the C3 saves a third on weekly fuel and parks in places the rest of the fleet can't. Pick on your itinerary, not the daily rate."
+  },
+  "carSpecs": {
+    "values": {
+      "Petrol": "Petrol",
+      "Manual": "Manual",
+      "Diesel": "Diesel",
+      "Automatic": "Automatic"
+    },
+    "seats": "Seats",
+    "transmission": "Gearbox",
+    "fuel": "Fuel",
+    "luggage": "Luggage",
+    "bootSize": "Boot",
+    "mpg": "Economy",
+    "bagsSuffix": "bags"
+  },
+  "locationsList": {
+    "0": {
+      "name": "Herceg Novi",
+      "tag": "Most Popular"
+    },
+    "1": {
+      "name": "Igalo",
+      "tag": "Spa Resort"
+    },
+    "2": {
+      "name": "Tivat Airport",
+      "tag": "Airport Pickup"
+    },
+    "3": {
+      "name": "Dubrovnik Airport",
+      "tag": "Cross-Border"
+    },
+    "4": {
+      "name": "Bijela"
+    },
+    "5": {
+      "name": "Meljine"
+    }
   }
 }

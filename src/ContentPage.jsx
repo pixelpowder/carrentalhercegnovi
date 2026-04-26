@@ -38,7 +38,7 @@ export default function ContentPage({ title, subtitle, image, description, child
             <a href={`mailto:${config.email}`} className="sidebar-card__btn sidebar-card__btn--outline">{t('common.emailUs') || 'Email Us'}</a>
           </div>
           <div className="sidebar-card">
-            <h3 className="sidebar-card__title">Western Bay Guides</h3>
+            <h3 className="sidebar-card__title">{t('sidebar.westernBayGuides') || 'Western Bay Guides'}</h3>
             <ul className="sidebar-links">
               <li><a href={localePath('/blog/kamenari-lepetane-ferry')}>Kamenari–Lepetane Ferry</a></li>
               <li><a href={localePath('/blog/rose-village-lustica')}>Rose Village on Luštica</a></li>
@@ -52,7 +52,7 @@ export default function ContentPage({ title, subtitle, image, description, child
       </div>
       <div className="related-guides">
         <div className="related-guides__inner">
-          <h2 className="related-guides__title">You might also like</h2>
+          <h2 className="related-guides__title">{t('relatedGuides.title') || 'You might also like'}</h2>
           <div className="related-guides__cards">
             <a href={localePath('/blog/ledenice-viewpoint-loop')} className="related-card">
               <img src="/img/blog-ledenice-viewpoint-loop.webp" alt="Ledenice viewpoint loop" loading="lazy" />

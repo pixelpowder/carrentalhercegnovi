@@ -13,7 +13,8 @@
     "callUs": "Chiamaci",
     "bookNow": "Prenota Ora",
     "perDay": "al giorno",
-    "emailUs": "Invia email"
+    "emailUs": "Invia email",
+    "readGuide": "Leggi la guida"
   },
   "hero": {
     "headline": "Noleggio Auto Budva. Noleggia locale, spendi meno.",
@@ -110,7 +111,11 @@
     "helpText": "Il nostro team è disponibile via WhatsApp, Viber o telefono.",
     "popularDest": "Destinazioni Popolari",
     "tivatAirport": "Aeroporto di Tivat Airport",
-    "dubrovnikAirport": "Aeroporto di Dubrovnik"
+    "dubrovnikAirport": "Aeroporto di Dubrovnik",
+    "westernBayGuides": "Guide della baia occidentale",
+    "easternBayGuides": "Guide della baia orientale",
+    "northernGuides": "Guide della baia settentrionale",
+    "regionGuides": "Guide della regione"
   },
   "book": {
     "title": "Trova la Tua Auto",
@@ -364,6 +369,46 @@
       "name": "Podgorica",
       "tag": "Capitale",
       "desc": "Capitale del Montenegro, porta verso l’interno."
+    },
+    "blog/kamenari-lepetane-ferry": {
+      "name": "Traghetto Kamenari–Lepetane",
+      "desc": "Il traghetto roll-on che attraversa il punto più stretto delle Bocche di Cattaro.",
+      "tag": "Traversata di circa 5 minuti"
+    },
+    "blog/rose-village-lustica": {
+      "name": "Villaggio di Rose",
+      "desc": "Borgo di pescatori del XIV secolo con i resti delle batterie austriache sopra.",
+      "tag": "Penisola di Luštica"
+    },
+    "blog/ledenice-viewpoint-loop": {
+      "name": "Anello di Ledenice",
+      "desc": "La strada a tornanti sopra Herceg Novi e il miglior panorama sulla baia occidentale di Boka.",
+      "tag": "Circa 700 m di altitudine"
+    },
+    "blog/risan-roman-mosaics-drive": {
+      "name": "Mosaici romani di Risan",
+      "desc": "Antica capitale illirica e il pavimento a mosaico di Hypnos in una villa romana.",
+      "tag": "Baia interna"
+    },
+    "blog/portonovi-marina-podi": {
+      "name": "Marina di Portonovi",
+      "desc": "La ex base navale jugoslava di Kumbor, oggi marina per superyacht.",
+      "tag": "5 km a est"
+    },
+    "blog/bijela-shipyards-heritage": {
+      "name": "Cantieri navali di Bijela",
+      "desc": "La cittadina con il bacino di carenaggio attivo lungo la magistrala della baia esterna.",
+      "tag": "Dal 1927"
+    },
+    "blog/djenovici-west-bay-promenade": {
+      "name": "Lungomare di Đenovići",
+      "desc": "Una fascia costiera bassa con lungomare pedonale a est di Herceg Novi.",
+      "tag": "Ville austro-ungariche"
+    },
+    "blog/tivat-vs-dubrovnik-airport-choice": {
+      "name": "Quale aeroporto scegliere",
+      "desc": "Due aeroporti, tempi di percorrenza simili, una guida per decidere.",
+      "tag": "Tivat o Dubrovnik"
     }
   },
   "aboutBody": {
@@ -827,7 +872,8 @@
     "title": "Contattaci",
     "seoDesc": "Contatta Car Rental Budva per preventivi, ritiro in aeroporto o domande sul viaggio.",
     "heading": "Contattaci",
-    "intro": "Hai una domanda sul noleggio auto a Budva? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio."
+    "intro": "Hai una domanda sul noleggio auto a Budva? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio.",
+    "thanks": "Grazie per averci contattato, risponderemo entro poche ore."
   },
   "cookieBody": {
     "lastUpdated": "Ultimo aggiornamento:",
@@ -1123,7 +1169,8 @@
   "relatedGuides": {
     "secretChurches": "Chiese Nascoste di Budva",
     "vrmacRidge": "Escursionismo sulla Cresta di Vrmac",
-    "swimmingSpots": "I Migliori Punti Balneabili"
+    "swimmingSpots": "I Migliori Punti Balneabili",
+    "title": "Potrebbe interessarti anche"
   },
   "navTop": {
     "carRental": "Noleggio Auto",
@@ -1138,7 +1185,271 @@
     "decline": "Rifiuta"
   },
   "cars": {
-    "readGuide": "Leggi la guida"
+    "readGuide": "Leggi la guida",
+    "renault-clio": {
+      "name": "Renault Clio",
+      "tagline": "L’auto da costa a bassa manutenzione per chi resta due settimane a Herceg Novi",
+      "lede": "Consumi contenuti, parcheggio a buon mercato vicino al punto di ritiro e comoda nella tirata in autostrada verso Podgorica o Žabljak.",
+      "suitability": "Una coppia che si ferma a Herceg Novi per dieci o quattordici giorni, con frequenti gite a Cetinje, Risan e alle rive del Lago di Skadar, facile da parcheggiare e indulgente sui consumi di benzina.",
+      "regional": "Affronta in terza la salita Herceg Novi, Cetinje senza affanno, si infila lungo i lungomari stretti dei villaggi dell’entroterra e i 5,3 L/100 km a benzina rendono prevedibile la spesa di carburante in un noleggio di più settimane.",
+      "category": "Economica",
+      "bestFor": [
+        "Coppie in soggiorno di due settimane",
+        "Gite giornaliere a Cetinje e Njeguši",
+        "Visitatori dei mosaici romani di Risan"
+      ],
+      "features": [
+        "Audio Bluetooth",
+        "Ricarica USB",
+        "Chiusura centralizzata",
+        "Display touchscreen"
+      ]
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "tagline": "Diesel media per le tratte Herceg Novi, Dubrovnik e Herceg Novi, Durmitor",
+      "lede": "BlueHDi a lunga percorrenza con cambio automatico, pensata per le 3 ore fino a Žabljak o per il viaggio transfrontaliero verso Trebinje e Mostar.",
+      "suitability": "La media diesel ideale per chi unisce un soggiorno a Herceg Novi a viaggi di più giorni nell’entroterra: cambio automatico e cruise control si fanno apprezzare in autostrada verso Podgorica.",
+      "regional": "Macina senza sforzo il tratto autostradale Smokovac, Mateševo, ingoia una settimana di attrezzatura per il trekking diretta a Žabljak e copre il percorso Herceg Novi, Dubrovnik via Debeli Brijeg con mezzo serbatoio.",
+      "category": "Media",
+      "bestFor": [
+        "Viaggiatori che attraversano il confine",
+        "Chi trascorre il weekend sul Durmitor",
+        "Quattro adulti con bagaglio completo"
+      ],
+      "features": [
+        "Cambio automatico",
+        "Cruise control adattivo",
+        "Climatizzatore bizona",
+        "Bagagliaio capiente"
+      ]
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "tagline": "La media francese con il bagagliaio più grande, ideale per soggiorni lunghi e gite al lago",
+      "lede": "Bagagliaio da 434 litri, marcia silenziosa col diesel, sospensioni morbide come un divano: la station wagon di taglia media perfetta per un mese in baia con frequenti escursioni.",
+      "suitability": "Per chi vuole più spazio di una hatchback senza la lunghezza di una station wagon completa, ideale per l’attrezzatura da pesca al Lago di Skadar, lo zaino per i monasteri di Cetinje e una borsa frigo per il rientro.",
+      "regional": "Le sospensioni a lunga corsa assorbono il bitume sconnesso della vecchia strada Herceg Novi, Budva, il diesel dCi consuma poco nella tratta del tunnel di Sozina e il bagagliaio generoso accoglie due settimane di bagaglio familiare più la sacca della biancheria presa a Prčanj.",
+      "category": "Media",
+      "bestFor": [
+        "Noleggi di lunga durata",
+        "Gite giornaliere al Lago di Skadar",
+        "Famiglie in visita ai monasteri"
+      ],
+      "features": [
+        "Bagagliaio capiente",
+        "Audio Bluetooth",
+        "Cruise control",
+        "Sensori di parcheggio"
+      ]
+    },
+    "peugeot-208": {
+      "name": "Peugeot 208",
+      "tagline": "Hatchback francese compatta, il modo più economico per arrivare al lungomare di Herceg Novi",
+      "lede": "L’auto più leggera ed economica della flotta. Strumentazione i-Cockpit, motore PureTech 1.2 a benzina e ingombri contenuti per infilarsi nei parcheggi delle bastioni alla Porta del Mare.",
+      "suitability": "La proposta economy più conveniente della flotta, per un soggiorno breve di 3, 5 notti con caffè quotidiano nella Città Vecchia e gite pomeridiane verso Žanjic e Mirište.",
+      "regional": "I 4,05 m di lunghezza si parcheggiano negli stessi spazi di una Clio, il bagagliaio da 311 litri ingoia due trolley più una borsa frigo e i 4,7 L/100 km a benzina mantengono una settimana di gite tra Cattaro e Perast sotto i 25 euro di carburante.",
+      "category": "Economica",
+      "bestFor": [
+        "Viaggiatori solitari con budget contenuto",
+        "Weekend in partenza da Dubrovnik",
+        "Brevi soggiorni a Herceg Novi"
+      ],
+      "features": [
+        "Quadro digitale i-Cockpit",
+        "Audio Bluetooth",
+        "Cruise control",
+        "Ricarica USB"
+      ]
+    },
+    "hyundai-i20": {
+      "name": "Hyundai i20",
+      "tagline": "Hatchback coreana silenziosa, la scelta raffinata nella categoria delle piccole",
+      "lede": "Abitacolo più curato delle rivali francesi, motore 1.2 MPi a benzina raffinato, lane-keep e frenata d’emergenza di serie. La piccola da scegliere quando si vuole guidare in modo più tranquillo rispetto a Clio o Fiesta.",
+      "suitability": "Una piccola morbida e composta per chi vuole dotazioni di sicurezza moderne senza pagare prezzi da media. Ideale per una settimana con base a Herceg Novi e gite a Perast, Tivat e Risan.",
+      "regional": "Il motore a 4 cilindri è notevolmente più fluido delle alternative a 3 cilindri sulla lunga tirata autostradale verso Podgorica e l’assistente di corsia smussa i tratti stretti e bombati attraverso Morinj e Kostanjica.",
+      "category": "Economica",
+      "bestFor": [
+        "Coppie mature in soggiorni rilassati",
+        "Chi guida nei Balcani per la prima volta",
+        "Chi è poco a suo agio col traffico adriatico"
+      ],
+      "features": [
+        "Mantenimento attivo della corsia",
+        "Frenata autonoma",
+        "Apple CarPlay",
+        "Telecamera posteriore"
+      ]
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "tagline": "Affidabile hatchback Toyota, l’opzione \"non si rompe mai\" per i viaggi più lunghi",
+      "lede": "La scelta tra le piccole quando l’affidabilità conta più del prestigio del marchio. Motore 1.5 a quattro cilindri con i leggendari intervalli di tagliando Toyota, zero pensieri anche su un noleggio di tre settimane.",
+      "suitability": "Per chi sceglie l’auto in base all’affidabilità più che allo stile, la Yaris è la piccola più indulgente sull’anello Herceg Novi, Durmitor, Podgorica e ritorno.",
+      "regional": "125 cv hanno ritmo vero per la salita del Lovćen, i 3,94 m di lunghezza sono la più corta della categoria economy a parte la Ignis e il Toyota Safety Sense gestisce gli inserimenti improvvisi sull’avvicinamento al tunnel di Sozina.",
+      "category": "Economica",
+      "bestFor": [
+        "Noleggi di lunga durata (oltre 2 settimane)",
+        "Viaggiatori in tour completo del paese",
+        "Chi noleggia per la prima volta con un po’ di apprensione"
+      ],
+      "features": [
+        "Toyota Safety Sense",
+        "Fari automatici",
+        "Bluetooth",
+        "Cruise control adattivo"
+      ]
+    },
+    "ford-fiesta": {
+      "name": "Ford Fiesta",
+      "tagline": "La piccola Ford con la migliore guida, perfetta per i tornanti Herceg Novi, Lovćen",
+      "lede": "La piccola da guida pura. L’1.0 EcoBoost a 3 cilindri ha vero ritmo e la messa a punto del telaio Ford trasforma i tornanti del Lovćen in un momento clou anziché in una prova di resistenza.",
+      "suitability": "Una piccola che premia davvero la guida. Per chi nel programma include i 25 tornanti del Lovćen, la strada costiera attraverso Kostanjica o il percorso interno via Grahovo.",
+      "regional": "Il turbo da 100 cv tira fuori l’auto pulita dai tunnel dei bastioni di Herceg Novi, le sei marce mantengono il motore nella zona giusta sulla salita della E65 e lo sterzo preciso è il vero motivo per scegliere una Fiesta al posto di una Clio sui percorsi di montagna.",
+      "category": "Economica",
+      "bestFor": [
+        "Guidatori appassionati",
+        "Esploratori delle strade costiere",
+        "Chi affronta i tornanti del Lovćen"
+      ],
+      "features": [
+        "Turbo EcoBoost",
+        "Assistente alla partenza in salita",
+        "Bluetooth",
+        "Ricarica USB-C"
+      ]
+    },
+    "suzuki-ignis": {
+      "name": "Suzuki Ignis",
+      "tagline": "Crossover tascabile, altezza da terra rialzata per il tratto sterrato fino a Žanjic e Mirište",
+      "lede": "Ingombri minimi e altezza da terra autentica. La scelta per le calette raggiunte da strade sterrate, Žanjic, Mirište e la strada secondaria fino al borgo di pescatori di Rose, senza dover passare a un SUV vero e proprio.",
+      "suitability": "La proposta originale della flotta: più alta di una hatchback, più compatta di qualsiasi SUV. Pensata per le diramazioni non asfaltate di Luštica verso le spiagge appartate.",
+      "regional": "I 180 mm da terra superano i solchi profondi sull’ultimo tratto di sterrato di 2 km verso la spiaggia di Žanjic, i 3,7 m di lunghezza si parcheggiano alla Porta del Mare dove una media non entra e il quattro cilindri è notevolmente più silenzioso delle rivali a 3 cilindri.",
+      "category": "Mini crossover",
+      "bestFor": [
+        "Esploratori della penisola di Luštica",
+        "Coppie fuori dai sentieri battuti",
+        "Fotografi a caccia di calette sulle strade sterrate"
+      ],
+      "features": [
+        "Altezza da terra rialzata",
+        "Dimensioni compatte",
+        "Bluetooth",
+        "Sensori di parcheggio posteriori"
+      ]
+    },
+    "citroen-c4": {
+      "name": "Citroen C4",
+      "tagline": "Media francese con sospensioni Advanced Comfort, la più morbida della flotta",
+      "lede": "Bagagliaio da 380 litri, motore PureTech 130 e i tamponi idraulici Advanced Comfort di Citroën che spianano l’asfalto rappezzato della vecchia strada costiera. La media più dolce per i lunghi spostamenti.",
+      "suitability": "La media per chi mette il comfort davanti alla performance, perfetta per una settimana con base a Herceg Novi e gite a Budva, Stari Bar o nel nord del paese.",
+      "regional": "I tamponi idraulici progressivi addolciscono il tratto sconnesso tra Risan e Perast, il bagagliaio da 380 litri ospita quattro valigie più l’attrezzatura da spiaggia e i 130 cv sono più che sufficienti per superare il traffico turistico lento sulla E80 verso Budva.",
+      "category": "Media",
+      "bestFor": [
+        "Coppie che mettono il comfort al primo posto",
+        "Chi ha problemi alla schiena",
+        "Quattro adulti in un tour rilassato"
+      ],
+      "features": [
+        "Sospensioni Advanced Comfort",
+        "Touchscreen da 10 pollici",
+        "Cruise control adattivo",
+        "CarPlay wireless"
+      ]
+    },
+    "citroen-c3": {
+      "name": "Citroen C3",
+      "tagline": "La hatchback piccola più morbida per il tratto sconnesso Herceg Novi, Risan e le strade secondarie",
+      "lede": "Gli ammortizzatori Advanced Comfort spianano l’asfalto rappezzato della vecchia strada della baia, la piccola più dolce da parcheggiare di notte ai bastioni di Herceg Novi.",
+      "suitability": "La scelta orientata al comfort per una settimana a Herceg Novi con piccole deviazioni quotidiane: i mosaici romani di Risan, il borgo di Gornja Lastva sopra Tivat e il giro di rientro tra i villaggi vicini.",
+      "regional": "I tamponi idraulici progressivi rendono il tratto bucherellato da Risan a Perast più silenzioso di una classe di taglia, gli 83 cv senza stress si adattano ai limiti a 50 km/h della strada di baia e i 4 metri di lunghezza si infilano in qualsiasi parcheggio dei bastioni della Città Vecchia.",
+      "category": "Economica",
+      "bestFor": [
+        "Coppie in tour rilassato",
+        "Esploratori delle strade secondarie",
+        "Chi soffre di mal d’auto"
+      ],
+      "features": [
+        "Sedili Advanced Comfort",
+        "Audio Bluetooth",
+        "Ricarica USB",
+        "Avviso di superamento corsia"
+      ]
+    },
+    "kia-stonic": {
+      "name": "Kia Stonic",
+      "tagline": "Crossover rialzato per l’avvicinamento sterrato a Njeguši e al Lovćen",
+      "lede": "Un’alternativa leggermente rialzata alla hatchback, affronta le strade secondarie con i solchi attorno a Njeguši e i percorsi posteriori del Lovćen senza grattare.",
+      "suitability": "Per chi vuole la visuale di un crossover e un po’ più di altezza da terra per le strade laterali della baia alta di Herceg Novi e l’avvicinamento al Lovćen, senza pagare cifre da SUV pieno.",
+      "regional": "La posizione di guida più alta facilita la vista oltre i muretti panoramici della regione, i 182 mm da terra superano i solchi di pietra della vecchia strada degli affumicatori di prosciutto di Njeguši e il bagagliaio da 352 litri gestisce l’attrezzatura da escursione di una famiglia diretta al Durmitor senza ribaltare i sedili.",
+      "category": "Crossover compatto",
+      "bestFor": [
+        "Gite del weekend a Njeguši",
+        "Gite giornaliere al Durmitor",
+        "Fotografi a caccia di panorami in cresta"
+      ],
+      "features": [
+        "Altezza da terra rialzata",
+        "Apple CarPlay",
+        "Telecamera posteriore",
+        "Mantenimento attivo della corsia"
+      ]
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "tagline": "DSG diesel polivalente, marcia tranquilla sulla E80 e sui percorsi di più giorni",
+      "lede": "La scelta razionale per chi unisce un soggiorno a Herceg Novi a lunghi spostamenti nell’entroterra: raffinata, abbastanza veloce ed economica in autostrada.",
+      "suitability": "La media di riferimento per chi vuole una sola auto capace di girare il perimetro della Città Vecchia di Herceg Novi il primo giorno e l’autostrada Smokovac, Mateševo il quarto senza protestare.",
+      "regional": "Il DSG sceglie il rapporto giusto sui tornanti Herceg Novi, Lovćen senza dover pensare, il 2.0 TDI tiene 130 km/h sul tratto autostradale verso Podgorica a 4,3 L/100 km e la silenziosità dell’abitacolo rende davvero rilassante la tirata di 3 ore fino a Žabljak.",
+      "category": "Media",
+      "bestFor": [
+        "Coppie tra costa e canyon",
+        "Viaggiatori d’affari su noleggi settimanali",
+        "Chi progetta di attraversare i confini con BiH o Croazia"
+      ],
+      "features": [
+        "Cambio automatico DSG",
+        "Cruise control adattivo",
+        "Digital Cockpit",
+        "Apple CarPlay"
+      ]
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "tagline": "Citycar minuscola per un breve soggiorno a Herceg Novi, si infila tra i furgoni",
+      "lede": "Ingombri minimi, tetto apribile, 1.0 con sistema mild-hybrid: la scelta per due o tre notti come base a Herceg Novi quando i lunghi spostamenti non sono in programma.",
+      "suitability": "Due o tre notti a Herceg Novi con brevi gite pomeridiane a Perast e Prčanj, la 500 si parcheggia dove le auto medie passano oltre salutando.",
+      "regional": "I 3,57 m di lunghezza fanno la differenza: entra nel parcheggio a terrazze sul lungomare dei villaggi vicini e nel varco di una spalla largo davanti alla Porta del Mare in cui una Clio non passa. Sotto-motorizzata per la salita del Lovćen, quindi va abbinata ai transfer in funivia oppure va tenuta entro i limiti della baia.",
+      "category": "Citycar",
+      "bestFor": [
+        "Brevi soggiorni in città",
+        "Visitatori in solitaria con budget ridotto",
+        "Fotografi su brevi spostamenti"
+      ],
+      "features": [
+        "Dimensioni compatte",
+        "Parcheggio facile",
+        "Tetto apribile",
+        "Bluetooth"
+      ]
+    },
+    "overviewTitle": "In sintesi",
+    "specsTitle": "Scheda tecnica completa",
+    "featuresTitle": "Dentro l’auto",
+    "whoForTitle": "Per chi è questa auto?",
+    "regionalTitle": "Miglior uso regionale",
+    "articleTitle": "Sulle strade del Montenegro",
+    "relatedTitle": "Dove ti porta questa auto",
+    "checkAvailability": "Verifica disponibilità e prezzi in tempo reale",
+    "nextBtn": "Prossima nella flotta",
+    "sections": {
+      "behindWheel": "Al volante",
+      "onRoads": "Sulle strade del Montenegro",
+      "spaceLoad": "Spazio e carico",
+      "bestFor": "I viaggi ideali per quest’auto",
+      "practical": "Note pratiche",
+      "verdict": "Il verdetto"
+    }
   },
   "fleetShowcase": {
     "label": "Conosci la tua auto",
@@ -1161,5 +1472,44 @@
     "intro1": "Questa flotta è pensata per chi noleggia a Budva per più giorni, ospiti che si installano in un appartamento di Bečići o in una pensione della città vecchia per due settimane o più e prevedono giornate vere di guida tra i giorni passati in baia. È un’esigenza diversa dal noleggio di una giornata da crociera o da un semplice ritiro all’aeroporto di Tivat Airport: contano il bagagliaio per la spesa settimanale da Voli, la coppia diesel per la risalita di Sozina e una posizione di guida che tenga comode quattro persone sulle tre ore fino a Žabljak. Le sette auto qui sotto sono scelte di conseguenza.",
     "intro2": "Il mix è volutamente spostato sulla media cilindrata. Una Peugeot 308 con 1.5 BlueHDi e cambio EAT, una Renault Megane diesel con il bagagliaio più grande del segmento, una VW Golf con DSG 2.0 TDI, sono queste le auto che trasformano l’anello Budva → Cettigne → Scutari → Sozina da una fatica di cambi a una crociera rilassata. Per le tratte brevi teniamo una Renault Clio, una Citroën C3 con ammortizzatori Advanced Comfort, una Kia Stonic crossover per le strade dissestate verso Njeguši e Gornja Lastva, e una piccola Fiat 500 quando l’unico vincolo è il parcheggio sul lungomare di Muo. Niente auto monouso, niente van: ogni auto qui giustifica un noleggio di più giorni.",
     "intro3": "Una nota pratica su Budva. Il diesel resta la scelta più furba se prevedete anche un solo sconfinamento, Trebinje a 90 minuti, Dubrovnik via Debeli Brijeg altrettanto, Mostar una giornata andata e ritorno. 308 e Megane coprono tutte e tre le tratte con un pieno, la Golf è l’auto più silenziosa che abbiamo in autostrada, e la Clio a benzina fa comunque Budva–Dubrovnik andata e ritorno con mezzo pieno. Se la settimana è tutta in baia, Rafailovićio, Prčanj, Muo, Risan, la Fiat 500 o la C3 risparmiano un terzo di carburante e parcheggiano dove le altre non entrano. Scegliete sull’itinerario, non sul prezzo giornaliero."
-  }
+  },
+  "carSpecs": {
+    "values": {
+      "Petrol": "Benzina",
+      "Manual": "Manuale",
+      "Diesel": "Diesel",
+      "Automatic": "Automatico"
+    },
+    "seats": "Posti",
+    "transmission": "Cambio",
+    "fuel": "Carburante",
+    "luggage": "Bagagli",
+    "bootSize": "Bagagliaio",
+    "mpg": "Consumo",
+    "bagsSuffix": "borse"
+  },
+  "locationsList": [
+    {
+      "name": "Herceg Novi",
+      "tag": "Più richiesta"
+    },
+    {
+      "name": "Igalo",
+      "tag": "Stazione termale"
+    },
+    {
+      "name": "Aeroporto di Tivat",
+      "tag": "Ritiro in aeroporto"
+    },
+    {
+      "name": "Aeroporto di Dubrovnik",
+      "tag": "Transfrontaliero"
+    },
+    {
+      "name": "Bijela"
+    },
+    {
+      "name": "Meljine"
+    }
+  ]
 }
