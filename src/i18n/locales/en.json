@@ -161,7 +161,8 @@
     "title": "Wrong Turn",
     "text": "This road leads nowhere, but the Kamenari ferry, Orjen ledge and Savina monastery do, just a click away.",
     "backHome": "Back to Home",
-    "searchCars": "Search Cars"
+    "searchCars": "Search Cars",
+    "metaTitle": "Page Not Found | Car Rental Herceg Novi"
   },
   "home": {
     "seoDesc": "Car rental in Herceg Novi with insurance and CDW included. Tivat or Dubrovnik airport handover, no hidden fees, and easy access to the outer Bay of Kotor, Orjen mountain and the Croatian border.",
@@ -1238,6 +1239,20 @@
       "verdict": "The verdict"
     }
   },
+  "relatedBlogs": {
+    "djenoviciWestBay": "Đenovići west-bay promenade",
+    "kamenariLepetaneFerry": "Kamenari to Lepetane ferry",
+    "bijelaShipyards": "Bijela shipyards",
+    "risanRomanMosaics": "Risan Roman mosaics",
+    "tivatVsDubrovnikAirport": "Tivat vs Dubrovnik airport",
+    "roseVillageLustica": "Rose village on Luštica",
+    "portonoviMarina": "Portonovi marina",
+    "ledeniceViewpointLoop": "Ledenice viewpoint loop",
+    "sutorinaCorridor": "Sutorina corridor"
+  },
+  "schema": {
+    "carDescription": "{category} rental, {transmission}, {fuel}, {seats} seats"
+  },
   "fleetShowcase": {
     "label": "Know your car",
     "title": "Guides to every car in our Herceg Novi fleet",
@@ -1256,6 +1271,7 @@
     "title": "Our Herceg Novi Rental Fleet",
     "subtitle": "Seven cars picked for a multi-day Herceg Novi base, with day-trips out to Kotor, Dubrovnik, Orjen and across to Trebinje.",
     "seoDesc": "Seven multi-day rental cars for Herceg Novi, mid-size wagons, diesel cruisers and a city Fiat. Specs, fuel range, and which car suits day-trips out of the outer bay.",
+    "ogAlt": "Car Rental Herceg Novi fleet",
     "intro1": "This fleet is built around the multi-day Herceg Novi renter, visitors who anchor themselves at an Igalo apartment or an Old Town guesthouse for a fortnight or longer, and who expect to be spending real time on the road between bay-based days. That brief is different from a cruise-day hire or a pure Tivat Airport pickup: it leans on boot space for a weekly shop at Voli, diesel torque for the Debeli Brijeg border run, and a seating position that keeps four adults comfortable on the drive up Orjen to Ledenice. The seven cars below are chosen accordingly.",
     "intro2": "The mix is deliberately weighted toward mid-size. A Peugeot 308 with the 1.5 BlueHDi and the EAT auto, a Renault Megane diesel with the segment's biggest boot, a VW Golf with the DSG 2.0 TDI, these are the cars that turn a Herceg Novi → Kamenari ferry → Kotor → Lovćen → Skadar Lake loop from a gear-changing chore into a cruise. For shorter hops we keep a Renault Clio, a Citroen C3 with Advanced Comfort dampers, a Kia Stonic crossover for the rutted spur roads up to Ledenice and Podi, and a tiny Fiat 500 for when the stepped Old Town lanes are the deciding constraint. No one-trick supercars, no vans; every car here justifies a multi-day hire.",
     "intro3": "A practical Herceg Novi note before you choose. Diesel remains the smarter spec for anyone planning even one cross-border run, Dubrovnik via Debeli Brijeg is 40 minutes, Trebinje via the Sutorina valley is 1 h 15, and Mostar is a full day each way on a good cruise. The 308 and Megane will cover all three on a single tank, the Golf is the most refined motorway car we have, and the petrol Clio will still do a Herceg Novi → Dubrovnik return on half a tank. If your week is bay-contained, Igalo, Đenovići, Bijela, Perast via the ferry, the Fiat 500 or the C3 saves a third on weekly fuel and parks in places the rest of the fleet can't. Pick on your itinerary, not the daily rate."

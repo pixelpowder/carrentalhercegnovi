@@ -24,64 +24,64 @@ import {
   Droplet, Package,
 } from 'lucide-react';
 
-// Kotor-rental inline photo per car ,  bay road, Lovćen, motorway, cross-border feel.
+// Inline photo per car. Alt + caption text live in i18n locales (cars.<slug>.inlineAlt / inlineCaption).
 const INLINE_PHOTOS = {
-  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Bay of Kotor coastal road near Dobrota',       caption: 'The Dobrota–Prčanj stretch at a steady 50 km/h, the Clio\u2019s natural cruising pace on a multi-day bay stay.' },
-  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Smokovac–Mateševo motorway inland from Kotor',  caption: 'The Smokovac motorway toward Podgorica, the 308\u2019s BlueHDi settles into a steady 1,800 rpm cruise here.' },
-  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Old bay road from Kotor toward Risan',          caption: 'The patched tarmac out to Risan\u2019s Roman mosaics, where the Megane\u2019s soft damping actually earns its rental premium.' },
-  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Rutted spur road up to Njeguši above Kotor',    caption: 'The Njeguši approach above the bay, a little extra ground clearance keeps the Stonic composed where a Clio scrapes.' },
-  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Wooded Lovćen serpentine above Kotor',          caption: 'The Kotor–Cetinje climb in third gear, the DSG reads the hairpins, the cabin stays silent.' },
-  'fiat-500':       { src: '/img/fleet-inline/seaside-road.jpg',      alt: 'Narrow Muo waterfront lane in Kotor',           caption: 'The Muo waterfront past the ferry dock, the 500 slots into gaps the rest of the fleet drives past.' },
-  'citroen-c3':     { src: '/img/fleet-inline/village-trees.jpg',     alt: 'Back road through Gornja Lastva above Tivat',   caption: 'The Gornja Lastva spur above the bay, the C3\u2019s Advanced Comfort turns the patched bitumen into distant thumps.' },
-  _default:         { src: '/img/fleet-inline/kotor-bay.jpg',         alt: 'Aerial view of the Bay of Kotor',               caption: 'A week based in Kotor puts Cetinje, Njeguši, Risan, Skadar Lake and Dubrovnik all inside day-trip range.' },
+  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg' },
+  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg' },
+  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg' },
+  'kia-stonic':     { src: '/img/fleet-inline/rocky-road.jpg' },
+  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg' },
+  'fiat-500':       { src: '/img/fleet-inline/seaside-road.jpg' },
+  'citroen-c3':     { src: '/img/fleet-inline/village-trees.jpg' },
+  _default:         { src: '/img/fleet-inline/kotor-bay.jpg' },
 };
 
-// Related cards per car ,  using the actual blog + destination pages that exist on kotorcarrental.
+// Related blog cards per car. Title text lives in i18n locales (relatedBlogs.<key>).
 const RELATED = {
   'vw-polo': [
-    { href: '/blog/djenovici-west-bay-promenade', img: '/img/blog-djenovici-west-bay-promenade.webp', title: 'Đenovići west-bay promenade' },
-    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', title: 'Kamenari–Lepetane ferry' },
-    { href: '/blog/bijela-shipyards-heritage', img: '/img/blog-bijela-shipyards-heritage.webp', title: 'Bijela shipyards' },
+    { href: '/blog/djenovici-west-bay-promenade', img: '/img/blog-djenovici-west-bay-promenade.webp', titleKey: 'djenoviciWestBay' },
+    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', titleKey: 'kamenariLepetaneFerry' },
+    { href: '/blog/bijela-shipyards-heritage', img: '/img/blog-bijela-shipyards-heritage.webp', titleKey: 'bijelaShipyards' },
   ],
   'skoda-octavia': [
-    { href: '/blog/risan-roman-mosaics-drive', img: '/img/blog-risan-roman-mosaics-drive.webp', title: 'Risan Roman mosaics' },
-    { href: '/blog/tivat-vs-dubrovnik-airport-choice', img: '/img/blog-tivat-vs-dubrovnik-airport-choice.webp', title: 'Tivat vs Dubrovnik airport' },
-    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', title: 'Kamenari–Lepetane ferry' },
+    { href: '/blog/risan-roman-mosaics-drive', img: '/img/blog-risan-roman-mosaics-drive.webp', titleKey: 'risanRomanMosaics' },
+    { href: '/blog/tivat-vs-dubrovnik-airport-choice', img: '/img/blog-tivat-vs-dubrovnik-airport-choice.webp', titleKey: 'tivatVsDubrovnikAirport' },
+    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', titleKey: 'kamenariLepetaneFerry' },
   ],
   'toyota-corolla': [
-    { href: '/blog/djenovici-west-bay-promenade', img: '/img/blog-djenovici-west-bay-promenade.webp', title: 'Đenovići west-bay promenade' },
-    { href: '/blog/rose-village-lustica', img: '/img/blog-rose-village-lustica.webp', title: 'Rose village on Luštica' },
-    { href: '/blog/risan-roman-mosaics-drive', img: '/img/blog-risan-roman-mosaics-drive.webp', title: 'Risan Roman mosaics' },
+    { href: '/blog/djenovici-west-bay-promenade', img: '/img/blog-djenovici-west-bay-promenade.webp', titleKey: 'djenoviciWestBay' },
+    { href: '/blog/rose-village-lustica', img: '/img/blog-rose-village-lustica.webp', titleKey: 'roseVillageLustica' },
+    { href: '/blog/risan-roman-mosaics-drive', img: '/img/blog-risan-roman-mosaics-drive.webp', titleKey: 'risanRomanMosaics' },
   ],
   'mercedes-c-class': [
-    { href: '/blog/portonovi-marina-podi', img: '/img/blog-portonovi-marina-podi.webp', title: 'Portonovi marina' },
-    { href: '/blog/tivat-vs-dubrovnik-airport-choice', img: '/img/blog-tivat-vs-dubrovnik-airport-choice.webp', title: 'Tivat vs Dubrovnik airport' },
-    { href: '/blog/ledenice-viewpoint-loop', img: '/img/blog-ledenice-viewpoint-loop.webp', title: 'Ledenice viewpoint loop' },
+    { href: '/blog/portonovi-marina-podi', img: '/img/blog-portonovi-marina-podi.webp', titleKey: 'portonoviMarina' },
+    { href: '/blog/tivat-vs-dubrovnik-airport-choice', img: '/img/blog-tivat-vs-dubrovnik-airport-choice.webp', titleKey: 'tivatVsDubrovnikAirport' },
+    { href: '/blog/ledenice-viewpoint-loop', img: '/img/blog-ledenice-viewpoint-loop.webp', titleKey: 'ledeniceViewpointLoop' },
   ],
   'jeep-renegade': [
-    { href: '/blog/ledenice-viewpoint-loop', img: '/img/blog-ledenice-viewpoint-loop.webp', title: 'Ledenice viewpoint loop' },
-    { href: '/blog/sutorina-bosnia-corridor', img: '/img/blog-sutorina-bosnia-corridor.webp', title: 'Sutorina corridor' },
-    { href: '/blog/risan-roman-mosaics-drive', img: '/img/blog-risan-roman-mosaics-drive.webp', title: 'Risan Roman mosaics' },
+    { href: '/blog/ledenice-viewpoint-loop', img: '/img/blog-ledenice-viewpoint-loop.webp', titleKey: 'ledeniceViewpointLoop' },
+    { href: '/blog/sutorina-bosnia-corridor', img: '/img/blog-sutorina-bosnia-corridor.webp', titleKey: 'sutorinaCorridor' },
+    { href: '/blog/risan-roman-mosaics-drive', img: '/img/blog-risan-roman-mosaics-drive.webp', titleKey: 'risanRomanMosaics' },
   ],
   'bmw-x3': [
-    { href: '/blog/portonovi-marina-podi', img: '/img/blog-portonovi-marina-podi.webp', title: 'Portonovi marina' },
-    { href: '/blog/ledenice-viewpoint-loop', img: '/img/blog-ledenice-viewpoint-loop.webp', title: 'Ledenice viewpoint loop' },
-    { href: '/blog/tivat-vs-dubrovnik-airport-choice', img: '/img/blog-tivat-vs-dubrovnik-airport-choice.webp', title: 'Tivat vs Dubrovnik airport' },
+    { href: '/blog/portonovi-marina-podi', img: '/img/blog-portonovi-marina-podi.webp', titleKey: 'portonoviMarina' },
+    { href: '/blog/ledenice-viewpoint-loop', img: '/img/blog-ledenice-viewpoint-loop.webp', titleKey: 'ledeniceViewpointLoop' },
+    { href: '/blog/tivat-vs-dubrovnik-airport-choice', img: '/img/blog-tivat-vs-dubrovnik-airport-choice.webp', titleKey: 'tivatVsDubrovnikAirport' },
   ],
   'fiat-500': [
-    { href: '/blog/djenovici-west-bay-promenade', img: '/img/blog-djenovici-west-bay-promenade.webp', title: 'Đenovići west-bay promenade' },
-    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', title: 'Kamenari–Lepetane ferry' },
-    { href: '/blog/rose-village-lustica', img: '/img/blog-rose-village-lustica.webp', title: 'Rose village on Luštica' },
+    { href: '/blog/djenovici-west-bay-promenade', img: '/img/blog-djenovici-west-bay-promenade.webp', titleKey: 'djenoviciWestBay' },
+    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', titleKey: 'kamenariLepetaneFerry' },
+    { href: '/blog/rose-village-lustica', img: '/img/blog-rose-village-lustica.webp', titleKey: 'roseVillageLustica' },
   ],
   'fiat-500c': [
-    { href: '/blog/djenovici-west-bay-promenade', img: '/img/blog-djenovici-west-bay-promenade.webp', title: 'Đenovići west-bay promenade' },
-    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', title: 'Kamenari–Lepetane ferry' },
-    { href: '/blog/rose-village-lustica', img: '/img/blog-rose-village-lustica.webp', title: 'Rose village on Luštica' },
+    { href: '/blog/djenovici-west-bay-promenade', img: '/img/blog-djenovici-west-bay-promenade.webp', titleKey: 'djenoviciWestBay' },
+    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', titleKey: 'kamenariLepetaneFerry' },
+    { href: '/blog/rose-village-lustica', img: '/img/blog-rose-village-lustica.webp', titleKey: 'roseVillageLustica' },
   ],
   'vw-transporter': [
-    { href: '/blog/tivat-vs-dubrovnik-airport-choice', img: '/img/blog-tivat-vs-dubrovnik-airport-choice.webp', title: 'Tivat vs Dubrovnik airport' },
-    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', title: 'Kamenari–Lepetane ferry' },
-    { href: '/blog/sutorina-bosnia-corridor', img: '/img/blog-sutorina-bosnia-corridor.webp', title: 'Sutorina corridor' },
+    { href: '/blog/tivat-vs-dubrovnik-airport-choice', img: '/img/blog-tivat-vs-dubrovnik-airport-choice.webp', titleKey: 'tivatVsDubrovnikAirport' },
+    { href: '/blog/kamenari-lepetane-ferry', img: '/img/blog-kamenari-lepetane-ferry.webp', titleKey: 'kamenariLepetaneFerry' },
+    { href: '/blog/sutorina-bosnia-corridor', img: '/img/blog-sutorina-bosnia-corridor.webp', titleKey: 'sutorinaCorridor' },
   ],
 };
 
@@ -219,8 +219,8 @@ export default function CarDetail({ slug }) {
                 </section>
                 {i === 2 && (() => {
                   const inline = INLINE_PHOTOS[slug] || INLINE_PHOTOS._default;
-                  const alt = tk('inlineAlt', inline.alt);
-                  const caption = tk('inlineCaption', inline.caption);
+                  const alt = tk('inlineAlt', '');
+                  const caption = tk('inlineCaption', '');
                   return (
                     <figure key={`inline-${i}`} className="car-detail-article__figure">
                       <img src={inline.src} alt={alt} loading="lazy" />
@@ -250,7 +250,7 @@ export default function CarDetail({ slug }) {
               <a key={card.href} href={localePath(card.href)} className="car-detail-related__card">
                 <div className="car-detail-related__img" style={{ backgroundImage: `url(${card.img})` }} />
                 <div className="car-detail-related__body">
-                  <span className="car-detail-related__title">{card.title}</span>
+                  <span className="car-detail-related__title">{tf(`relatedBlogs.${card.titleKey}`, '') || ''}</span>
                   <ArrowRight size={14} />
                 </div>
               </a>

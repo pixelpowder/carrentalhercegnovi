@@ -161,7 +161,8 @@
     "title": "Strada Sbagliata",
     "text": "Questa strada non porta da nessuna parte, ma le migliori rotte della Baia di Budva sono a un solo clic.",
     "backHome": "Torna alla Home",
-    "searchCars": "Cerca Auto"
+    "searchCars": "Cerca Auto",
+    "metaTitle": "Pagina Non Trovata | Car Rental Herceg Novi"
   },
   "home": {
     "seoDesc": "Noleggio auto a Budva con assicurazione e CDW inclusi. Consegna all'aeroporto di Tivat a 8 km, senza costi nascosti e accesso diretto alla Budva Riviera e all'Adriatico.",
@@ -1515,6 +1516,7 @@
     "title": "La nostra flotta di noleggio a Budva",
     "subtitle": "Sette auto pensate per un soggiorno di più giorni a Budva, con gite a Cettigne, al lago di Scutari, a Durmitor e oltre confine.",
     "seoDesc": "Sette auto a noleggio di più giorni a Budva, medie da carico, diesel da lunga distanza e una Fiat cittadina. Specifiche, autonomia e quale auto serve per le gite fuori baia.",
+    "ogAlt": "Flotta di Car Rental Herceg Novi",
     "intro1": "Questa flotta è pensata per chi noleggia a Budva per più giorni, ospiti che si installano in un appartamento di Bečići o in una pensione della città vecchia per due settimane o più e prevedono giornate vere di guida tra i giorni passati in baia. È un’esigenza diversa dal noleggio di una giornata da crociera o da un semplice ritiro all’aeroporto di Tivat Airport: contano il bagagliaio per la spesa settimanale da Voli, la coppia diesel per la risalita di Sozina e una posizione di guida che tenga comode quattro persone sulle tre ore fino a Žabljak. Le sette auto qui sotto sono scelte di conseguenza.",
     "intro2": "Il mix è volutamente spostato sulla media cilindrata. Una Peugeot 308 con 1.5 BlueHDi e cambio EAT, una Renault Megane diesel con il bagagliaio più grande del segmento, una VW Golf con DSG 2.0 TDI, sono queste le auto che trasformano l’anello Budva → Cettigne → Scutari → Sozina da una fatica di cambi a una crociera rilassata. Per le tratte brevi teniamo una Renault Clio, una Citroën C3 con ammortizzatori Advanced Comfort, una Kia Stonic crossover per le strade dissestate verso Njeguši e Gornja Lastva, e una piccola Fiat 500 quando l’unico vincolo è il parcheggio sul lungomare di Muo. Niente auto monouso, niente van: ogni auto qui giustifica un noleggio di più giorni.",
     "intro3": "Una nota pratica su Budva. Il diesel resta la scelta più furba se prevedete anche un solo sconfinamento, Trebinje a 90 minuti, Dubrovnik via Debeli Brijeg altrettanto, Mostar una giornata andata e ritorno. 308 e Megane coprono tutte e tre le tratte con un pieno, la Golf è l’auto più silenziosa che abbiamo in autostrada, e la Clio a benzina fa comunque Budva–Dubrovnik andata e ritorno con mezzo pieno. Se la settimana è tutta in baia, Rafailovićio, Prčanj, Muo, Risan, la Fiat 500 o la C3 risparmiano un terzo di carburante e parcheggiano dove le altre non entrano. Scegliete sull’itinerario, non sul prezzo giornaliero."
@@ -1620,5 +1622,19 @@
     "borderAlbaniaText": " richiede prima un'ora attraverso il Montenegro costiero, poi il valico di Božaj vicino a Podgorica.",
     "h2Seasons": "Migliori stagioni",
     "p3": "Maggio-giugno e settembre sono ideali, mare caldo, entroterra mite, code di confine più brevi. Luglio-agosto è caldo, affollato e le attese ai confini sono al massimo. Ottobre-aprile è più tranquillo ma la maggior parte delle infrastrutture turistiche è ridotta."
+  },
+  "relatedBlogs": {
+    "djenoviciWestBay": "Promenade della baia ovest, Đenovići",
+    "kamenariLepetaneFerry": "Traghetto Kamenari Lepetane",
+    "bijelaShipyards": "Cantieri navali di Bijela",
+    "risanRomanMosaics": "Mosaici romani di Risan",
+    "tivatVsDubrovnikAirport": "Aeroporto, Tivat o Dubrovnik",
+    "roseVillageLustica": "Rose, borgo a Luštica",
+    "portonoviMarina": "Marina di Portonovi",
+    "ledeniceViewpointLoop": "Anello panoramico di Ledenice",
+    "sutorinaCorridor": "Corridoio di Sutorina"
+  },
+  "schema": {
+    "carDescription": "Noleggio {category}, {transmission}, {fuel}, {seats} posti"
   }
 }

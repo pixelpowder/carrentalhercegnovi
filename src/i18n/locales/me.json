@@ -161,7 +161,8 @@
     "title": "Pogrešno Skretanje",
     "text": "Ovaj put ne vodi nikuda, ali najljepše rute Bokobudvaskog zaliva su samo jedan klik daleko.",
     "backHome": "Nazad na Početnu",
-    "searchCars": "Pretraži Auta"
+    "searchCars": "Pretraži Auta",
+    "metaTitle": "Stranica nije pronađena | Car Rental Herceg Novi"
   },
   "home": {
     "seoDesc": "Najam automobila u Budvi s osiguranjem i CDW-om u cijeni. Preuzimanje na Aerodromu Tivat 8 km dalje, bez skrivenih troškova, lak izlazak na Budva Rivijeru i Jadran.",
@@ -1511,6 +1512,7 @@
     "title": "Naša flota za iznajmljivanje u Budvau",
     "subtitle": "Sedam auta odabranih za višednevnu bazu u Budvau, sa izletima ka Cetinju, Skadarskom jezeru, Durmitoru i preko granice.",
     "seoDesc": "Sedam auta za višednevni najam u Budvau, srednja klasa za teret, dizel krstarice i jedan gradski Fiat. Specifikacije, domet i koji auto odgovara kom izletu iz zaliva.",
+    "ogAlt": "Flota Car Rental Herceg Novi",
     "intro1": "Ova flota napravljena je za gosta koji iznajmljuje u Budvau na više dana, ljude koji se ukopaju u stan u Dobroti ili pansion u Starom gradu na dvije sedmice ili više, i koji znaju da će pravo vrijeme provesti na putu između dana u zalivu. To je drugačiji zadatak od jednodnevnog najma sa krstarenja ili prostog preuzimanja auta na tivatskom aerodromu: traži prtljažnik za sedmičnu kupovinu u Voliju, dizel moment za uspon Sozine i sedeću poziciju u kojoj četvoro odraslih izdrži trosatnu vožnju do Žabljaka. Sedam auta ispod izabrani su baš po toj mjeri.",
     "intro2": "Miks namjerno ide ka srednjoj klasi. Peugeot 308 sa 1.5 BlueHDi i EAT automatikom, dizel Renault Megane sa najvećim prtljažnikom u klasi, VW Golf sa DSG 2.0 TDI, ta kola pretvaraju petlju Budva → Cetinje → Skadarsko jezero → Sozina iz posla sa mjenjačem u mirno krstarenje. Za kraće skokove držimo Renault Clio, Citroën C3 sa Advanced Comfort vješanjem, krosover Kia Stonic za razvaljene odvojke ka Njegušima i Gornjoj Lastvi, i sitan Fiat 500 kada je jedino ograničenje parkiranje na mulu u Muu. Bez monotonaca i bez kombija, svaki auto ovdje opravdava višednevni najam.",
     "intro3": "Jedan praktičan budvaski savjet prije izbora. Dizel je i dalje pametniji potez ako je u planu makar jedna prekogranična vožnja, Trebinje je 90 minuta, Dubrovnik preko Debelog Brijega isto 90, Mostar pun dan u oba smjera. 308 i Megane pokrivaju sve tri rute na jednom rezervoaru, Golf je najtiši autoputni auto koji imamo, a benzinski Clio će svejedno preći Budva–Dubrovnik u oba smjera na pola rezervoara. Ako vam je sedmica u granicama zaliva, Rafailovići, Prčanj, Muo, Risan, Fiat 500 ili C3 uštedi trećinu goriva i staje tamo gdje ostali ne stanu. Birajte po maršruti, ne po dnevnoj cijeni."
@@ -1616,5 +1618,19 @@
     "borderAlbaniaText": " zahtijeva prvo sat vožnje kroz primorsku Crnu Goru, pa prelaz Božaj kod Podgorice.",
     "h2Seasons": "Najbolje sezone",
     "p3": "Maj-jun i septembar su idealni, toplo more, blago zaleđe, kraći redovi na granici. Jul-avgust je vruć, prometan i čekanje na granici je na vrhuncu. Oktobar-april je mirniji, ali se većina turističke infrastrukture smanjuje."
+  },
+  "relatedBlogs": {
+    "djenoviciWestBay": "Šetalište Đenovići, zapadna obala",
+    "kamenariLepetaneFerry": "Trajekt Kamenari Lepetane",
+    "bijelaShipyards": "Brodogradilišta u Bijeloj",
+    "risanRomanMosaics": "Rimski mozaici u Risnu",
+    "tivatVsDubrovnikAirport": "Aerodrom, Tivat ili Dubrovnik",
+    "roseVillageLustica": "Rose, selo na Luštici",
+    "portonoviMarina": "Marina Portonovi",
+    "ledeniceViewpointLoop": "Ledenice, krug s vidikovcima",
+    "sutorinaCorridor": "Sutorinski koridor"
+  },
+  "schema": {
+    "carDescription": "Rentanje {category}, {transmission}, {fuel}, {seats} sjedišta"
   }
 }

@@ -17,7 +17,7 @@ export async function generateMetadata() {
       description,
       url: `${SITE}/cars`,
       type: 'website',
-      images: [{ url: `${SITE}/img/fleet/renault-megane.jpg`, width: 1200, height: 800, alt: 'Car Rental Herceg Novi fleet' }],
+      images: [{ url: `${SITE}/img/fleet/renault-megane.jpg`, width: 1200, height: 800, alt: t('en', 'fleetIndex.ogAlt') !== 'fleetIndex.ogAlt' ? t('en', 'fleetIndex.ogAlt') : 'Car Rental Herceg Novi fleet' }],
     },
   };
 }
