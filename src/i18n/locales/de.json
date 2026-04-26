@@ -5,7 +5,9 @@
     "destinations": "Reiseziele",
     "about": "Über uns",
     "contact": "Kontakt",
-    "fleet": "Flotte"
+    "fleet": "Flotte",
+    "whatsappLabel": "Auf WhatsApp chatten",
+    "scrollTopLabel": "Nach oben scrollen"
   },
   "common": {
     "home": "Startseite",
@@ -116,12 +118,19 @@
     "easternBayGuides": "Reiseführer Östliche Boka",
     "northernGuides": "Reiseführer Nördliche Boka",
     "regionGuides": "Regionale Reiseführer",
-    "westernBayDrives": "Westliche Bucht: Fahrten"
+    "westernBayDrives": "Westliche Bucht: Fahrten",
+    "linkKamenariFerry": "Fähre Kamenari–Lepetane",
+    "linkRoseLustica": "Rose auf Luštica",
+    "linkLedenice": "Ledenice-Aussichtsstrecke",
+    "linkRisanMosaics": "Römische Mosaike in Risan",
+    "linkDjenovici": "Đenovići Westbucht-Promenade",
+    "linkAirportChoice": "Tivat oder Dubrovnik Flughafen"
   },
   "book": {
     "title": "Finden Sie Ihr Auto",
     "seoTitle": "Auto in Budva buchen",
-    "seoDesc": "Mietwagen für Budva und die Budva Riviera. Versicherung inklusive, Übergabe am Flughafen Tivat, Komplettpreis für jede Fahrt entlang der Adria."
+    "seoDesc": "Mietwagen für Budva und die Budva Riviera. Versicherung inklusive, Übergabe am Flughafen Tivat, Komplettpreis für jede Fahrt entlang der Adria.",
+    "iframeTitle": "Mietwagenbuchung"
   },
   "footer": {
     "brandDesc": "Autovermietung in Budva mit Flughafenabholung, Vollkaskoversicherung und klaren Preisen für Fahrten entlang der Adria und der Budva Riviera.",
@@ -141,7 +150,11 @@
     "cookiePolicy": "Cookie-Richtlinie",
     "testimonials": "Bewertungen",
     "sitemap": "Sitemap",
-    "tivatAirport": "Flughafen Tivat Airport"
+    "tivatAirport": "Flughafen Tivat Airport",
+    "sutorinaBosnia": "Sutorina nach Bosnien",
+    "airportChoice": "Flughafenwahl",
+    "risanMosaics": "Mosaike in Risan",
+    "portonovi": "Portonovi"
   },
   "notFound": {
     "code": "404",
@@ -795,7 +808,9 @@
     "card_stoliv_title": "Gornji Stoliv: Budvas verlassenes Klippendorf",
     "card_stoliv_excerpt": "Eine schmale Straße klettert 400 Meter über die Bucht zu einem Steindorf, das 1979 verlassen wurde. Die Aussicht und Stille sind außergewöhnlich.",
     "card_wildflowers_title": "Frühlings-Wildblumenfahrten: März bis Mai",
-    "card_wildflowers_excerpt": "Orchideen, Iris und Zistrose säumen die Straßen von Budva nach Risan und hinauf zu den Kosmač-Ausläufern."
+    "card_wildflowers_excerpt": "Orchideen, Iris und Zistrose säumen die Straßen von Budva nach Risan und hinauf zu den Kosmač-Ausläufern.",
+    "pageTitle": "Fahrten in der westlichen Bucht von Kotor",
+    "pageSubtitle": "Recherchierte Touren durch die ruhigeren Ecken der Region Herceg Novi, Fähren, Dörfer, Aussichtspunkte und die Grenzen hinter der Altstadt."
   },
   "blogBečićiWaterfrontWalk": {
     "title": "Bečići: Das stille Uferdorf neben Budva",
@@ -874,7 +889,10 @@
     "seoDesc": "Kontaktieren Sie Car Rental Budva für Angebote, Flughafenabholung oder Fragen zur Reiseplanung.",
     "heading": "Kontaktieren Sie uns",
     "intro": "Haben Sie eine Frage zur Automiete in Budva? Kontaktieren Sie uns, und wir helfen Ihnen, das passende Fahrzeug für Ihre Reise zu finden.",
-    "thanks": "Danke für Ihre Nachricht, wir antworten innerhalb weniger Stunden."
+    "thanks": "Danke für Ihre Nachricht, wir antworten innerhalb weniger Stunden.",
+    "messageSent": "Nachricht gesendet!",
+    "thanksMessage": "Danke für Ihre Nachricht, wir antworten innerhalb weniger Stunden.",
+    "sending": "Wird gesendet..."
   },
   "cookieBody": {
     "lastUpdated": "Zuletzt aktualisiert:",
@@ -1099,7 +1117,8 @@
     "title": "Planen Sie einen Roadtrip in die Bucht von Budva?",
     "browseAll": "Alle Leitfäden durchsuchen",
     "lovcenGuide": "Kosmač Fahrleitfaden",
-    "desc": "Malerische Strecken, versteckte Aussichtspunkte, Tankstellen, Parktipps und Ratschläge zum Grenzübergang, geschrieben von Fahrern, die jede Kurve dieser Straßen kennen."
+    "desc": "Malerische Strecken, versteckte Aussichtspunkte, Tankstellen, Parktipps und Ratschläge zum Grenzübergang, geschrieben von Fahrern, die jede Kurve dieser Straßen kennen.",
+    "imageAlt": "Kurvenreiche Bergstraße über der Bucht von Kotor"
   },
   "compare": {
     "label": "Warum mieten?",
@@ -1204,7 +1223,9 @@
         "1": "USB-Ladeanschluss",
         "2": "Zentralverriegelung",
         "3": "Touchscreen-Display"
-      }
+      },
+      "inlineAlt": "Küstenstraße der Bucht von Kotor bei Dobrota",
+      "inlineCaption": "Der Abschnitt Dobrota–Prčanj bei stetigen 50 km/h, das natürliche Reisetempo des Clio bei einem mehrtägigen Bucht-Aufenthalt."
     },
     "peugeot-308": {
       "name": "Peugeot 308",
@@ -1223,7 +1244,9 @@
         "1": "Adaptiver Tempomat",
         "2": "Zwei-Zonen-Klimaautomatik",
         "3": "Großer Kofferraum"
-      }
+      },
+      "inlineAlt": "Autobahn Smokovac–Mateševo ins Landesinnere von Kotor",
+      "inlineCaption": "Die Autobahn Smokovac in Richtung Podgorica, der BlueHDi des 308 setzt sich hier in einen ruhigen 1.800-rpm-Reisemodus."
     },
     "renault-megane": {
       "name": "Renault Mégane",
@@ -1242,7 +1265,9 @@
         "1": "Bluetooth-Audio",
         "2": "Tempomat",
         "3": "Einparkhilfe"
-      }
+      },
+      "inlineAlt": "Alte Buchtstraße von Kotor nach Risan",
+      "inlineCaption": "Der geflickte Asphalt zu den römischen Mosaiken in Risan, wo die weiche Dämpfung des Megane ihren Aufpreis tatsächlich rechtfertigt."
     },
     "peugeot-208": {
       "name": "Peugeot 208",
@@ -1375,7 +1400,9 @@
         "1": "Bluetooth-Audio",
         "2": "USB-Ladeanschluss",
         "3": "Spurverlassenswarnung"
-      }
+      },
+      "inlineAlt": "Nebenstraße durch Gornja Lastva über Tivat",
+      "inlineCaption": "Der Abzweig Gornja Lastva über der Bucht, der Advanced Comfort des C3 verwandelt den geflickten Asphalt in ferne Stöße."
     },
     "kia-stonic": {
       "name": "Kia Stonic",
@@ -1394,7 +1421,9 @@
         "1": "Apple CarPlay",
         "2": "Rückfahrkamera",
         "3": "Spurhalteassistent"
-      }
+      },
+      "inlineAlt": "Schotterstraße hinauf nach Njeguši über Kotor",
+      "inlineCaption": "Die Auffahrt nach Njeguši über der Bucht, ein wenig zusätzliche Bodenfreiheit hält den Stonic dort gelassen, wo ein Clio aufsetzt."
     },
     "vw-golf": {
       "name": "VW Golf",
@@ -1413,7 +1442,9 @@
         "1": "Adaptiver Tempomat",
         "2": "Digital Cockpit",
         "3": "Apple CarPlay"
-      }
+      },
+      "inlineAlt": "Bewaldete Lovćen-Serpentine über Kotor",
+      "inlineCaption": "Der Anstieg Kotor–Cetinje im dritten Gang, das DSG liest die Haarnadeln, die Kabine bleibt still."
     },
     "fiat-500": {
       "name": "Fiat 500",
@@ -1432,7 +1463,9 @@
         "1": "Einfaches Parken",
         "2": "Schiebedach",
         "3": "Bluetooth"
-      }
+      },
+      "inlineAlt": "Schmale Uferstraße in Muo bei Kotor",
+      "inlineCaption": "Die Uferstraße Muo am Fähranleger vorbei, der 500 schlüpft in Lücken, an denen der Rest der Flotte vorbeifährt."
     },
     "overviewTitle": "Auf einen Blick",
     "specsTitle": "Komplette Ausstattung",
@@ -1512,5 +1545,68 @@
     "5": {
       "name": "Meljine"
     }
+  },
+  "aboutPage": {
+    "title": "Über Car Rental Herceg Novi",
+    "subtitle": "Ein lokaler Buchungspartner an Montenegros westlicher Grenze, für Anreisen über den Flughafen Tivat, den Flughafen Dubrovnik oder per Fähre.",
+    "description": "Car Rental Herceg Novi ist eine unabhängige Buchungsplattform für Mietwagen an der Westbucht Montenegros, spezialisiert auf Herceg Novi, Igalo und grenzüberschreitende Fahrten nach Dubrovnik.",
+    "h2WhoWeAre": "Wer wir sind",
+    "p1": "Car Rental Herceg Novi ist eine Buchungsplattform mit kleinen und mittelgroßen Vermietern an Montenegros Westküste, vom Grenzübergang Debeli Brijeg über Igalo und Herceg Novi bis zur Fähre Kamenari. Wir sind ein kleines lokales Team, kein globales Franchise.",
+    "h2WhyHercegNovi": "Warum Herceg Novi als Standort",
+    "p2": "Herceg Novi liegt am westlichen Eingang zur Bucht von Kotor, zwischen der kroatischen Grenze und der Verige-Meerenge. Es ist der ideale Standort für Besucher, die Zugang zu zwei Ländern wollen, ohne das Hotel zu wechseln: Dubrovnik liegt 40 Minuten westlich, Kotor 30 Minuten östlich.",
+    "p3Before": "Von hier aus prägt die ",
+    "p3LinkAirport": "Flughafenwahl",
+    "p3Mid1": " Ihre Anreise, die ",
+    "p3LinkLustica": "Halbinsel Luštica",
+    "p3Mid2": " ist eine kurze Fährfahrt entfernt, und die ",
+    "p3LinkLedenice": "Ledenice-Schleife",
+    "p3After": " bietet eine Bergfahrt vierzig Minuten vom Strand entfernt.",
+    "h2Included": "In jeder Anmietung enthalten",
+    "p4": "Vollkasko und Haftpflichtversicherung, Mehrwertsteuer, unbegrenzte Kilometer in den meisten Kategorien, Winterreifen von November bis März bei Bergfahrzeugen und 24/7-Pannenhilfe. Selbstbehaltsbefreiung bei Buchung oder Abholung verfügbar. Grenzüberschreitender Schutz für Kroatien, Bosnien, Serbien, Albanien und Kosovo auf Anfrage inklusive.",
+    "h2Pickup": "Abholmöglichkeiten",
+    "p5Before": "Wir empfangen jeden Flug am Flughafen Tivat (TIV), 40 Minuten östlich über die ",
+    "p5LinkFerry": "Fähre Kamenari",
+    "p5After": " oder rund um die Bucht. Wir können auch eine Abholung am Flughafen Dubrovnik für Reisende, die nach Kroatien fliegen, mit grenzüberschreitender Lieferung organisieren. Abholungen vor Ort sind in Ihrem Hotel in Herceg Novi oder Igalo möglich.",
+    "h2Pricing": "Preise",
+    "p6": "Kein Sommeraufschlag in der Bestätigung. Der Preis bei Buchung ist der Preis, den Sie zahlen.",
+    "h2Contact": "Kontaktieren Sie uns",
+    "p7Before": "Auf unserer ",
+    "p7LinkContact": "Kontaktseite",
+    "p7After": " finden Sie das Formular, die E-Mail und WhatsApp. Wir antworten während der Geschäftszeiten innerhalb von zwei Stunden."
+  },
+  "montenegroPage": {
+    "title": "Montenegro von der Westbucht aus erfahren",
+    "subtitle": "Das Land mit Herceg Novi als Basis, Zugang zu zwei Ländern und der schnellste Weg zu jedem wichtigen Ziel.",
+    "description": "Überblick über Montenegro für Fahrer mit Standort Herceg Novi: typische Fahrzeiten nach Kotor, Budva, Podgorica und über die kroatische Grenze.",
+    "h2Base": "Herceg Novi als Standort, der Zwei-Länder-Vorteil",
+    "p1": "Herceg Novi ist der westlichste Ort an der montenegrinischen Küste. Es ist die einzige Basis, von der aus man einen Vormittag in Kroatien und einen Nachmittag wieder in Montenegro verbringen kann, ohne den Koffer zu packen. Diese Lage prägt, wie Montenegro von hier aus aussieht.",
+    "h2WithinHour": "Innerhalb einer Stunde mit dem Auto",
+    "li1Tivat": "Flughafen Tivat",
+    "li1After": ", 30-60 Min. je nach Fähre",
+    "li2": "Altstadt von Kotor, 45 Min. um die Bucht",
+    "li3": "Perast, 35 Min.",
+    "li4": "Budva, 60 Min.",
+    "li5Strong": "Dubrovnik, Kroatien",
+    "li5After": ", 45 Min. plus Grenze",
+    "h2Inside90": "Innerhalb von 90 Minuten",
+    "li6": "Königliche Hauptstadt Cetinje, 1,5 Std.",
+    "li7": "Erste Aussichtspunkte am Tara-Canyon, 1,5 Std.",
+    "li8": "Trebinje, Bosnien, 1 Std. (Grenze plus Fahrt)",
+    "li9": "Podgorica, 1,5 Std.",
+    "h2DayTrips": "Tagesausflüge mit echter Vielfalt",
+    "p2": "In einer Woche von Herceg Novi aus können Sie problemlos die kroatische Stadtmauer, eine montenegrinische UNESCO-Altstadt, eine Bergwanderung, einen Strandtag, einen Klostermorgen und einen Grenzübergang nach Bosnien abhaken, ohne die Unterkunft zu wechseln. Wenige Mittelmeerstandorte bieten eine solche geografische Dichte.",
+    "h2Borders": "Grenzen ab Herceg Novi",
+    "borderCroatiaStrong": "Kroatien (Debeli Brijeg):",
+    "borderCroatiaBefore": " 15 Min. zur Grenze. Wartezeit variabel, siehe unseren ",
+    "borderCroatiaLink": "Flughafenwahl-Ratgeber",
+    "borderCroatiaAfter": " für Tipps zur grenzüberschreitenden Anreise.",
+    "borderBosniaStrong": "Bosnien (Sutorina / Ivanica):",
+    "borderBosniaBefore": " 20 Min. zur Grenze, dann direkt ins Trebinje-Land, siehe den Ratgeber zum ",
+    "borderBosniaLink": "Sutorina-Korridor",
+    "borderBosniaAfter": ".",
+    "borderAlbaniaStrong": "Albanien:",
+    "borderAlbaniaText": " erfordert zunächst eine Stunde durch das küstennahe Montenegro, dann den Übergang Božaj nahe Podgorica.",
+    "h2Seasons": "Beste Reisezeit",
+    "p3": "Mai-Juni und September sind ideal, warmes Meer, mildes Hinterland, kürzere Grenzwartezeiten. Juli-August ist heiß, voll, und die Grenzwartezeiten erreichen ihren Höhepunkt. Oktober-April ist ruhiger, doch viele touristische Angebote werden reduziert."
   }
 }

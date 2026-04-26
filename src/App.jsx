@@ -818,7 +818,7 @@ function RoadTripPromo() {
             </div>
           </div>
           <div className="affiliate-promo__image">
-            <img src="/img/blog-ledenice-viewpoint-loop.webp" alt="Winding mountain road above the Bay of Kotor" loading="lazy" />
+            <img src="/img/blog-ledenice-viewpoint-loop.webp" alt={t('roadTripPlanner.imageAlt') || 'Winding mountain road above the Bay of Kotor'} loading="lazy" />
           </div>
         </div>
       </div>
@@ -1003,14 +1003,16 @@ function StickyMobileCTA() {
 }
 
 function WhatsAppFab() {
+  const { t } = useTranslation();
   return (
-    <a href="https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Montenegro." target="_blank" rel="noopener noreferrer" className="whatsapp-fab" aria-label="Chat on WhatsApp">
+    <a href="https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Montenegro." target="_blank" rel="noopener noreferrer" className="whatsapp-fab" aria-label={t('nav.whatsappLabel') || 'Chat on WhatsApp'}>
       <MessageCircle size={22} />
     </a>
   );
 }
 
 function ScrollToTop() {
+  const { t } = useTranslation();
   const [show, setShow] = useState(false);
   useEffect(() => {
     const onScroll = () => setShow(window.scrollY > 400);
@@ -1019,7 +1021,7 @@ function ScrollToTop() {
   }, []);
   if (!show) return null;
   return (
-    <button className="scroll-top" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} aria-label="Scroll to top">
+    <button className="scroll-top" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} aria-label={t('nav.scrollTopLabel') || 'Scroll to top'}>
       <ChevronRight size={20} style={{ transform: 'rotate(-90deg)' }} />
     </button>
   );

@@ -5,7 +5,9 @@
     "destinations": "Destinations",
     "about": "About",
     "contact": "Contact",
-    "fleet": "Fleet"
+    "fleet": "Fleet",
+    "whatsappLabel": "Chat on WhatsApp",
+    "scrollTopLabel": "Scroll to top"
   },
   "common": {
     "home": "Home",
@@ -116,12 +118,19 @@
     "easternBayGuides": "Eastern Bay Guides",
     "northernGuides": "Northern Bay Guides",
     "regionGuides": "Region Guides",
-    "westernBayDrives": "Western Bay Drives"
+    "westernBayDrives": "Western Bay Drives",
+    "linkKamenariFerry": "Kamenari–Lepetane Ferry",
+    "linkRoseLustica": "Rose Village on Luštica",
+    "linkLedenice": "Ledenice Viewpoint Loop",
+    "linkRisanMosaics": "Risan Roman Mosaics",
+    "linkDjenovici": "Đenovići West-Bay Promenade",
+    "linkAirportChoice": "Tivat vs Dubrovnik Airport"
   },
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Book a Car in Herceg Novi",
-    "seoDesc": "Car rental for Herceg Novi and the outer Bay of Kotor. Insurance included, Tivat or Dubrovnik airport handover, and all-inclusive pricing for Orjen, Kamenari and cross-border drives."
+    "seoDesc": "Car rental for Herceg Novi and the outer Bay of Kotor. Insurance included, Tivat or Dubrovnik airport handover, and all-inclusive pricing for Orjen, Kamenari and cross-border drives.",
+    "iframeTitle": "Car rental booking"
   },
   "footer": {
     "brandDesc": "Herceg Novi car rental with airport handover at Tivat or Dubrovnik, comprehensive insurance, and straightforward pricing for the outer Bay of Kotor and the Croatian border run.",
@@ -141,7 +150,11 @@
     "cookiePolicy": "Cookie Policy",
     "testimonials": "Testimonials",
     "sitemap": "Sitemap",
-    "tivatAirport": "Tivat Airport (TIV)"
+    "tivatAirport": "Tivat Airport (TIV)",
+    "sutorinaBosnia": "Sutorina → Bosnia",
+    "airportChoice": "Airport Choice",
+    "risanMosaics": "Risan Mosaics",
+    "portonovi": "Portonovi"
   },
   "notFound": {
     "code": "404",
@@ -373,6 +386,69 @@
       "tag": "Tivat vs Dubrovnik"
     }
   },
+  "aboutPage": {
+    "title": "About Car Rental Herceg Novi",
+    "subtitle": "A local booking partner on Montenegro's western border, serving visitors via Tivat Airport, Dubrovnik Airport, or ferry arrivals",
+    "description": "Car Rental Herceg Novi is an independent booking platform for rental cars on Montenegro's western bay, specialising in Herceg Novi, Igalo, and cross-border Dubrovnik trips.",
+    "h2WhoWeAre": "Who we are",
+    "p1": "Car Rental Herceg Novi is a booking platform partnered with small and mid-sized rental operators on Montenegro's western coast, the stretch from the Debeli Brijeg border through Igalo, Herceg Novi, and onto the Kamenari ferry. We're a small local team, not a global franchise.",
+    "h2WhyHercegNovi": "Why base in Herceg Novi",
+    "p2": "Herceg Novi sits at the western gateway to the Bay of Kotor, between the Croatian border and the Verige Strait. It's the natural base for visitors who want two-country access without moving hotels: Dubrovnik is 40 minutes west, Kotor 30 minutes east.",
+    "p3Before": "From here, the ",
+    "p3LinkAirport": "airport choice",
+    "p3Mid1": " shapes your arrival, the ",
+    "p3LinkLustica": "Luštica peninsula",
+    "p3Mid2": " is a short ferry away, and the ",
+    "p3LinkLedenice": "Ledenice loop",
+    "p3After": " delivers a mountain drive forty minutes from the beach.",
+    "h2Included": "Included with every rental",
+    "p4": "CDW and third-party liability insurance, VAT, unlimited mileage on most categories, winter tyres November through March on mountain-class vehicles, and 24/7 roadside support. Zero-excess upgrade available at booking or pickup. Cross-border cover for Croatia, Bosnia, Serbia, Albania and Kosovo is included when requested.",
+    "h2Pickup": "Pickup options",
+    "p5Before": "We meet every flight at Tivat Airport (TIV), 40 minutes east via the ",
+    "p5LinkFerry": "Kamenari ferry",
+    "p5After": " or around the bay. We can also arrange Dubrovnik Airport pickup for travellers flying into Croatia, with cross-border delivery included. In-town pickups are available at your Herceg Novi or Igalo hotel.",
+    "h2Pricing": "Pricing",
+    "p6": "No summer premium on the confirmation page. The rate you book is the rate you pay.",
+    "h2Contact": "Contact us",
+    "p7Before": "See our ",
+    "p7LinkContact": "contact page",
+    "p7After": " for form, email, and WhatsApp. We reply within two hours during business hours."
+  },
+  "montenegroPage": {
+    "title": "Driving Montenegro from the Western Bay",
+    "subtitle": "The country from Herceg Novi as a base, two-country access and the quickest route to every major destination",
+    "description": "Overview of Montenegro for Herceg Novi-based drivers: typical drive times to Kotor, Budva, Podgorica, and across the Croatian border.",
+    "h2Base": "Herceg Novi as a base, the two-country advantage",
+    "p1": "Herceg Novi is the westernmost town on the Montenegrin coast. It's the only base from which you can do a morning in Croatia and an afternoon back in Montenegro without packing a bag. That geographical position defines what Montenegro looks like from here.",
+    "h2WithinHour": "Within an hour by car",
+    "li1Tivat": "Tivat Airport",
+    "li1After": ", 30-60 min depending on ferry",
+    "li2": "Kotor Old Town, 45 min around the bay",
+    "li3": "Perast, 35 min",
+    "li4": "Budva, 60 min",
+    "li5Strong": "Dubrovnik, Croatia",
+    "li5After": ", 45 min + border",
+    "h2Inside90": "Inside 90 minutes",
+    "li6": "Cetinje royal capital, 1.5 hrs",
+    "li7": "Tara Canyon first viewpoints, 1.5 hrs",
+    "li8": "Trebinje, Bosnia, 1 hr (border + drive)",
+    "li9": "Podgorica, 1.5 hrs",
+    "h2DayTrips": "Day trips with real variety",
+    "p2": "In a week from Herceg Novi you can reasonably tick off the Croatian walled city, a Montenegrin UNESCO old town, a mountain hike, a beach day, a monastery morning, and a border-crossing into Bosnia, all without moving accommodation. Few Mediterranean bases offer that kind of geographic density.",
+    "h2Borders": "Borders from Herceg Novi",
+    "borderCroatiaStrong": "Croatia (Debeli Brijeg):",
+    "borderCroatiaBefore": " 15 min to the border. Queue variable, see our ",
+    "borderCroatiaLink": "airport choice guide",
+    "borderCroatiaAfter": " for cross-border arrival tips.",
+    "borderBosniaStrong": "Bosnia (Sutorina / Ivanica):",
+    "borderBosniaBefore": " 20 min to the border, then straight into Trebinje country, see the ",
+    "borderBosniaLink": "Sutorina corridor",
+    "borderBosniaAfter": " guide.",
+    "borderAlbaniaStrong": "Albania:",
+    "borderAlbaniaText": " requires an hour through coastal Montenegro first, then the Božaj crossing near Podgorica.",
+    "h2Seasons": "Best seasons",
+    "p3": "May-June and September are ideal, warm sea, mild interior, shorter border queues. July-August is hot, busy, and the border waits peak. October-April is quieter but most tourist infrastructure scales back."
+  },
   "aboutBody": {
     "h1": "Rental Cars Matched to Outer-Bay Roads",
     "p1": "Car Rental Herceg Novi partners with trusted local operators to offer a fleet suited to outer-bay conditions: compact hatchbacks for the stepped lanes of the Old Town and central Šetalište Pet Danica, SUVs for the Orjen road to Ledenice, and premium saloons for cross-border runs to Dubrovnik and Trebinje. Every vehicle is supplied by established operators around the bay, serviced regularly, and delivered with full insurance.",
@@ -499,6 +575,8 @@
     "breadcrumbBlog": "Blog",
     "heroTitle": "Herceg Novi Driving Guides",
     "heroSubtitle": "Road routes, local secrets, and quiet corners of the outer Bay of Kotor, from people who drive these roads daily.",
+    "pageTitle": "Driving the Western Bay of Kotor",
+    "pageSubtitle": "Researched guides to the quieter corners of the Herceg Novi region, ferries, villages, viewpoints and the borders behind the old town.",
     "readGuide": "Read guide",
     "card_churches_title": "Kamenari–Lepetane Ferry: The Five-Minute Shortcut",
     "card_churches_excerpt": "The car ferry across the Verige strait saves a 45-minute drive around the inner bay. How often it runs, what it costs, and the morning queue patterns worth planning around.",
@@ -552,7 +630,10 @@
     "seoDesc": "Reach Car Rental Herceg Novi for quotes, airport pickup, or trip planning questions. Email, WhatsApp, form, replies within two hours most weekdays.",
     "heading": "Contact Us",
     "intro": "Have a question about renting a car in Herceg Novi? Get in touch and we'll help you find the perfect vehicle for your trip.",
-    "thanks": "Thanks for getting in touch, we will reply within a few hours."
+    "thanks": "Thanks for getting in touch, we will reply within a few hours.",
+    "messageSent": "Message sent!",
+    "thanksMessage": "Thanks for getting in touch, we'll reply within a few hours.",
+    "sending": "Sending..."
   },
   "cookieBody": {
     "lastUpdated": "Last updated:",
@@ -783,7 +864,8 @@
     "title": "Planning an Outer Bay Road Trip?",
     "browseAll": "Browse all guides",
     "lovcenGuide": "Orjen Ledenice loop",
-    "desc": "Scenic routes, Orjen viewpoints, fuel stops, Kamenari ferry timings, and border crossing advice, written by drivers who know every hairpin on these roads."
+    "desc": "Scenic routes, Orjen viewpoints, fuel stops, Kamenari ferry timings, and border crossing advice, written by drivers who know every hairpin on these roads.",
+    "imageAlt": "Winding mountain road above the Bay of Kotor"
   },
   "compare": {
     "label": "Why Rent?",
@@ -872,6 +954,8 @@
       "suitability": "A pair settling in Herceg Novi for ten to fourteen days, with regular day-trips out to Cetinje, Risan and the Lake Skadar shore, simple to park, forgiving on petrol.",
       "regional": "Handles the Herceg Novi–Cetinje climb in third gear without drama, threads the narrow waterfront through outlying villages, and the 5.3 L/100 km petrol keeps the fuel bill predictable over a multi-week hire.",
       "category": "Economy",
+      "inlineAlt": "Bay of Kotor coastal road near Dobrota",
+      "inlineCaption": "The Dobrota–Prčanj stretch at a steady 50 km/h, the Clio's natural cruising pace on a multi-day bay stay.",
       "bestFor": {
         "0": "Couples on a two-week stay",
         "1": "Day-trippers to Cetinje and Njeguši",
@@ -891,6 +975,8 @@
       "suitability": "The mid-size diesel picks for anyone pairing a Herceg Novi base with multi-day drives inland, auto gearbox and cruise control earn their keep on the Podgorica motorway.",
       "regional": "Cruises the Smokovac–Mateševo motorway section effortlessly, swallows a week of hiking kit bound for Žabljak, and covers the Herceg Novi → Dubrovnik via Debeli Brijeg run on half a tank.",
       "category": "Mid-Size",
+      "inlineAlt": "Smokovac–Mateševo motorway inland from Kotor",
+      "inlineCaption": "The Smokovac motorway toward Podgorica, the 308's BlueHDi settles into a steady 1,800 rpm cruise here.",
       "bestFor": {
         "0": "Cross-border road-trippers",
         "1": "Durmitor weekenders",
@@ -910,6 +996,8 @@
       "suitability": "Renters who want more than a hatchback's packing space without the length of a full estate, ideal for Skadar Lake fishing kit, Cetinje monastery day-bags and a cool-box for the drive home.",
       "regional": "The long-travel suspension shrugs off the patchy bitumen on the old Herceg Novi–Budva road, the dCi diesel sips on the Sozina tunnel run, and the generous boot takes two weeks of family kit plus the laundry bag you pick up in Prčanj.",
       "category": "Mid-Size",
+      "inlineAlt": "Old bay road from Kotor toward Risan",
+      "inlineCaption": "The patched tarmac out to Risan's Roman mosaics, where the Megane's soft damping actually earns its rental premium.",
       "bestFor": {
         "0": "Long-stay renters",
         "1": "Skadar Lake day-trippers",
@@ -1043,6 +1131,8 @@
       "suitability": "The comfort-first pick for a week in Herceg Novi with daily slow-paced detours, Risan's Roman mosaics, the Gornja Lastva hamlet above Tivat, the loop back through nearby villages.",
       "regional": "The progressive hydraulic bump stops make the potholed stretch from Risan to Perast feel a size-class quieter, the low-stress 83 hp motor suits the 50 km/h bay-road limits, and the 4-metre length slots into any Old Town bastion bay.",
       "category": "Economy",
+      "inlineAlt": "Back road through Gornja Lastva above Tivat",
+      "inlineCaption": "The Gornja Lastva spur above the bay, the C3's Advanced Comfort turns the patched bitumen into distant thumps.",
       "bestFor": {
         "0": "Slow-touring couples",
         "1": "Back-road explorers",
@@ -1062,6 +1152,8 @@
       "suitability": "Renters who want crossover sight-lines and a bit of ground clearance for the side-roads around Herceg Novi's upper bay and the Lovćen approach, without paying full-SUV money.",
       "regional": "Higher seating position means easier viewing over region parapet walls, the 182 mm ride height clears the stone ruts on the old Njeguši ham-smoker lane, and the 352-litre boot handles a family's Durmitor hiking gear without folding seats.",
       "category": "Compact Crossover",
+      "inlineAlt": "Rutted spur road up to Njeguši above Kotor",
+      "inlineCaption": "The Njeguši approach above the bay, a little extra ground clearance keeps the Stonic composed where a Clio scrapes.",
       "bestFor": {
         "0": "Weekend trippers to Njeguši",
         "1": "Durmitor day-trippers",
@@ -1081,6 +1173,8 @@
       "suitability": "The default mid-size for renters who want one car that will do the Herceg Novi Old Town perimeter on day one and the Smokovac-Mateševo motorway on day four without complaint.",
       "regional": "DSG picks the right ratio on the Herceg Novi–Lovćen hairpins without any thinking, the 2.0 TDI holds 130 km/h on the motorway section up to Podgorica at 4.3 L/100 km, and the cabin quiet makes the 3-hour push to Žabljak genuinely relaxing.",
       "category": "Mid-Size",
+      "inlineAlt": "Wooded Lovćen serpentine above Kotor",
+      "inlineCaption": "The Kotor–Cetinje climb in third gear, the DSG reads the hairpins, the cabin stays silent.",
       "bestFor": {
         "0": "Couples mixing coast and canyon",
         "1": "Business travellers on week-long hires",
@@ -1100,6 +1194,8 @@
       "suitability": "Two or three nights in Herceg Novi with short afternoon hops to Perast and Prčanj, the 500 parks where mid-size cars wave and drive past.",
       "regional": "The 3.57 m length is the deciding factor: it fits the stepped terrace parking on the nearby villages waterfront and the shoulder-wide gap outside the Sea Gate that a Clio can't. Underpowered for the Lovćen climb, so pair with cable-car transfers or keep within bay limits.",
       "category": "City",
+      "inlineAlt": "Narrow Muo waterfront lane in Kotor",
+      "inlineCaption": "The Muo waterfront past the ferry dock, the 500 slots into gaps the rest of the fleet drives past.",
       "bestFor": {
         "0": "Short city-base stays",
         "1": "Solo visitors on a shoestring",

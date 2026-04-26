@@ -5,7 +5,9 @@
     "destinations": "Destinacije",
     "about": "O Nama",
     "contact": "Kontakt",
-    "fleet": "Flota"
+    "fleet": "Flota",
+    "whatsappLabel": "Razgovaraj na WhatsAppu",
+    "scrollTopLabel": "Vrati se na vrh"
   },
   "common": {
     "home": "Početna",
@@ -116,12 +118,19 @@
     "easternBayGuides": "Vodiči istočne Boke",
     "northernGuides": "Vodiči sjeverne Boke",
     "regionGuides": "Vodiči regije",
-    "westernBayDrives": "Vožnje zapadnim zalivom"
+    "westernBayDrives": "Vožnje zapadnim zalivom",
+    "linkKamenariFerry": "Trajekt Kamenari–Lepetane",
+    "linkRoseLustica": "Selo Rose na Luštici",
+    "linkLedenice": "Vidikovac Ledenice",
+    "linkRisanMosaics": "Rimski mozaici u Risnu",
+    "linkDjenovici": "Šetalište zapadne uvale u Đenovićima",
+    "linkAirportChoice": "Aerodrom Tivat ili Dubrovnik"
   },
   "book": {
     "title": "Pronađite Vaš Auto",
     "seoTitle": "Rezervišite Auto",
-    "seoDesc": "Najam automobila za Budvu i Budva Rivijeru. Osiguranje uključeno, preuzimanje na Aerodromu Tivat i jedna cijena za vožnje duž jadranske obale."
+    "seoDesc": "Najam automobila za Budvu i Budva Rivijeru. Osiguranje uključeno, preuzimanje na Aerodromu Tivat i jedna cijena za vožnje duž jadranske obale.",
+    "iframeTitle": "Rezervacija najma vozila"
   },
   "footer": {
     "brandDesc": "Najam automobila u Budvi s preuzimanjem na aerodromu, punim osiguranjem i jasnim cijenama za vožnju duž jadranske obale i Budva Rivijere.",
@@ -141,7 +150,11 @@
     "cookiePolicy": "Politika Kolačića",
     "testimonials": "Iskustva gostiju",
     "sitemap": "Mapa stranice",
-    "tivatAirport": "Aerodrom Tivat Airport"
+    "tivatAirport": "Aerodrom Tivat Airport",
+    "sutorinaBosnia": "Sutorina prema Bosni",
+    "airportChoice": "Izbor aerodroma",
+    "risanMosaics": "Mozaici u Risnu",
+    "portonovi": "Portonovi"
   },
   "notFound": {
     "code": "404",
@@ -795,7 +808,9 @@
     "card_stoliv_title": "Gornji Stoliv: Napusteno Selo na Litici Budvaa",
     "card_stoliv_excerpt": "Uzak put se penje 400 metara iznad zaliva do kamenog sela napustenog nakon zemljotresa 1979. Pogledi i tisina su izvanredni.",
     "card_wildflowers_title": "Proljecne Voznje Divljim Cvijecem: Mart do Maj",
-    "card_wildflowers_excerpt": "Zaliv buja bojama izmedu marta i maja. Orhideje, perunike i cistus oivicavaju puteve od Budvaa do Risna i prema lovcenskim padinama."
+    "card_wildflowers_excerpt": "Zaliv buja bojama izmedu marta i maja. Orhideje, perunike i cistus oivicavaju puteve od Budvaa do Risna i prema lovcenskim padinama.",
+    "pageTitle": "Vožnja zapadnim dijelom Bokokotorskog zaliva",
+    "pageSubtitle": "Detaljni vodiči za mirnije kutke regije Herceg Novi, trajekti, sela, vidikovci i granice iza Starog grada."
   },
   "blogBečićiWaterfrontWalk": {
     "title": "Bečići: Mirno Obalno Selo Pored Budvaa",
@@ -870,7 +885,10 @@
     "seoDesc": "Kontaktirajte Car Rental Budva za ponude, preuzimanje na aerodromu ili pitanja o putovanju.",
     "heading": "Kontaktirajte nas",
     "intro": "Imate pitanje o iznajmljivanju automobila u Budvau? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje.",
-    "thanks": "Hvala što ste nam se javili, odgovorićemo u roku od nekoliko sati."
+    "thanks": "Hvala što ste nam se javili, odgovorićemo u roku od nekoliko sati.",
+    "messageSent": "Poruka poslata!",
+    "thanksMessage": "Hvala što ste nas kontaktirali, odgovorićemo u roku od nekoliko sati.",
+    "sending": "Slanje u toku..."
   },
   "cookieBody": {
     "lastUpdated": "Posljednje ažuriranje:",
@@ -1095,7 +1113,8 @@
     "title": "Planiraš putovanje kroz Zaliv od Budvaa?",
     "browseAll": "Pregledaj sve vodiče",
     "lovcenGuide": "Vodič za vožnju Kosmača",
-    "desc": "Scenski putevi, skrivene gledne tačke, stanice za gorivo, saveti za parkiranje i informacije o prelascima granice, napisano od strane vozača koji poznaju svaki serpentin na ovim putevima."
+    "desc": "Scenski putevi, skrivene gledne tačke, stanice za gorivo, saveti za parkiranje i informacije o prelascima granice, napisano od strane vozača koji poznaju svaki serpentin na ovim putevima.",
+    "imageAlt": "Krivudavi planinski put iznad Bokokotorskog zaliva"
   },
   "compare": {
     "label": "Zašto iznajmiti?",
@@ -1200,7 +1219,9 @@
         "USB punjenje",
         "Centralno zaključavanje",
         "Ekran osjetljiv na dodir"
-      ]
+      ],
+      "inlineAlt": "Obalni put Bokokotorskog zaliva blizu Dobrote",
+      "inlineCaption": "Dionica Dobrota–Prčanj postojanih 50 km/h, prirodni krstareći tempo Clio-a tokom višednevnog boravka u zalivu."
     },
     "peugeot-308": {
       "name": "Peugeot 308",
@@ -1219,7 +1240,9 @@
         "Adaptivni tempomat",
         "Klima dual-zone",
         "Veliki gepek"
-      ]
+      ],
+      "inlineAlt": "Autoput Smokovac–Mateševo u unutrašnjosti od Kotora",
+      "inlineCaption": "Autoput Smokovac prema Podgorici, BlueHDi 308 se ovdje smjesti u mirnu krstaricu na 1.800 o/min."
     },
     "renault-megane": {
       "name": "Renault Megane",
@@ -1238,7 +1261,9 @@
         "Bluetooth audio",
         "Tempomat",
         "Senzori za parkiranje"
-      ]
+      ],
+      "inlineAlt": "Stara obalna cesta od Kotora ka Risnu",
+      "inlineCaption": "Zakrpljeni asfalt prema rimskim mozaicima u Risnu, gdje meka prigušenja Megane stvarno opravdavaju doplatu na najam."
     },
     "peugeot-208": {
       "name": "Peugeot 208",
@@ -1371,7 +1396,9 @@
         "Bluetooth audio",
         "USB punjenje",
         "Upozorenje o napuštanju trake"
-      ]
+      ],
+      "inlineAlt": "Sporedni put kroz Gornju Lastvu iznad Tivta",
+      "inlineCaption": "Krak Gornje Lastve iznad zaliva, Advanced Comfort C3 pretvara zakrpljeni bitumen u daleke udare."
     },
     "kia-stonic": {
       "name": "Kia Stonic",
@@ -1390,7 +1417,9 @@
         "Apple CarPlay",
         "Kamera za vožnju unazad",
         "Asistent za zadržavanje trake"
-      ]
+      ],
+      "inlineAlt": "Šljunčani put gore do Njeguša iznad Kotora",
+      "inlineCaption": "Pristup Njegušima iznad zaliva, malo dodatne udaljenosti od tla drži Stonic pribranim tamo gdje Clio struže."
     },
     "vw-golf": {
       "name": "VW Golf",
@@ -1409,7 +1438,9 @@
         "Adaptivni tempomat",
         "Digitalna instrument tabla",
         "Apple CarPlay"
-      ]
+      ],
+      "inlineAlt": "Šumovita Lovćenska serpentina iznad Kotora",
+      "inlineCaption": "Uspon Kotor–Cetinje u trećoj brzini, DSG čita oštre krivine, kabina ostaje tiha."
     },
     "fiat-500": {
       "name": "Fiat 500",
@@ -1428,7 +1459,9 @@
         "Lako parkiranje",
         "Krov na otvaranje",
         "Bluetooth"
-      ]
+      ],
+      "inlineAlt": "Uska obalna ulica u Muu kod Kotora",
+      "inlineCaption": "Obala Mua iza pristaništa trajekta, 500 se uvlači u procjepe pored kojih ostatak flote prolazi."
     },
     "overviewTitle": "Ukratko",
     "specsTitle": "Puna specifikacija",
@@ -1508,5 +1541,68 @@
     {
       "name": "Meljine"
     }
-  ]
+  ],
+  "aboutPage": {
+    "title": "O Car Rental Herceg Novi",
+    "subtitle": "Lokalni partner za rezervacije na zapadnoj granici Crne Gore, u službi gostiju koji dolaze preko aerodroma Tivat, aerodroma Dubrovnik ili trajektom.",
+    "description": "Car Rental Herceg Novi je nezavisna platforma za rezervaciju iznajmljivanja vozila u zapadnom zalivu Crne Gore, specijalizovana za Herceg Novi, Igalo i prekogranična putovanja u Dubrovnik.",
+    "h2WhoWeAre": "Ko smo mi",
+    "p1": "Car Rental Herceg Novi je platforma za rezervacije u partnerstvu s malim i srednjim operaterima na zapadnoj obali Crne Gore, od graničnog prelaza Debeli Brijeg preko Igala, Herceg Novog do trajekta Kamenari. Mi smo mali lokalni tim, a ne globalni franšizni lanac.",
+    "h2WhyHercegNovi": "Zašto Herceg Novi kao baza",
+    "p2": "Herceg Novi se nalazi na zapadnom ulazu u Bokokotorski zaliv, između hrvatske granice i tjesnaca Verige. To je prirodna baza za posjetioce koji žele pristup u dvije zemlje bez mijenjanja smještaja: Dubrovnik je 40 minuta zapadno, a Kotor 30 minuta istočno.",
+    "p3Before": "Odavde, ",
+    "p3LinkAirport": "izbor aerodroma",
+    "p3Mid1": " oblikuje vaš dolazak, ",
+    "p3LinkLustica": "poluostrvo Luštica",
+    "p3Mid2": " je nadomak trajekta, a ",
+    "p3LinkLedenice": "krug Ledenice",
+    "p3After": " donosi planinsku vožnju četrdeset minuta od plaže.",
+    "h2Included": "Uključeno u svaki najam",
+    "p4": "CDW i osiguranje od odgovornosti prema trećim licima, PDV, neograničena kilometraža za većinu kategorija, zimske gume od novembra do marta na vozilima za planinske uslove i pomoć na cesti 24/7. Nadogradnja na nulto učešće dostupna pri rezervaciji ili preuzimanju. Prekogranična pokrivenost za Hrvatsku, Bosnu, Srbiju, Albaniju i Kosovo uključena je na zahtjev.",
+    "h2Pickup": "Opcije preuzimanja",
+    "p5Before": "Dočekujemo svaki let na aerodromu Tivat (TIV), 40 minuta istočno preko ",
+    "p5LinkFerry": "trajekta Kamenari",
+    "p5After": " ili oko zaliva. Možemo organizovati i preuzimanje na aerodromu Dubrovnik za putnike koji slijeću u Hrvatsku, uz uključenu prekograničnu dostavu. Preuzimanja u gradu dostupna su u vašem hotelu u Herceg Novom ili Igalu.",
+    "h2Pricing": "Cijene",
+    "p6": "Bez ljetne premije na potvrdi. Cijena koju rezervišete je cijena koju plaćate.",
+    "h2Contact": "Kontaktirajte nas",
+    "p7Before": "Pogledajte našu ",
+    "p7LinkContact": "kontakt stranicu",
+    "p7After": " za formular, e-poštu i WhatsApp. Odgovaramo u roku od dva sata u radno vrijeme."
+  },
+  "montenegroPage": {
+    "title": "Vožnja Crnom Gorom iz zapadnog zaliva",
+    "subtitle": "Zemlja s Herceg Novim kao bazom, pristup dvjema zemljama i najbrža ruta do svake važne destinacije.",
+    "description": "Pregled Crne Gore za vozače sa bazom u Herceg Novom: tipična vremena vožnje do Kotora, Budve, Podgorice i preko hrvatske granice.",
+    "h2Base": "Herceg Novi kao baza, prednost dvije zemlje",
+    "p1": "Herceg Novi je najzapadniji grad na crnogorskoj obali. To je jedina baza odakle možete provesti jutro u Hrvatskoj, a popodne se vratiti u Crnu Goru bez pakovanja. Taj geografski položaj definiše kako Crna Gora izgleda odavde.",
+    "h2WithinHour": "Unutar sat vremena vožnje",
+    "li1Tivat": "Aerodrom Tivat",
+    "li1After": ", 30-60 min zavisno od trajekta",
+    "li2": "Stari grad Kotor, 45 min oko zaliva",
+    "li3": "Perast, 35 min",
+    "li4": "Budva, 60 min",
+    "li5Strong": "Dubrovnik, Hrvatska",
+    "li5After": ", 45 min plus granica",
+    "h2Inside90": "Unutar 90 minuta",
+    "li6": "Cetinje kraljevska prijestonica, 1,5 sat",
+    "li7": "Prvi vidikovci na kanjonu Tare, 1,5 sat",
+    "li8": "Trebinje, Bosna, 1 sat (granica plus vožnja)",
+    "li9": "Podgorica, 1,5 sat",
+    "h2DayTrips": "Dnevni izleti s pravom raznolikošću",
+    "p2": "U sedmici iz Herceg Novog razumno možete obići hrvatski grad pod zidinama, crnogorski stari grad pod UNESCO-om, planinarsku turu, dan na plaži, jutro u manastiru i prelazak granice u Bosnu, sve bez mijenjanja smještaja. Malo mediteranskih baza nudi takvu geografsku gustoću.",
+    "h2Borders": "Granice iz Herceg Novog",
+    "borderCroatiaStrong": "Hrvatska (Debeli Brijeg):",
+    "borderCroatiaBefore": " 15 min do granice. Red varijabilan, pogledajte naš ",
+    "borderCroatiaLink": "vodič za izbor aerodroma",
+    "borderCroatiaAfter": " za savjete o prekograničnom dolasku.",
+    "borderBosniaStrong": "Bosna (Sutorina / Ivanica):",
+    "borderBosniaBefore": " 20 min do granice, pa pravo u kraj Trebinja, pogledajte vodič za ",
+    "borderBosniaLink": "koridor Sutorina",
+    "borderBosniaAfter": ".",
+    "borderAlbaniaStrong": "Albanija:",
+    "borderAlbaniaText": " zahtijeva prvo sat vožnje kroz primorsku Crnu Goru, pa prelaz Božaj kod Podgorice.",
+    "h2Seasons": "Najbolje sezone",
+    "p3": "Maj-jun i septembar su idealni, toplo more, blago zaleđe, kraći redovi na granici. Jul-avgust je vruć, prometan i čekanje na granici je na vrhuncu. Oktobar-april je mirniji, ali se većina turističke infrastrukture smanjuje."
+  }
 }

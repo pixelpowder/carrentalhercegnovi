@@ -219,10 +219,12 @@ export default function CarDetail({ slug }) {
                 </section>
                 {i === 2 && (() => {
                   const inline = INLINE_PHOTOS[slug] || INLINE_PHOTOS._default;
+                  const alt = tk('inlineAlt', inline.alt);
+                  const caption = tk('inlineCaption', inline.caption);
                   return (
                     <figure key={`inline-${i}`} className="car-detail-article__figure">
-                      <img src={inline.src} alt={inline.alt} loading="lazy" />
-                      <figcaption>{inline.caption}</figcaption>
+                      <img src={inline.src} alt={alt} loading="lazy" />
+                      <figcaption>{caption}</figcaption>
                     </figure>
                   );
                 })()}

@@ -126,8 +126,8 @@ export default function Contact() {
           <div style={{ display: 'flex', alignItems: 'flex-start', gap: '12px', padding: '20px', background: '#e8f6ef', border: '1px solid #a8d8bd', borderRadius: '12px' }}>
             <CheckCircle2 size={24} style={{ color: '#0f7a3c', flexShrink: 0, marginTop: '2px' }} />
             <div>
-              <div style={{ fontWeight: 700, color: '#0f7a3c', marginBottom: '4px' }}>Message sent!</div>
-              <div style={{ fontSize: '14px', color: '#495057', lineHeight: 1.5 }}>Thanks for getting in touch ,  we'll reply within a few hours.</div>
+              <div style={{ fontWeight: 700, color: '#0f7a3c', marginBottom: '4px' }}>{t('contact.messageSent') || 'Message sent!'}</div>
+              <div style={{ fontSize: '14px', color: '#495057', lineHeight: 1.5 }}>{t('contact.thanksMessage') || "Thanks for getting in touch, we'll reply within a few hours."}</div>
             </div>
           </div>
         ) : (
@@ -172,7 +172,7 @@ export default function Contact() {
               borderRadius: '9999px', fontSize: '16px', fontWeight: 700, cursor: status === 'sending' ? 'wait' : 'pointer',
               alignSelf: 'flex-start', display: 'flex', alignItems: 'center', gap: '8px'
             }}>
-              {status === 'sending' ? 'Sending…' : t('contact.sendBtn')} {status !== 'sending' && <ArrowRight size={16} />}
+              {status === 'sending' ? (t('contact.sending') || 'Sending…') : t('contact.sendBtn')} {status !== 'sending' && <ArrowRight size={16} />}
             </button>
           </form>
         )}

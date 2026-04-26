@@ -74,10 +74,10 @@ export default function Footer() {
         <div>
           <div className="footer__col-title">{t('sidebar.westernBayDrives') || 'Western Bay Drives'}</div>
           <div className="footer__links">
-            <a href={localePath('/blog/sutorina-bosnia-corridor')} className="footer__link">Sutorina → Bosnia</a>
-            <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')} className="footer__link">Airport Choice</a>
-            <a href={localePath('/blog/risan-roman-mosaics-drive')} className="footer__link">Risan Mosaics</a>
-            <a href={localePath('/blog/portonovi-marina-podi')} className="footer__link">Portonovi</a>
+            <a href={localePath('/blog/sutorina-bosnia-corridor')} className="footer__link">{tf('footer.sutorinaBosnia', 'Sutorina → Bosnia')}</a>
+            <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')} className="footer__link">{tf('footer.airportChoice', 'Airport Choice')}</a>
+            <a href={localePath('/blog/risan-roman-mosaics-drive')} className="footer__link">{tf('footer.risanMosaics', 'Risan Mosaics')}</a>
+            <a href={localePath('/blog/portonovi-marina-podi')} className="footer__link">{tf('footer.portonovi', 'Portonovi')}</a>
           </div>
         </div>
       </div>

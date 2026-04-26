@@ -5,7 +5,9 @@
     "destinations": "Destinazioni",
     "about": "Chi Siamo",
     "contact": "Contatti",
-    "fleet": "Flotta"
+    "fleet": "Flotta",
+    "whatsappLabel": "Chatta su WhatsApp",
+    "scrollTopLabel": "Torna su"
   },
   "common": {
     "home": "Home",
@@ -116,12 +118,19 @@
     "easternBayGuides": "Guide della baia orientale",
     "northernGuides": "Guide della baia settentrionale",
     "regionGuides": "Guide della regione",
-    "westernBayDrives": "Itinerari della baia ovest"
+    "westernBayDrives": "Itinerari della baia ovest",
+    "linkKamenariFerry": "Traghetto Kamenari–Lepetane",
+    "linkRoseLustica": "Villaggio di Rose a Luštica",
+    "linkLedenice": "Anello panoramico di Ledenice",
+    "linkRisanMosaics": "Mosaici romani di Risan",
+    "linkDjenovici": "Lungomare della baia ovest a Đenovići",
+    "linkAirportChoice": "Aeroporto di Tivat o Dubrovnik"
   },
   "book": {
     "title": "Trova la Tua Auto",
     "seoTitle": "Prenota un’Auto a Budva",
-    "seoDesc": "Noleggio auto per Budva e la Budva Riviera. Assicurazione inclusa, consegna all'aeroporto di Tivat e prezzo unico per i tuoi viaggi lungo l'Adriatico."
+    "seoDesc": "Noleggio auto per Budva e la Budva Riviera. Assicurazione inclusa, consegna all'aeroporto di Tivat e prezzo unico per i tuoi viaggi lungo l'Adriatico.",
+    "iframeTitle": "Prenotazione noleggio auto"
   },
   "footer": {
     "brandDesc": "Noleggio auto a Budva con consegna in aeroporto, assicurazione completa e prezzi chiari per guidare lungo l'Adriatico e la Budva Riviera.",
@@ -141,7 +150,11 @@
     "cookiePolicy": "Politica sui Cookie",
     "testimonials": "Testimonianze",
     "sitemap": "Mappa del sito",
-    "tivatAirport": "Aeroporto di Tivat Airport"
+    "tivatAirport": "Aeroporto di Tivat Airport",
+    "sutorinaBosnia": "Sutorina verso la Bosnia",
+    "airportChoice": "Scelta dell'aeroporto",
+    "risanMosaics": "Mosaici di Risan",
+    "portonovi": "Portonovi"
   },
   "notFound": {
     "code": "404",
@@ -799,7 +812,9 @@
     "card_stoliv_title": "Gornji Stoliv: Il Villaggio Abbandonato sulla Scogliera di Budva",
     "card_stoliv_excerpt": "Una strada stretta sale 400 metri sopra la baia fino a un villaggio in pietra abbandonato nel terremoto del 1979. Le viste e il silenzio sono straordinari.",
     "card_wildflowers_title": "Guida tra i Fiori Selvatici Primaverili: Marzo-Maggio",
-    "card_wildflowers_excerpt": "La baia esplode di colori tra marzo e maggio. Orchidee, iris e cisti bordano le strade da Budva a Risan e verso le pendici di Kosmač."
+    "card_wildflowers_excerpt": "La baia esplode di colori tra marzo e maggio. Orchidee, iris e cisti bordano le strade da Budva a Risan e verso le pendici di Kosmač.",
+    "pageTitle": "Guidare nella baia ovest di Kotor",
+    "pageSubtitle": "Guide approfondite agli angoli più tranquilli della regione di Herceg Novi, traghetti, villaggi, punti panoramici e i confini dietro la città vecchia."
   },
   "blogBečićiWaterfrontWalk": {
     "title": "Bečići: il tranquillo villaggio sul lungomare vicino a Budva",
@@ -874,7 +889,10 @@
     "seoDesc": "Contatta Car Rental Budva per preventivi, ritiro in aeroporto o domande sul viaggio.",
     "heading": "Contattaci",
     "intro": "Hai una domanda sul noleggio auto a Budva? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio.",
-    "thanks": "Grazie per averci contattato, risponderemo entro poche ore."
+    "thanks": "Grazie per averci contattato, risponderemo entro poche ore.",
+    "messageSent": "Messaggio inviato!",
+    "thanksMessage": "Grazie per averci contattato, risponderemo entro poche ore.",
+    "sending": "Invio in corso..."
   },
   "cookieBody": {
     "lastUpdated": "Ultimo aggiornamento:",
@@ -1099,7 +1117,8 @@
     "title": "Pianificando un Viaggio nella Baia di Budva?",
     "browseAll": "Scopri tutte le guide",
     "lovcenGuide": "Guida di guida a Kosmač",
-    "desc": "Percorsi panoramici, punti vista nascosti, stazioni di rifornimento, consigli per il parcheggio e informazioni sui valichi di confine, scritti da autisti che conoscono ogni curva di queste strade."
+    "desc": "Percorsi panoramici, punti vista nascosti, stazioni di rifornimento, consigli per il parcheggio e informazioni sui valichi di confine, scritti da autisti che conoscono ogni curva di queste strade.",
+    "imageAlt": "Tortuosa strada di montagna sopra la baia di Kotor"
   },
   "compare": {
     "label": "Perché Noleggiare?",
@@ -1204,7 +1223,9 @@
         "Ricarica USB",
         "Chiusura centralizzata",
         "Display touchscreen"
-      ]
+      ],
+      "inlineAlt": "Strada costiera delle Bocche di Cattaro vicino a Dobrota",
+      "inlineCaption": "Il tratto Dobrota–Prčanj a 50 km/h costanti, l'andatura di crociera naturale della Clio in un soggiorno di più giorni nella baia."
     },
     "peugeot-308": {
       "name": "Peugeot 308",
@@ -1223,7 +1244,9 @@
         "Cruise control adattivo",
         "Climatizzatore bizona",
         "Bagagliaio capiente"
-      ]
+      ],
+      "inlineAlt": "Autostrada Smokovac–Mateševo nell'entroterra di Kotor",
+      "inlineCaption": "L'autostrada Smokovac verso Podgorica, il BlueHDi della 308 si stabilizza qui in una crociera tranquilla a 1.800 giri/min."
     },
     "renault-megane": {
       "name": "Renault Megane",
@@ -1242,7 +1265,9 @@
         "Audio Bluetooth",
         "Cruise control",
         "Sensori di parcheggio"
-      ]
+      ],
+      "inlineAlt": "Vecchia strada della baia da Kotor verso Risan",
+      "inlineCaption": "L'asfalto rattoppato verso i mosaici romani di Risan, dove le sospensioni morbide della Megane giustificano davvero il sovrapprezzo del noleggio."
     },
     "peugeot-208": {
       "name": "Peugeot 208",
@@ -1375,7 +1400,9 @@
         "Audio Bluetooth",
         "Ricarica USB",
         "Avviso di superamento corsia"
-      ]
+      ],
+      "inlineAlt": "Strada secondaria attraverso Gornja Lastva sopra Tivat",
+      "inlineCaption": "Lo sperone di Gornja Lastva sopra la baia, l'Advanced Comfort della C3 trasforma il bitume rattoppato in lontani sobbalzi."
     },
     "kia-stonic": {
       "name": "Kia Stonic",
@@ -1394,7 +1421,9 @@
         "Apple CarPlay",
         "Telecamera posteriore",
         "Mantenimento attivo della corsia"
-      ]
+      ],
+      "inlineAlt": "Strada sterrata fino a Njeguši sopra Kotor",
+      "inlineCaption": "La salita verso Njeguši sopra la baia, un po' di altezza da terra in più tiene la Stonic composta dove una Clio striscia."
     },
     "vw-golf": {
       "name": "VW Golf",
@@ -1413,7 +1442,9 @@
         "Cruise control adattivo",
         "Digital Cockpit",
         "Apple CarPlay"
-      ]
+      ],
+      "inlineAlt": "Tornanti boscosi del Lovćen sopra Kotor",
+      "inlineCaption": "La salita Kotor–Cetinje in terza, il DSG legge i tornanti, la cabina resta silenziosa."
     },
     "fiat-500": {
       "name": "Fiat 500",
@@ -1432,7 +1463,9 @@
         "Parcheggio facile",
         "Tetto apribile",
         "Bluetooth"
-      ]
+      ],
+      "inlineAlt": "Stretta strada del lungomare di Muo a Kotor",
+      "inlineCaption": "Il lungomare di Muo oltre l'attracco del traghetto, la 500 si infila in spazi che il resto della flotta supera."
     },
     "overviewTitle": "In sintesi",
     "specsTitle": "Scheda tecnica completa",
@@ -1512,5 +1545,68 @@
     {
       "name": "Meljine"
     }
-  ]
+  ],
+  "aboutPage": {
+    "title": "Chi è Car Rental Herceg Novi",
+    "subtitle": "Un partner di prenotazione locale al confine occidentale del Montenegro, al servizio dei visitatori che arrivano dall'aeroporto di Tivat, dall'aeroporto di Dubrovnik o in traghetto.",
+    "description": "Car Rental Herceg Novi è una piattaforma di prenotazione indipendente per il noleggio auto sulla baia occidentale del Montenegro, specializzata in Herceg Novi, Igalo e viaggi transfrontalieri verso Dubrovnik.",
+    "h2WhoWeAre": "Chi siamo",
+    "p1": "Car Rental Herceg Novi è una piattaforma di prenotazione che collabora con piccoli e medi operatori di noleggio sulla costa occidentale del Montenegro, il tratto dal confine di Debeli Brijeg passando per Igalo, Herceg Novi e fino al traghetto di Kamenari. Siamo un piccolo team locale, non un franchising globale.",
+    "h2WhyHercegNovi": "Perché Herceg Novi come base",
+    "p2": "Herceg Novi si trova all'ingresso occidentale delle Bocche di Cattaro, tra il confine croato e lo stretto di Verige. È la base naturale per i visitatori che vogliono accesso a due Paesi senza cambiare hotel: Dubrovnik è a 40 minuti a ovest, Kotor a 30 minuti a est.",
+    "p3Before": "Da qui, la ",
+    "p3LinkAirport": "scelta dell'aeroporto",
+    "p3Mid1": " modella il vostro arrivo, la ",
+    "p3LinkLustica": "penisola di Luštica",
+    "p3Mid2": " è a un breve tragitto in traghetto, e ",
+    "p3LinkLedenice": "l'anello di Ledenice",
+    "p3After": " offre una guida in montagna a quaranta minuti dalla spiaggia.",
+    "h2Included": "Incluso in ogni noleggio",
+    "p4": "Assicurazione CDW e responsabilità civile, IVA, chilometraggio illimitato nella maggior parte delle categorie, pneumatici invernali da novembre a marzo sui veicoli di classe montagna e assistenza stradale 24/7. Upgrade franchigia zero disponibile alla prenotazione o al ritiro. Copertura transfrontaliera per Croazia, Bosnia, Serbia, Albania e Kosovo inclusa su richiesta.",
+    "h2Pickup": "Opzioni di ritiro",
+    "p5Before": "Vi accogliamo a ogni volo all'aeroporto di Tivat (TIV), a 40 minuti a est tramite il ",
+    "p5LinkFerry": "traghetto di Kamenari",
+    "p5After": " o intorno alla baia. Possiamo anche organizzare il ritiro all'aeroporto di Dubrovnik per i viaggiatori che volano in Croazia, con consegna transfrontaliera inclusa. Sono disponibili ritiri in città presso il vostro hotel a Herceg Novi o Igalo.",
+    "h2Pricing": "Prezzi",
+    "p6": "Nessun supplemento estivo nella conferma. La tariffa che prenotate è quella che pagate.",
+    "h2Contact": "Contattateci",
+    "p7Before": "Consultate la nostra ",
+    "p7LinkContact": "pagina dei contatti",
+    "p7After": " per modulo, e-mail e WhatsApp. Rispondiamo entro due ore durante l'orario di lavoro."
+  },
+  "montenegroPage": {
+    "title": "Guidare in Montenegro dalla baia ovest",
+    "subtitle": "Il Paese con Herceg Novi come base, accesso a due Paesi e il percorso più rapido per ogni destinazione importante.",
+    "description": "Panoramica del Montenegro per i guidatori basati a Herceg Novi: tempi di percorrenza tipici per Kotor, Budva, Podgorica e oltre il confine croato.",
+    "h2Base": "Herceg Novi come base, il vantaggio dei due Paesi",
+    "p1": "Herceg Novi è la città più occidentale della costa montenegrina. È l'unica base da cui potete passare una mattina in Croazia e un pomeriggio di nuovo in Montenegro senza preparare la valigia. Quella posizione geografica definisce come appare il Montenegro da qui.",
+    "h2WithinHour": "Entro un'ora di auto",
+    "li1Tivat": "Aeroporto di Tivat",
+    "li1After": ", 30-60 min a seconda del traghetto",
+    "li2": "Città vecchia di Kotor, 45 min intorno alla baia",
+    "li3": "Perast, 35 min",
+    "li4": "Budva, 60 min",
+    "li5Strong": "Dubrovnik, Croazia",
+    "li5After": ", 45 min più confine",
+    "h2Inside90": "Entro 90 minuti",
+    "li6": "Capitale reale di Cetinje, 1,5 h",
+    "li7": "Primi punti panoramici del canyon della Tara, 1,5 h",
+    "li8": "Trebinje, Bosnia, 1 h (confine più viaggio)",
+    "li9": "Podgorica, 1,5 h",
+    "h2DayTrips": "Gite di un giorno con vera varietà",
+    "p2": "In una settimana da Herceg Novi potete ragionevolmente spuntare la città murata croata, una città vecchia UNESCO montenegrina, un'escursione in montagna, una giornata in spiaggia, una mattina al monastero e un passaggio di confine in Bosnia, tutto senza cambiare alloggio. Poche basi del Mediterraneo offrono questo tipo di densità geografica.",
+    "h2Borders": "Confini da Herceg Novi",
+    "borderCroatiaStrong": "Croazia (Debeli Brijeg):",
+    "borderCroatiaBefore": " 15 min al confine. Coda variabile, vedi la nostra ",
+    "borderCroatiaLink": "guida alla scelta dell'aeroporto",
+    "borderCroatiaAfter": " per consigli sull'arrivo transfrontaliero.",
+    "borderBosniaStrong": "Bosnia (Sutorina / Ivanica):",
+    "borderBosniaBefore": " 20 min al confine, poi direttamente nella zona di Trebinje, vedi la guida al ",
+    "borderBosniaLink": "corridoio di Sutorina",
+    "borderBosniaAfter": ".",
+    "borderAlbaniaStrong": "Albania:",
+    "borderAlbaniaText": " richiede prima un'ora attraverso il Montenegro costiero, poi il valico di Božaj vicino a Podgorica.",
+    "h2Seasons": "Migliori stagioni",
+    "p3": "Maggio-giugno e settembre sono ideali, mare caldo, entroterra mite, code di confine più brevi. Luglio-agosto è caldo, affollato e le attese ai confini sono al massimo. Ottobre-aprile è più tranquillo ma la maggior parte delle infrastrutture turistiche è ridotta."
+  }
 }

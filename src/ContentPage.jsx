@@ -40,12 +40,12 @@ export default function ContentPage({ title, subtitle, image, description, child
           <div className="sidebar-card">
             <h3 className="sidebar-card__title">{t('sidebar.westernBayGuides') || 'Western Bay Guides'}</h3>
             <ul className="sidebar-links">
-              <li><a href={localePath('/blog/kamenari-lepetane-ferry')}>Kamenari–Lepetane Ferry</a></li>
-              <li><a href={localePath('/blog/rose-village-lustica')}>Rose Village on Luštica</a></li>
-              <li><a href={localePath('/blog/ledenice-viewpoint-loop')}>Ledenice Viewpoint Loop</a></li>
-              <li><a href={localePath('/blog/risan-roman-mosaics-drive')}>Risan Roman Mosaics</a></li>
-              <li><a href={localePath('/blog/djenovici-west-bay-promenade')}>Đenovići West-Bay Promenade</a></li>
-              <li><a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')}>Tivat vs Dubrovnik Airport</a></li>
+              <li><a href={localePath('/blog/kamenari-lepetane-ferry')}>{t('sidebar.linkKamenariFerry') || 'Kamenari–Lepetane Ferry'}</a></li>
+              <li><a href={localePath('/blog/rose-village-lustica')}>{t('sidebar.linkRoseLustica') || 'Rose Village on Luštica'}</a></li>
+              <li><a href={localePath('/blog/ledenice-viewpoint-loop')}>{t('sidebar.linkLedenice') || 'Ledenice Viewpoint Loop'}</a></li>
+              <li><a href={localePath('/blog/risan-roman-mosaics-drive')}>{t('sidebar.linkRisanMosaics') || 'Risan Roman Mosaics'}</a></li>
+              <li><a href={localePath('/blog/djenovici-west-bay-promenade')}>{t('sidebar.linkDjenovici') || 'Đenovići West-Bay Promenade'}</a></li>
+              <li><a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')}>{t('sidebar.linkAirportChoice') || 'Tivat vs Dubrovnik Airport'}</a></li>
             </ul>
           </div>
         </aside>
@@ -55,16 +55,16 @@ export default function ContentPage({ title, subtitle, image, description, child
           <h2 className="related-guides__title">{t('relatedGuides.title') || 'You might also like'}</h2>
           <div className="related-guides__cards">
             <a href={localePath('/blog/ledenice-viewpoint-loop')} className="related-card">
-              <img src="/img/blog-ledenice-viewpoint-loop.webp" alt="Ledenice viewpoint loop" loading="lazy" />
-              <span>Ledenice Viewpoint Loop</span>
+              <img src="/img/blog-ledenice-viewpoint-loop.webp" alt={t('sidebar.linkLedenice') || 'Ledenice Viewpoint Loop'} loading="lazy" />
+              <span>{t('sidebar.linkLedenice') || 'Ledenice Viewpoint Loop'}</span>
             </a>
             <a href={localePath('/blog/rose-village-lustica')} className="related-card">
-              <img src="/img/blog-rose-village-lustica.webp" alt="Rose village on Luštica" loading="lazy" />
-              <span>Rose Village on Luštica</span>
+              <img src="/img/blog-rose-village-lustica.webp" alt={t('sidebar.linkRoseLustica') || 'Rose Village on Luštica'} loading="lazy" />
+              <span>{t('sidebar.linkRoseLustica') || 'Rose Village on Luštica'}</span>
             </a>
             <a href={localePath('/blog/tivat-vs-dubrovnik-airport-choice')} className="related-card">
-              <img src="/img/blog-tivat-vs-dubrovnik-airport-choice.webp" alt="Tivat vs Dubrovnik airport choice" loading="lazy" />
-              <span>Tivat vs Dubrovnik Airport</span>
+              <img src="/img/blog-tivat-vs-dubrovnik-airport-choice.webp" alt={t('sidebar.linkAirportChoice') || 'Tivat vs Dubrovnik Airport'} loading="lazy" />
+              <span>{t('sidebar.linkAirportChoice') || 'Tivat vs Dubrovnik Airport'}</span>
             </a>
           </div>
         </div>
