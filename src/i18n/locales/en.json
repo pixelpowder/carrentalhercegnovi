@@ -115,7 +115,8 @@
     "westernBayGuides": "Western Bay Guides",
     "easternBayGuides": "Eastern Bay Guides",
     "northernGuides": "Northern Bay Guides",
-    "regionGuides": "Region Guides"
+    "regionGuides": "Region Guides",
+    "westernBayDrives": "Western Bay Drives"
   },
   "book": {
     "title": "Find Your Car",
