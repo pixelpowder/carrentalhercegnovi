@@ -84,7 +84,7 @@
   "destinations": {
     "label": "Top Destinacije",
     "title": "Istražite Crnu Goru",
-    "subtitle": "Od starog grada pod zaštitom UNESCO-a do Rafailovićia, Budve i planina, sve je nadohvat ruke."
+    "subtitle": "Od starog grada pod zaštitom-a do Rafailovićia, Budve i planina, sve je nadohvat ruke."
   },
   "features": {
     "label": "Zašto Mi",
@@ -103,7 +103,7 @@
   },
   "cta": {
     "title": "Spremni da Istražite Crnu Goru?",
-    "subtitle": "Rezervišite za nekoliko minuta. Preuzmite na aerodromu Tivat Airport ili u budvaskom Starom gradu. Vozite UNESCO zalivom, Rafailovićiom i Jadranom svojim tempom.",
+    "subtitle": "Rezervišite za nekoliko minuta. Preuzmite na aerodromu Tivat Airport ili u budvaskom Starom gradu. Vozite zalivom, Rafailovićiom i Jadranom svojim tempom.",
     "browseFleet": "Pregledaj Flotu"
   },
   "sidebar": {
@@ -461,7 +461,7 @@
     "oldTownText": "Budvanski Stari Grad je kompaktna utvrđena citadela na malom poluostrvu. Unutar zidina naći ćete uske popločane ulice, venecijansku arhitekturu, male crkve koje datiraju iz 7. vijeka, te živahnu mješavinu restorana, galerija i butika. Tvrđava Citadela na južnom vrhu nudi panoramske poglede na obalu i obližnja ostrva.",
     "dayTripsTitle": "Jednodnevni Izleti iz Budve",
     "svetiStefanTrip": "Samo 6 km južno, ovo fotogenično utvrđeno ostrvsko selo sada je luksuzni hotel, ali pogledi sa puta iznad su spektakularni i besplatni. Plaža na kopnenoj strani je otvorena za sve.",
-    "budvaTrip": "Vožnja od 30 minuta na sjever kroz dramatičan planinski tunel dovodi vas do Bokobudvaskog zaliva i njegovog Starog grada pod zaštitom UNESCO-a.",
+    "budvaTrip": "Vožnja od 30 minuta na sjever kroz dramatičan planinski tunel dovodi vas do Bokobudvaskog zaliva i njegovog Starog grada pod zaštitom-a.",
     "lovcenTrip": "Uputite se u unutrašnjost ka planinskim pejzažima i Njegoševom mauzoleju, smještenom na 1.657 metara nadmorske visine, sa pogledom na četiri zemlje po vedrom danu. Vijugavi put od obale je doživljaj sam po sebi.",
     "gettingAroundTitle": "Kretanje",
     "gettingAroundText": "Dok je Budvanski Stari Grad najbolje istraživati pješice, iznajmljeni automobil je neophodan za dolazak do najljepših plaža, obližnjih sela i atrakcija u unutrašnjosti. Parking je dostupan u blizini zidina Starog grada i na nekoliko javnih parkirališta duž glavnog puta. U vrhu ljeta, rani dolazak osigurava najbolja mjesta.",
@@ -655,7 +655,7 @@
     "returnTitle": "Vracanje Automobila na Aerodrom Podgorica",
     "returnP": "Proces vracanja je ogledalska slika preuzimanja. Dovezite se do aerodromskog parkinga, pozovite agenta, i on dolazi do vas. Brzi pregled, predaja kljuceva, i slobodni ste. Ostavite 15 minuta za proces plus vrijeme voznje od Budvaa (90 minuta standardnom rutom, 2 sata preko serpentine).",
     "rentalLink": "Dovezite se do {{link}} za 90 minuta kroz planinske pejzaže.",
-    "budvaUnescoLinkText": "UNESCO Starog grada Budvaa",
+    "budvaUnescoLinkText": "Starog grada Budvaa",
     "winterLink": "Uporedite s {{link}} za ljetnje dolaske.",
     "tivatAirportLinkText": "aerodromom Tivat Airport"
   },
@@ -1604,7 +1604,7 @@
     "li8": "Trebinje, Bosna, 1 sat (granica plus vožnja)",
     "li9": "Podgorica, 1,5 sat",
     "h2DayTrips": "Dnevni izleti s pravom raznolikošću",
-    "p2": "U sedmici iz Herceg Novog razumno možete obići hrvatski grad pod zidinama, crnogorski stari grad pod UNESCO-om, planinarsku turu, dan na plaži, jutro u manastiru i prelazak granice u Bosnu, sve bez mijenjanja smještaja. Malo mediteranskih baza nudi takvu geografsku gustoću.",
+    "p2": "U sedmici iz Herceg Novog razumno možete obići hrvatski grad pod zidinama, crnogorski stari grad pod-om, planinarsku turu, dan na plaži, jutro u manastiru i prelazak granice u Bosnu, sve bez mijenjanja smještaja. Malo mediteranskih baza nudi takvu geografsku gustoću.",
     "h2Borders": "Granice iz Herceg Novog",
     "borderCroatiaStrong": "Hrvatska (Debeli Brijeg):",
     "borderCroatiaBefore": " 15 min do granice. Red varijabilan, pogledajte naš ",

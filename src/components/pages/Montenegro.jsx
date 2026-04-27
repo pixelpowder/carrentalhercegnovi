@@ -36,7 +36,7 @@ export default function Montenegro() {
       </ul>
 
       <h2>{tf('montenegroPage.h2DayTrips', 'Day trips with real variety')}</h2>
-      <p>{tf('montenegroPage.p2', 'In a week from Herceg Novi you can reasonably tick off the Croatian walled city, a Montenegrin UNESCO old town, a mountain hike, a beach day, a monastery morning, and a border-crossing into Bosnia, all without moving accommodation. Few Mediterranean bases offer that kind of geographic density.')}</p>
+      <p>{tf('montenegroPage.p2', 'In a week from Herceg Novi you can reasonably tick off the Croatian walled city, a Montenegrin old town, a mountain hike, a beach day, a monastery morning, and a border-crossing into Bosnia, all without moving accommodation. Few Mediterranean bases offer that kind of geographic density.')}</p>
 
       <h2>{tf('montenegroPage.h2Borders', 'Borders from Herceg Novi')}</h2>
       <ul>
