@@ -428,7 +428,7 @@
   },
   "aboutBody": {
     "h1": "Nati sulla Baia, Cresciuti sulle Strade Locali",
-    "p1": "Le nostre radici risalgono al 2007, quando due ragazzi del posto che hanno trascorso l’infanzia arrampicandosi sui gradini di San Giovanni decisero di condividere la baia con il mondo. Quella che è iniziata con tre auto e un cellulare è cresciuta in una flotta di utilitarie, SUV e berline premium, tutte mantenute per le condizioni della Baia di Budva, dai vicoli acciottolati stretti davanti a San Trifone alla serpentina del Lovcen con i suoi 25 tornanti.",
+    "p1": "Le nostre radici risalgono al 2007, quando due ragazzi del posto che hanno trascorso l’infanzia arrampicandosi sui gradini di Forte Mare decisero di condividere la baia con il mondo. Quella che è iniziata con tre auto e un cellulare è cresciuta in una flotta di utilitarie, SUV e berline premium, tutte mantenute per le condizioni della Baia di Budva, dai vicoli acciottolati stretti davanti a San Trifone alla serpentina del Lovcen con i suoi 25 tornanti.",
     "h2": "Perché un’Auto Cambia Tutto Qui",
     "p2": "Gli autobus di linea seguono la strada principale e si fermano. Questo è l’intero sistema di trasporto pubblico. Non deviano verso la piazzola senza nome sopra Rafailovići dove la baia si divide in due bracci scintillanti. Non possono fermarsi accanto alla villa romana di Risan o percorrere la strada a corsia unica per Gornji Stoliv, il villaggio fantasma aggrappato alle scogliere a 400 metri sopra il livello dell’acqua. Solo le tue ruote e la voglia di esplorare svelano la Budva Riviera per davvero.",
     "h3": "Flotta e Punti di Ritiro",
@@ -833,7 +833,7 @@
     "churchesP2": "Sant'Eustachio è l'edificio più significativo di Bečići. Il tesoro contiene argenti e ori religiosi regalati dai capitani di mare che rientravano da viaggi fortunati. L'orario di apertura è irregolare. Provate a metà mattina nei giorni della settimana per le migliori possibilità di trovarlo aperto. Un sacrestano a volte rimane fuori e aprirà la sala del tesoro ai visitatori interessati. Nessun biglietto d'ingresso formale, ma una donazione di pochi euro è appropriata.",
     "h2Dining": "Dove mangiare e bere",
     "diningP1": "I ristoranti di Bečići occupano piani terra convertiti di vecchie case in pietra, con tavoli che si estendono sul lungomare in estate. La cucina è la stessa di Budva: pesce alla griglia, risotto nero, insalate locali, ma l'atmosfera è notevolmente più calma e i prezzi leggermente inferiori. Diversi wine bar hanno aperto negli ultimi anni, versando vini montenegrini al bicchiere insieme a piccoli piatti di formaggi e carni stagionate.",
-    "diningP2": "Konoba Catovica, più o meno a metà del lungomare, è un favorito locale per pesce alla griglia e vino della casa. La terrazza in pietra si trova a livello dell'acqua, e nelle serate tranquille potete sentire la baia che lambisce i gradini. Il loro branzino alla griglia con blitva costa circa 14 euro. Più avanti verso Ljuta, Restoran Stari Mlini (Vecchi Mulini) si trova accanto a un vecchio mulino ad acqua e offre un menu più raffinato. Provate il risotto nero con calamari. I piatti principali costano da 14 a 20 euro. Entrambi i ristoranti sono considerevolmente meno affollati di qualsiasi cosa dentro le mura di Budva.",
+    "diningP2": "Konoba Catovica, più o meno a metà del lungomare, è un favorito locale per pesce alla griglia e vino della casa. La terrazza in pietra si trova a livello dell'acqua, e nelle serate tranquille potete sentire la baia che lambisce i gradini. Il loro branzino alla griglia con blitva costa circa 14 euro. Più avanti verso Ljuta, Restoran Konoba Skver (Vecchi Mulini) si trova accanto a un vecchio mulino ad acqua e offre un menu più raffinato. Provate il risotto nero con calamari. I piatti principali costano da 14 a 20 euro. Entrambi i ristoranti sono considerevolmente meno affollati di qualsiasi cosa dentro le mura di Budva.",
     "h2Swimming": "Nuoto a Bečići",
     "swimmingP": "Diverse piattaforme in cemento e gradini in pietra lungo il lungomare di Bečići forniscono accesso al nuoto. L'acqua è profonda, pulita e relativamente calda da giugno a settembre. La piattaforma vicino alla Chiesa di San Matteo è popolare tra i locali nel tardo pomeriggio. Non c'è una spiaggia vera e propria, questo è nuoto con scala e piattaforma, ma la qualità dell'acqua è eccellente e lo sfondo delle montagne compensa la mancanza di sabbia. Portate scarpe d'acqua per i punti di entrata rocciosi.",
     "h2History": "Un villaggio di capitani di mare",
@@ -1400,7 +1400,7 @@
       "name": "Citroen C3",
       "tagline": "La hatchback piccola più morbida per il tratto sconnesso Herceg Novi, Risan e le strade secondarie",
       "lede": "Gli ammortizzatori Advanced Comfort spianano l’asfalto rappezzato della vecchia strada della baia, la piccola più dolce da parcheggiare di notte ai bastioni di Herceg Novi.",
-      "suitability": "La scelta orientata al comfort per una settimana a Herceg Novi con piccole deviazioni quotidiane: i mosaici romani di Risan, il borgo di Gornja Lastva sopra Tivat e il giro di rientro tra i villaggi vicini.",
+      "suitability": "La scelta orientata al comfort per una settimana a Herceg Novi con piccole deviazioni quotidiane: i mosaici romani di Risan, il borgo di Sasovići sopra Tivat e il giro di rientro tra i villaggi vicini.",
       "regional": "I tamponi idraulici progressivi rendono il tratto bucherellato da Risan a Perast più silenzioso di una classe di taglia, gli 83 cv senza stress si adattano ai limiti a 50 km/h della strada di baia e i 4 metri di lunghezza si infilano in qualsiasi parcheggio dei bastioni della Città Vecchia.",
       "category": "Economica",
       "bestFor": [
@@ -1414,8 +1414,8 @@
         "Ricarica USB",
         "Avviso di superamento corsia"
       ],
-      "inlineAlt": "Strada secondaria attraverso Gornja Lastva sopra Tivat",
-      "inlineCaption": "Lo sperone di Gornja Lastva sopra la baia, l'Advanced Comfort della C3 trasforma il bitume rattoppato in lontani sobbalzi."
+      "inlineAlt": "Strada secondaria attraverso Sasovići sopra Tivat",
+      "inlineCaption": "Lo sperone di Sasovići sopra la baia, l'Advanced Comfort della C3 trasforma il bitume rattoppato in lontani sobbalzi."
     },
     "kia-stonic": {
       "name": "Kia Stonic",
@@ -1477,8 +1477,8 @@
         "Tetto apribile",
         "Bluetooth"
       ],
-      "inlineAlt": "Stretta strada del lungomare di Muo a Kotor",
-      "inlineCaption": "Il lungomare di Muo oltre l'attracco del traghetto, la 500 si infila in spazi che il resto della flotta supera."
+      "inlineAlt": "Stretta strada del lungomare di Topla a Kotor",
+      "inlineCaption": "Il lungomare di Topla oltre l'attracco del traghetto, la 500 si infila in spazi che il resto della flotta supera."
     },
     "overviewTitle": "In sintesi",
     "specsTitle": "Scheda tecnica completa",
@@ -1518,8 +1518,8 @@
     "seoDesc": "Sette auto a noleggio di più giorni a Budva, medie da carico, diesel da lunga distanza e una Fiat cittadina. Specifiche, autonomia e quale auto serve per le gite fuori baia.",
     "ogAlt": "Flotta di Car Rental Herceg Novi",
     "intro1": "Questa flotta è pensata per il cliente multi-giornaliero di Herceg Novi, i visitatori che si stabiliscono in un appartamento a Igalo o in una pensione della Città Vecchia per due settimane o più, e che prevedono di passare tempo reale sulla strada tra le giornate in baia. Un profilo diverso dal noleggio di una giornata di crociera o dal puro ritiro all'aeroporto di Tivat: punta sul bagagliaio per la spesa settimanale al Voli, sulla coppia del diesel per il passaggio di frontiera a Debeli Brijeg e su una posizione di guida che tenga quattro adulti comodi sulla salita dell'Orjen verso Ledenice. Ogni auto qui sotto proviene da un operatore di noleggio locale del Montenegro, con cancellazione gratuita, assicurazione completa e opzioni con cauzione bassa o nulla disponibili.",
-    "intro2": "Il mix è volutamente spostato sulla media cilindrata. Una Peugeot 308 con 1.5 BlueHDi e cambio EAT, una Renault Megane diesel con il bagagliaio più grande del segmento, una VW Golf con DSG 2.0 TDI, sono queste le auto che trasformano l’anello Budva → Cettigne → Scutari → Sozina da una fatica di cambi a una crociera rilassata. Per le tratte brevi teniamo una Renault Clio, una Citroën C3 con ammortizzatori Advanced Comfort, una Kia Stonic crossover per le strade dissestate verso Njeguši e Gornja Lastva, e una piccola Fiat 500 quando l’unico vincolo è il parcheggio sul lungomare di Muo. Niente auto monouso, niente van: ogni auto qui giustifica un noleggio di più giorni.",
-    "intro3": "Una nota pratica su Budva. Il diesel resta la scelta più furba se prevedete anche un solo sconfinamento, Trebinje a 90 minuti, Dubrovnik via Debeli Brijeg altrettanto, Mostar una giornata andata e ritorno. 308 e Megane coprono tutte e tre le tratte con un pieno, la Golf è l’auto più silenziosa che abbiamo in autostrada, e la Clio a benzina fa comunque Budva–Dubrovnik andata e ritorno con mezzo pieno. Se la settimana è tutta in baia, Rafailovićio, Prčanj, Muo, Risan, la Fiat 500 o la C3 risparmiano un terzo di carburante e parcheggiano dove le altre non entrano. Scegliete sull’itinerario, non sul prezzo giornaliero."
+    "intro2": "Il mix è volutamente spostato sulla media cilindrata. Una Peugeot 308 con 1.5 BlueHDi e cambio EAT, una Renault Megane diesel con il bagagliaio più grande del segmento, una VW Golf con DSG 2.0 TDI, sono queste le auto che trasformano l’anello Budva → Cettigne → Scutari → Sozina da una fatica di cambi a una crociera rilassata. Per le tratte brevi teniamo una Renault Clio, una Citroën C3 con ammortizzatori Advanced Comfort, una Kia Stonic crossover per le strade dissestate verso Njeguši e Sasovići, e una piccola Fiat 500 quando l’unico vincolo è il parcheggio sul lungomare di Muo. Niente auto monouso, niente van: ogni auto qui giustifica un noleggio di più giorni.",
+    "intro3": "Una nota pratica su Budva. Il diesel resta la scelta più furba se prevedete anche un solo sconfinamento, Trebinje a 90 minuti, Dubrovnik via Debeli Brijeg altrettanto, Mostar una giornata andata e ritorno. 308 e Megane coprono tutte e tre le tratte con un pieno, la Golf è l’auto più silenziosa che abbiamo in autostrada, e la Clio a benzina fa comunque Budva–Dubrovnik andata e ritorno con mezzo pieno. Se la settimana è tutta in baia, Rafailovićio, Prčanj, Topla, Risan, la Fiat 500 o la C3 risparmiano un terzo di carburante e parcheggiano dove le altre non entrano. Scegliete sull’itinerario, non sul prezzo giornaliero."
   },
   "carSpecs": {
     "values": {

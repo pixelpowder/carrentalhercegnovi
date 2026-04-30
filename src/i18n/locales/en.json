@@ -129,11 +129,11 @@
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Book a Car in Herceg Novi",
-    "seoDesc": "Car rental for Herceg Novi and the outer Bay of Kotor. Insurance included, Tivat or Dubrovnik airport handover, and all-inclusive pricing for Orjen, Kamenari and cross-border drives.",
+    "seoDesc": "Car rental for Herceg Novi and the outer Bay of Boka. Insurance included, Tivat or Dubrovnik airport handover, and all-inclusive pricing for Orjen, Kamenari and cross-border drives.",
     "iframeTitle": "Car rental booking"
   },
   "footer": {
-    "brandDesc": "Herceg Novi car rental with airport handover at Tivat or Dubrovnik, comprehensive insurance, and straightforward pricing for the outer Bay of Kotor and the Croatian border run.",
+    "brandDesc": "Herceg Novi car rental with airport handover at Tivat or Dubrovnik, comprehensive insurance, and straightforward pricing for the outer Bay of Boka and the Croatian border run.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "locations": "Locations",
@@ -165,7 +165,7 @@
     "metaTitle": "Page Not Found | Car Rental Herceg Novi"
   },
   "home": {
-    "seoDesc": "Car rental in Herceg Novi with insurance and CDW included. Tivat or Dubrovnik airport handover, no hidden fees, and easy access to the outer Bay of Kotor, Orjen mountain and the Croatian border.",
+    "seoDesc": "Car rental in Herceg Novi with insurance and CDW included. Tivat or Dubrovnik airport handover, no hidden fees, and easy access to the outer Bay of Boka, Orjen mountain and the Croatian border.",
     "title": "Car Rental in Herceg Novi. Insurance Included, Outer Bay Ready."
   },
   "about": {
@@ -173,12 +173,12 @@
     "subtitle": "Car rental in Herceg Novi with Igalo, Bijela and airport pickup",
     "seoDesc": "Herceg Novi rentals made for outer-bay drives: fixed rates, insurance bundled in, Tivat or Dubrovnik airport collection, and local support from drivers who know the Orjen road.",
     "heading1": "Car Rental Herceg Novi",
-    "p1": "Car Rental Herceg Novi connects travellers with reliable rental cars in the outer Bay of Kotor. We work with trusted local operators to offer a range of vehicles, from compact city cars for the stepped lanes of the Old Town to 4x4s for the Orjen road up to Ledenice.",
+    "p1": "Car Rental Herceg Novi connects travellers with reliable rental cars in the outer Bay of Boka. We work with trusted local operators to offer a range of vehicles, from compact city cars for the stepped lanes of the Old Town to 4x4s for the Orjen road up to Ledenice.",
     "heading2": "Why a Car Makes Sense in Herceg Novi",
     "p2": "Public transport around the outer bay is limited: buses follow the magistrala and skip the side roads entirely. The Kamenari ferry shortcut across the Verige strait, the day trip to Rose on Luštica, the border run to Dubrovnik 40 minutes west, and the switchback climb up Orjen all reward travellers with their own wheels. A rental car turns a two-day stop into a proper exploration of the outer bay and the mountains behind it.",
     "heading3": "What We Offer",
     "p3a": "We operate car rental services across",
-    "p3Link1": "the outer Bay of Kotor",
+    "p3Link1": "the outer Bay of Boka",
     "p3b": ", with collection and return at",
     "p3Link2": "Tivat Airport (TIV)",
     "p3c": ",",
@@ -319,7 +319,7 @@
     "budva": {
       "name": "Kotor",
       "tag": "45 min from Herceg Novi",
-      "desc": "ramparts and the climb to San Giovanni fortress."
+      "desc": "ramparts and the climb to Forte Mare fortress."
     },
     "podgorica-airport": {
       "name": "Podgorica Airport",
@@ -348,7 +348,7 @@
     },
     "blog/kamenari-lepetane-ferry": {
       "name": "Kamenari–Lepetane Ferry",
-      "desc": "The roll-on ferry shortcut across the narrowest point of the Bay of Kotor.",
+      "desc": "The roll-on ferry shortcut across the narrowest point of the Bay of Boka.",
       "tag": "~5 min crossing"
     },
     "blog/rose-village-lustica": {
@@ -394,7 +394,7 @@
     "h2WhoWeAre": "Who we are",
     "p1": "Car Rental Herceg Novi is a booking platform partnered with small and mid-sized rental operators on Montenegro's western coast, the stretch from the Debeli Brijeg border through Igalo, Herceg Novi, and onto the Kamenari ferry. We're a small local team, not a global franchise.",
     "h2WhyHercegNovi": "Why base in Herceg Novi",
-    "p2": "Herceg Novi sits at the western gateway to the Bay of Kotor, between the Croatian border and the Verige Strait. It's the natural base for visitors who want two-country access without moving hotels: Dubrovnik is 40 minutes west, Kotor 30 minutes east.",
+    "p2": "Herceg Novi sits at the western gateway to the Bay of Boka, between the Croatian border and the Verige Strait. It's the natural base for visitors who want two-country access without moving hotels: Dubrovnik is 40 minutes west, Kotor 30 minutes east.",
     "p3Before": "From here, the ",
     "p3LinkAirport": "airport choice",
     "p3Mid1": " shapes your arrival, the ",
@@ -478,7 +478,7 @@
   "montenegroBody": {
     "h1": "Driving Montenegro from a Herceg Novi Base",
     "p1": "Montenegro is roughly the size of Northern Ireland yet contains a coast, a deep fjord-like bay, walled towns from the Venetian period, a 1,300-metre-deep canyon, and alpine peaks above 2,500 metres. Driving distances look short on a map. In practice, the roads twist, climb, tunnel, and ferry-cross their way between these extremes, and journey times rarely match what GPS predicts. Accept that, and the driving itself becomes part of the holiday.",
-    "p2": "Herceg Novi sits at the western mouth of the Bay of Kotor, 25 km from the Croatian border at Debeli Brijeg and a short Kamenari ferry hop from the inner bay. Dubrovnik is 40 minutes west. Kotor is 45 minutes east via the ferry. Ledenice on Orjen is 45 minutes inland. Lake Skadar is two hours south. Only Durmitor, in the far north, requires a genuine road trip. Everything else radiates outward from the Old Town like spokes from a hub.",
+    "p2": "Herceg Novi sits at the western mouth of the Bay of Boka, 25 km from the Croatian border at Debeli Brijeg and a short Kamenari ferry hop from the inner bay. Dubrovnik is 40 minutes west. Kotor is 45 minutes east via the ferry. Ledenice on Orjen is 45 minutes inland. Lake Skadar is two hours south. Only Durmitor, in the far north, requires a genuine road trip. Everything else radiates outward from the Old Town like spokes from a hub.",
     "startTitle": "Picking Up Your Car",
     "startText": "Tivat Airport (TIV) is 40 minutes east via the Kamenari–Lepetane ferry. Dubrovnik Airport (DBV) is 40 minutes west across the Debeli Brijeg crossing in Croatia. Podgorica Airport offers wider winter schedules but adds two hours of inland driving. Herceg Novi is unusual in Montenegro for having two international airports within equal reach, pick whichever has the better fare. All three points support meet-and-greet handovers.",
     "timesTitle": "Realistic Drive Times from Herceg Novi",
@@ -496,10 +496,10 @@
     "keyRule3": "Alcohol: zero-tolerance policy, any detectable blood alcohol means an on-the-spot fine or worse",
     "keyRule4": "Speed cameras: fixed units on the magistrala and mobile traps on the highway. Fines are issued to the rental company and charged back to your card",
     "conditionsTitle": "What the Roads Are Actually Like",
-    "conditionsText": "The magistrala between Herceg Novi and Kotor is paved and well maintained but barely two cars wide in places, with stone walls on one side and the Bay of Kotor on the other. Mountain roads above 800 metres, the Orjen climb in particular, may lack guard rails entirely. The Sozina tunnel toward Bar is modern and well-lit. The Ledenice road is narrow, steep, and has limited passing places, so honk before blind bends. In winter, chains or winter tyres are legally required above the snow line.",
+    "conditionsText": "The magistrala between Herceg Novi and Kotor is paved and well maintained but barely two cars wide in places, with stone walls on one side and the Bay of Boka on the other. Mountain roads above 800 metres, the Orjen climb in particular, may lack guard rails entirely. The Sozina tunnel toward Bar is modern and well-lit. The Ledenice road is narrow, steep, and has limited passing places, so honk before blind bends. In winter, chains or winter tyres are legally required above the snow line.",
     "routesTitle": "Two Arterial Roads",
     "e65Title": "E65 / E80: The Adriatic Coast Road",
-    "e65Text": "This route traces the Adriatic coast from the Debeli Brijeg crossing west of Herceg Novi, around the mouth of the Bay of Kotor, over the Kamenari–Lepetane car ferry, and onward past Tivat toward the southern coast. The ferry shortcut across the Verige strait saves 45 minutes versus the loop via Risan. The outer-bay magistrala is where most Herceg Novi visitors spend their driving time, and for good reason, the views change with every headland.",
+    "e65Text": "This route traces the Adriatic coast from the Debeli Brijeg crossing west of Herceg Novi, around the mouth of the Bay of Boka, over the Kamenari–Lepetane car ferry, and onward past Tivat toward the southern coast. The ferry shortcut across the Verige strait saves 45 minutes versus the loop via Risan. The outer-bay magistrala is where most Herceg Novi visitors spend their driving time, and for good reason, the views change with every headland.",
     "e762Title": "E762: Coast to Interior",
     "e762Text": "Cuts inland from the Adriatic through the Montenegrin heartland toward the Serbian and eastern Bosnian borders. This is the route to Niksic, the Piva canyon, and eventually Durmitor. Less scenic near the coast but increasingly dramatic as it climbs.",
     "borderTitle": "Crossing Into Neighbouring Countries",
@@ -575,8 +575,8 @@
   "blogIndex": {
     "breadcrumbBlog": "Blog",
     "heroTitle": "Herceg Novi Driving Guides",
-    "heroSubtitle": "Road routes, local secrets, and quiet corners of the outer Bay of Kotor, from people who drive these roads daily.",
-    "pageTitle": "Driving the Western Bay of Kotor",
+    "heroSubtitle": "Road routes, local secrets, and quiet corners of the outer Bay of Boka, from people who drive these roads daily.",
+    "pageTitle": "Driving the Western Bay of Boka",
     "pageSubtitle": "Researched guides to the quieter corners of the Herceg Novi region, ferries, villages, viewpoints and the borders behind the old town.",
     "readGuide": "Read guide",
     "card_churches_title": "Kamenari–Lepetane Ferry: The Five-Minute Shortcut",
@@ -601,7 +601,7 @@
   "blogHome": {
     "sectionLabel": "Driving Guides",
     "sectionTitle": "From Our Blog",
-    "sectionSubtitle": "Road routes, quiet corners, and local tips for exploring the outer Bay of Kotor by car.",
+    "sectionSubtitle": "Road routes, quiet corners, and local tips for exploring the outer Bay of Boka by car.",
     "viewAll": "View all guides"
   },
   "contact": {
@@ -713,7 +713,7 @@
     "roleTitle": "Our Role",
     "weProvide": "We provide:",
     "provide1": "A search interface to browse available rental vehicles",
-    "provide2": "Destination and travel information about Herceg Novi and the outer Bay of Kotor region",
+    "provide2": "Destination and travel information about Herceg Novi and the outer Bay of Boka region",
     "provide3": "Customer support to help with enquiries before booking",
     "weDoNot": "We do not:",
     "doNot1": "Own, operate, or maintain any rental vehicles",
@@ -791,7 +791,7 @@
       },
       "1": {
         "title": "Herceg Novi to Kotor",
-        "desc": "Via the Kamenari–Lepetane ferry to save 40 minutes around the bay. walls and the climb to San Giovanni await.",
+        "desc": "Via the Kamenari–Lepetane ferry to save 40 minutes around the bay. walls and the climb to Forte Mare await.",
         "time": "45 min",
         "distance": "42 km"
       },
@@ -866,7 +866,7 @@
     "browseAll": "Browse all guides",
     "lovcenGuide": "Orjen Ledenice loop",
     "desc": "Scenic routes, Orjen viewpoints, fuel stops, Kamenari ferry timings, and border crossing advice, written by drivers who know every hairpin on these roads.",
-    "imageAlt": "Winding mountain road above the Bay of Kotor"
+    "imageAlt": "Winding mountain road above the Bay of Boka"
   },
   "compare": {
     "label": "Why Rent?",
@@ -925,7 +925,7 @@
   },
   "contentPage": {
     "youMightAlsoLike": "You might also like",
-    "readyCta": "Ready to drive the outer Bay of Kotor?",
+    "readyCta": "Ready to drive the outer Bay of Boka?",
     "searchCars": "Search Cars"
   },
   "relatedGuides": {
@@ -938,7 +938,7 @@
     "carRental": "Car Rental",
     "destinations": "Destinations",
     "travelGuides": "Travel Guides",
-    "bokaBayRentals": "Boka Bay Rentals"
+    "bokaBayRentals": "Bay of Boka Rentals"
   },
   "cookieBanner": {
     "title": "Cookie Policy",
@@ -955,7 +955,7 @@
       "suitability": "A pair settling in Herceg Novi for ten to fourteen days, with regular day-trips out to Cetinje, Risan and the Lake Skadar shore, simple to park, forgiving on petrol.",
       "regional": "Handles the Herceg Novi–Cetinje climb in third gear without drama, threads the narrow waterfront through outlying villages, and the 5.3 L/100 km petrol keeps the fuel bill predictable over a multi-week hire.",
       "category": "Economy",
-      "inlineAlt": "Bay of Kotor coastal road near Dobrota",
+      "inlineAlt": "Bay of Boka coastal road near Dobrota",
       "inlineCaption": "The Dobrota–Prčanj stretch at a steady 50 km/h, the Clio's natural cruising pace on a multi-day bay stay.",
       "bestFor": {
         "0": "Couples on a two-week stay",
@@ -1141,11 +1141,11 @@
       "name": "Citroen C3",
       "tagline": "Softest small hatch for the broken Herceg Novi–Risan stretch and back-road detours",
       "lede": "Advanced Comfort dampers iron out the patched tarmac on the old bay road, the gentlest small car to park at the Herceg Novi bastions overnight.",
-      "suitability": "The comfort-first pick for a week in Herceg Novi with daily slow-paced detours, Risan's Roman mosaics, the Gornja Lastva hamlet above Tivat, the loop back through nearby villages.",
+      "suitability": "The comfort-first pick for a week in Herceg Novi with daily slow-paced detours, Risan's Roman mosaics, the Sasovići hamlet above Tivat, the loop back through nearby villages.",
       "regional": "The progressive hydraulic bump stops make the potholed stretch from Risan to Perast feel a size-class quieter, the low-stress 83 hp motor suits the 50 km/h bay-road limits, and the 4-metre length slots into any Old Town bastion bay.",
       "category": "Economy",
-      "inlineAlt": "Back road through Gornja Lastva above Tivat",
-      "inlineCaption": "The Gornja Lastva spur above the bay, the C3's Advanced Comfort turns the patched bitumen into distant thumps.",
+      "inlineAlt": "Back road through Sasovići above Tivat",
+      "inlineCaption": "The Sasovići spur above the bay, the C3's Advanced Comfort turns the patched bitumen into distant thumps.",
       "bestFor": {
         "0": "Slow-touring couples",
         "1": "Back-road explorers",
@@ -1207,8 +1207,8 @@
       "suitability": "Two or three nights in Herceg Novi with short afternoon hops to Perast and Prčanj, the 500 parks where mid-size cars wave and drive past.",
       "regional": "The 3.57 m length is the deciding factor: it fits the stepped terrace parking on the nearby villages waterfront and the shoulder-wide gap outside the Sea Gate that a Clio can't. Underpowered for the Lovćen climb, so pair with cable-car transfers or keep within bay limits.",
       "category": "City",
-      "inlineAlt": "Narrow Muo waterfront lane in Kotor",
-      "inlineCaption": "The Muo waterfront past the ferry dock, the 500 slots into gaps the rest of the fleet drives past.",
+      "inlineAlt": "Narrow Topla promenade lane in Kotor",
+      "inlineCaption": "The Topla promenade past the ferry dock, the 500 slots into gaps the rest of the fleet drives past.",
       "bestFor": {
         "0": "Short city-base stays",
         "1": "Solo visitors on a shoestring",
