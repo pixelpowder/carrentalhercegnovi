@@ -271,7 +271,7 @@
     },
     "1": {
       "q": "Can I cross into Croatia or other countries?",
-      "a": "Absolutely. The Debeli Brijeg crossing into Croatia is just 35 minutes from Herceg Novi, the quickest international border in the country. Green Card paperwork is included at booking. Bosnia (via Ivanica into the Sutorina valley for Trebinje), Albania, Serbia, and Kosovo are also available with advance notice."
+      "a": "Yes, and from this bay-entrance base it is the dominant use case. Cross-border cover comes in three tiers: Tier 1 covers neighbouring countries excluding Albania and Kosovo (this is what most Herceg Novi guests pick, since the Debeli Brijeg crossing 35 minutes west to Dubrovnik plus a Trebinje run through the Sutorina valley fall inside it). Tier 2 widens that to Albania and Kosovo, useful if you are pairing a Dubrovnik morning with a Lake Skadar to Shkoder afternoon. Tier 3 adds more distant countries for longer Balkan loops. Tick the tier at booking and the Green Card is in the glovebox at handover."
     },
     "2": {
       "q": "What age do I need to be?",
@@ -294,8 +294,8 @@
       "a": "Most cars require between €100 and €350 held on a credit card. Some economy vehicles are deposit-free, these are clearly marked in your search results."
     },
     "7": {
-      "q": "Is there a mileage cap?",
-      "a": "Many vehicles include unlimited mileage. Those with limits charge a per-kilometre rate beyond the allowance, always visible before you confirm."
+      "q": "What extras can I add at booking?",
+      "a": "The bay-entrance staples: a roof rack for the kayak or SUP run out to Rose and Žanjice on the Luštica peninsula, child seats in three sizes (rear-facing, forward-facing, booster), a wireless hotspot for the Trebinje day-tripper crossing into Bosnian signal, and an Albanian or Kosovan SIM card if your tier covers those borders. An e-scooter with charger pairs well with the stepped Old Town, where the 100,000 Steps make four wheels the slow option. Theft Protection is worth a tick if you plan to leave the car overnight along the Topla promenade or the Igalo seafront. Personal Accident Insurance, Winter Pack, ski rack and snowboard rack round out the list, the snowboard rack being the unusual one most guests overlook for the rare Orjen winter day above 1,200 m."
     },
     "8": {
       "q": "Are there any surprise charges?",
@@ -308,6 +308,14 @@
     "10": {
       "q": "Can I rent without a credit card?",
       "a": "A handful of vehicles are available without a credit card requirement. Look for the no-deposit filter when searching by pickup location."
+    },
+    "11": {
+      "q": "Is there a mileage cap?",
+      "a": "Many vehicles include unlimited mileage. Those with limits charge a per-kilometre rate beyond the allowance, always visible before you confirm."
+    },
+    "12": {
+      "q": "Which extras suit a Herceg Novi base specifically?",
+      "a": "Three pair naturally with the bay entrance. A roof rack opens up the Luštica peninsula day, the boards and bikes ride above the cabin while you take the back road to Žanjice. Theft Protection is the sensible add-on for guests parking overnight on Šetalište Pet Danica or in front of an Igalo apartment, where on-street is normal. A wireless hotspot keeps you connected the moment you cross at Ivanica into Bosnia for the short Trebinje run, where Montenegrin SIMs roam expensively. The e-scooter with charger is the answer for the upper reaches of the Old Town and the Forte Mare staircase, where pedestrian-only is the rule. Add any of these in the booking flow alongside your tier of cross-border cover."
     }
   },
   "destCards": {
@@ -456,12 +464,12 @@
     "h2": "Why a Car Changes Everything Here",
     "p2": "Scheduled buses follow the magistrala and stop. That is the extent of public transport. They will not detour to Rose on the Luštica peninsula, nor climb to Ledenice on Orjen at 700 m, nor reach the back road down to Žanjice. They cannot time a crossing on the Kamenari–Lepetane ferry or pause at the Savina monastery above Igalo. Only your own wheels and a willingness to explore unlock the outer bay properly.",
     "h3": "Fleet and Collection Points",
-    "p3": "We offer collection across the outer bay: central Herceg Novi, Igalo, Bijela, Đenovići, Kumbor (Portonovi), Tivat Airport (40 minutes east) and Dubrovnik Airport (40 minutes west across the Croatian border). Economy hatchbacks thread through Old Town approach roads effortlessly. SUVs handle the Orjen switchbacks without breaking stride. Every vehicle carries full insurance, and cross-border documentation for Croatia, Bosnia, Albania, Serbia, and Kosovo is arranged at the time of booking.",
+    "p3": "We offer collection across the outer bay: central Herceg Novi, Igalo, Bijela, Đenovići, Kumbor (Portonovi), Tivat Airport (40 minutes east) and Dubrovnik Airport (40 minutes west across the Croatian border). Economy hatchbacks thread through Old Town approach roads effortlessly. SUVs handle the Orjen switchbacks without breaking stride. Every vehicle carries full insurance, and cross-border documentation comes in three tiers: Tier 1 for the neighbouring countries excluding Albania and Kosovo (the standard pick from this bay-entrance base, since Dubrovnik via Debeli Brijeg and Trebinje via Ivanica both fall inside it), Tier 2 to add Albania and Kosovo, and Tier 3 for the longer regional loop. Bookable extras, including a roof rack for the Luštica kayak day, three sizes of child seat, a wireless hotspot, an Albanian or Kosovan SIM, Theft Protection for overnight parking on the Topla promenade, Personal Accident Insurance, a Winter Pack, ski and snowboard racks for the rare Orjen snow day, and an e-scooter with charger for the stepped Old Town, are all selectable in the booking flow.",
     "promiseTitle": "What We Stand Behind",
     "promise1": "Full insurance with a zero-excess upgrade on every reservation",
     "promise2": "A named representative at Tivat or Dubrovnik arrivals, sign in hand, vehicle parked outside",
     "promise3": "Transparent pricing, no airport levies, no fuel-policy surprises",
-    "promise4": "Green Card paperwork arranged for five neighbouring countries",
+    "promise4": "Three-tier cross-border cover, with Tier 1 (Croatia, Bosnia, Serbia) the standard pick for the Dubrovnik run from Debeli Brijeg",
     "promise5": "Free cancellation up to seven days before your collection date",
     "promise6": "Round-the-clock roadside support, from Herceg Novi to Žabljak and everywhere in between",
     "h4": "Local Road Knowledge",
@@ -524,8 +532,8 @@
     "greenCardTitle": "The Green Card Explained",
     "greenCardText": "A Green Card (Carte Internationale d'Assurance Automobile) is a standardised document proving your vehicle carries valid third-party insurance in the country you are entering. Border guards request it at every Balkan checkpoint. Without one, you will be turned around.",
     "greenCard1": "Typical cost: around 15 euros for a 15-day period",
-    "greenCard2": "Issued by: the rental company, at no hassle to you, just confirm the countries you plan to visit when booking",
-    "greenCard3": "Standard coverage: Croatia, Bosnia, Albania, Serbia. Kosovo may need to be added separately",
+    "greenCard2": "Issued by: the rental company, at no hassle to you, just confirm the tier you plan to use when booking",
+    "greenCard3": "Three tiers, picked at booking. Tier 1 covers neighbouring countries excluding Albania and Kosovo (the standard pick from a Herceg Novi base, since Croatia via Debeli Brijeg, Bosnia via Ivanica, and Serbia all fall inside it). Tier 2 widens that to include Albania and Kosovo. Tier 3 covers the neighbouring countries plus more distant ones for longer Balkan loops",
     "greenCardWarn": "Before setting off, open the glovebox and verify the Green Card lists every country on your route. A card valid for Croatia alone will not get you into Bosnia. Five minutes of checking saves hours of frustration at the checkpoint.",
     "docsTitle": "Your Border Document Checklist",
     "doc1": "Passport or EU national ID card (must be original, not a photocopy)",
