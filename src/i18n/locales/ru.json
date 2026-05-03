@@ -7,7 +7,9 @@
     "contact": "Контакты",
     "fleet": "Автопарк",
     "whatsappLabel": "Email",
-    "scrollTopLabel": "Наверх"
+    "scrollTopLabel": "Наверх",
+    "darkMode": "Тёмный режим",
+    "lightMode": "Светлый режим"
   },
   "common": {
     "home": "Главная",

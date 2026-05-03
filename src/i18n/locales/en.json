@@ -7,7 +7,9 @@
     "contact": "Contact",
     "fleet": "Fleet",
     "whatsappLabel": "Email",
-    "scrollTopLabel": "Scroll to top"
+    "scrollTopLabel": "Scroll to top",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode"
   },
   "common": {
     "home": "Home",

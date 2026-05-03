@@ -7,7 +7,9 @@
     "contact": "Contatti",
     "fleet": "Flotta",
     "whatsappLabel": "Email",
-    "scrollTopLabel": "Torna su"
+    "scrollTopLabel": "Torna su",
+    "darkMode": "Modalità scura",
+    "lightMode": "Modalità chiara"
   },
   "common": {
     "home": "Home",

@@ -7,7 +7,9 @@
     "contact": "Kontakt",
     "fleet": "Flota",
     "whatsappLabel": "Email",
-    "scrollTopLabel": "Vrati se na vrh"
+    "scrollTopLabel": "Vrati se na vrh",
+    "darkMode": "Tamni način",
+    "lightMode": "Svijetli način"
   },
   "common": {
     "home": "Početna",
