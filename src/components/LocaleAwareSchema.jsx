@@ -105,6 +105,7 @@ export default function LocaleAwareSchema({ lang = 'en', isHomepage = true }) {
     "item": {
       "@type": "Car",
       "name": car.name,
+      "url": car.slug ? `${siteUrl}/cars/${car.slug}` : `${siteUrl}/book`,
       "image": car.image && (car.image.startsWith('http') ? car.image : `${siteUrl}${car.image}`),
       "description": (() => {
         const tpl = pick(t, 'schema.carDescription') || pick(translations.en, 'schema.carDescription') || '{category} rental, {transmission}, {fuel}, {seats} seats';
@@ -123,7 +124,7 @@ export default function LocaleAwareSchema({ lang = 'en', isHomepage = true }) {
         "@type": "Offer",
         "priceCurrency": "EUR",
         "availability": "https://schema.org/InStock",
-        "url": `${siteUrl}/book`,
+        "url": car.slug ? `${siteUrl}/cars/${car.slug}` : `${siteUrl}/book`,
         "priceValidUntil": `${new Date().getFullYear() + 1}-12-31`,
         "priceSpecification": {
           "@type": "UnitPriceSpecification",
